@@ -1,0 +1,3 @@
+reranker,tag,n_questions,share_top15_repeating_sro,share_questions_with_repeat
+none,rule_v2_exact_anydate,54584,0.5385998338951585,0.9958779129415213
+tear,rule_v2_exact_anydate,54584,0.35060457276857687,0.6912648395134106

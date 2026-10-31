@@ -1,0 +1,601 @@
+quid,same_meaning,reason
+3008609,yes,
+3023631,no,first after turned into before
+3036861,yes,
+3037494,yes,
+3047589,no,first after turned into before
+3007439,no,first after turned into prior to
+3016227,no,dropped first
+3044007,yes,
+3045686,yes,
+3040558,yes,
+3030941,no,dropped first
+3041709,yes,
+3040036,no,first after turned into before
+3053677,no,asks about order; target and event garbled
+3035902,yes,
+3055074,no,dropped first
+3042751,yes,
+3032370,yes,
+3017597,yes,
+3000274,no,after turned into before; first dropped
+3045132,no,anchor dropped; rejecter and rejected swapped
+3005776,no,now asks first Foreign Minister of Botswana to visit
+3008037,yes,
+3021246,yes,
+3007051,no,dropped first; anchor changed to completing work
+3033055,yes,
+3000859,yes,
+3050436,no,first after turned into before
+3035854,yes,
+3050023,no,partner role changed to location; anchor reworded as aligning
+3023245,no,anchor changed to establishment of Royal Administration
+3015343,yes,
+3029170,yes,
+3018474,yes,
+3025701,yes,
+3026200,yes,
+3027610,no,dropped first
+3054701,yes,
+3037599,yes,
+3046830,no,dropped first; anchor changed to meeting
+3005415,yes,
+3053133,yes,
+3025189,no,after Thailand turned into in relation to Thailand
+3006467,yes,
+3040586,yes,
+3039455,no,anchor changed to Cypriot media reports
+3021622,yes,
+3021274,yes,
+3033646,no,anchor changed to establishment of Croatia's government
+3010238,yes,
+3047386,no,anchor changed to Libyan rebels emerging
+3051825,no,partner role changed to location (in which country)
+3052630,yes,
+3042131,no,blamer and blamed swapped
+3022803,no,after turned into before
+3001639,yes,
+3052296,yes,
+3027029,no,garbled; adds before and changes anchor
+3026705,yes,
+3033875,no,after China did now reads as China visiting
+3031092,yes,
+3006547,yes,
+3029295,yes,
+3042697,yes,
+3040447,yes,
+3036551,yes,
+3008454,yes,
+3031330,yes,
+3037130,yes,
+3054979,yes,
+3043935,yes,
+3035912,no,dropped first
+3029254,yes,
+3038588,yes,
+3019141,no,anchor changed from praising to visiting Djibouti
+3030920,yes,
+3041043,yes,
+3035102,no,appeal event changed to going to China
+3037564,no,after turned into before; event changed
+3038085,no,dropped first
+3001685,yes,
+3042054,yes,
+3016340,yes,
+3009270,yes,
+3003527,yes,
+3051859,no,after turned into before
+3038467,no,partner role changed to location (in which country)
+3049363,yes,
+3052738,yes,
+3045729,no,garbled passive; dropped first
+3031628,yes,
+3034546,yes,
+3010406,yes,
+3035281,yes,
+3016766,no,dropped first
+3008793,yes,
+3046028,no,wish to visit changed to actual visit
+3051535,yes,
+3033592,yes,
+3049625,yes,
+3034466,no,first after turned into before
+3052531,yes,
+3039945,yes,
+3018440,yes,
+3040752,no,time relation lost; anchor merged into set
+3029595,yes,
+3049304,yes,
+3022706,yes,
+3040055,no,adds new event: graduating from the Academy
+3047542,yes,
+3036758,yes,
+3051315,yes,
+3035076,no,"anchor becomes IDF's actions, not Malaysia's remarks on IDF"
+3029577,yes,
+3031814,yes,
+3014806,yes,
+3021760,yes,
+3019852,no,partner role changed to location (in which country)
+3000714,yes,
+3002310,no,dropped first
+3010914,yes,
+3048209,yes,
+3043651,no,dropped first
+3033677,no,dropped first
+3038437,yes,
+3035819,no,first after turned into before
+3026430,yes,
+3014610,no,dropped first
+3019272,yes,
+3050945,yes,
+3035565,no,dropped first
+3034250,no,dropped first
+3037471,yes,
+3036440,yes,
+3031899,yes,
+3040609,yes,
+3048902,no,first lost; FM becomes the commenter
+3002344,yes,
+3021444,yes,
+3023413,no,after turned into in relation to
+3033652,yes,
+3007066,yes,
+3032225,yes,
+3050695,yes,
+3052633,yes,
+3037797,yes,
+3019166,yes,
+3033271,yes,
+3013242,yes,
+3031337,yes,
+3053476,no,dropped first
+3004569,yes,
+3047692,no,first after turned into before
+3019692,yes,
+3027126,yes,
+3006932,yes,
+3014239,yes,
+3054770,no,dropped first
+3030333,no,dropped first
+3010730,yes,
+3033027,yes,
+3001012,yes,
+3006634,yes,
+3000001,yes,
+3033187,yes,
+3042350,no,dropped first
+3039976,yes,
+3005964,yes,
+3044727,no,dropped first
+3014525,no,first after turned into before
+3018166,no,dropped first
+3008738,no,dropped first
+3045663,yes,
+3003180,no,after turned into before; event changed
+3055111,no,dropped first
+3039971,yes,
+3019810,no,after turned into before
+3049225,yes,
+3055444,yes,
+3046623,no,anchor changed to citizens of China; target becomes location
+3026233,yes,
+3011340,yes,
+3000443,yes,
+3023150,yes,
+3048953,yes,
+3042559,no,anchor entity reads as China's transport event
+3041910,no,anchor changed to military visiting Laos
+3035965,yes,
+3050721,yes,
+3052968,yes,
+3009742,yes,
+3039957,yes,
+3016220,no,after turned into according to
+3034721,yes,
+3042844,yes,
+3009463,no,garbled; after turned into before
+3043760,no,first after turned into before
+3050938,no,dropped first
+3036957,no,negotiate changed to meet
+3021479,no,adds new event: establishment of interim government
+3006186,yes,
+3030397,no,target becomes the organisation; roles swapped
+3048961,no,negotiate changed to meet
+3011489,no,dropped last
+3009652,no,"""China did"" makes China the actor; anchor role changed"
+3042968,no,last turned into first
+3022056,yes,
+3036858,yes,
+3030004,yes,
+3028354,yes,
+3010497,yes,
+3037921,no,anchor changed to a trip to the Middle East
+3014269,no,anchor dropped; target changed to employees
+3027382,no,dropped last; anchor changed to a meeting
+3001119,no,garbled; before turned into after
+3007832,no,time relation lost; anchor became a set
+3028294,yes,
+3005467,yes,
+3003776,yes,
+3025206,no,praiser and praised swapped; anchor dropped
+3047564,yes,
+3025768,no,partner role changed to location (in which country)
+3001932,yes,
+3001921,no,anchor Iraq becomes meeting partner; time relation lost
+3037106,no,wanted to meet changed to met
+3034733,yes,
+3023701,no,dropped last
+3050154,no,wanted to meet changed to met
+3021909,yes,
+3032784,no,garbled; time relation changed to same period
+3023592,yes,
+3008667,yes,
+3036119,no,anchor dropped; previous has no reference
+3033990,yes,
+3041811,yes,
+3045425,no,anchor changed: that country visited Kuwait
+3012299,no,actor changed from men of US to US
+3010944,yes,
+3043331,yes,
+3037804,yes,
+3014933,yes,
+3031524,yes,
+3045813,no,wanted to meet changed to met
+3024391,no,German government becomes the speaker; anchor role changed
+3033409,yes,
+3043909,no,partner role changed to location (in which country)
+3016832,no,anchor changed to Madagascar officials arriving
+3049796,yes,
+3052219,yes,
+3005104,yes,
+3039924,no,partner role changed to location (in which country)
+3028974,no,partner role changed to location (in which country)
+3002495,yes,
+3014137,no,praiser and praised swapped
+3047629,yes,
+3012446,no,anchor entity turned into a Kashmir claim event
+3003301,yes,
+3047663,no,praiser and praised swapped
+3039753,yes,
+3003503,no,before turned into after; dropped last
+3032896,yes,
+3055429,yes,
+3047152,no,Kuwait becomes the praised party; anchor role changed
+3013592,yes,
+3035299,no,before turned into same period
+3052225,yes,
+3049800,no,partner role changed to location (in which country)
+3001482,no,dropped last
+3009246,no,before turned into in relation to
+3047523,yes,
+3038718,no,garbled; Belarus becomes negotiation partner
+3015822,yes,
+3037536,yes,
+3009812,yes,
+3011511,no,anchor event changed from praising to mentioning
+3048502,yes,
+3013380,no,anchor changed from Economist of China to the Economist
+3028329,no,garbled; wish dropped; before turned into after
+3019665,yes,
+3030961,yes,
+3038900,yes,
+3030071,no,partner role changed to location (in which country)
+3005826,yes,
+3027890,no,seeking cooperation changed to engaged in cooperation
+3021967,no,dropped last
+3013508,no,last turned into most negative
+3025050,no,anchor event changed from praising to mentioning
+3012536,no,anchor changed to visiting Djibouti
+3019078,yes,
+3033800,yes,
+3030223,no,wanted to meet changed to met
+3020714,yes,
+3034107,no,giver and receiver of aid swapped
+3012763,yes,
+3023544,no,garbled; before turned into after
+3037783,no,garbled; event and anchor changed
+3035173,yes,
+3032418,no,before turned into in relation to
+3008602,yes,
+3038585,no,last moved to anchor; businessman becomes releaser
+3038403,yes,
+3019729,no,wanted to meet changed to met
+3006975,no,Nigerian citizens become the actor; anchor role changed
+3015493,no,garbled; asks which PM visited
+3016706,yes,
+3000362,yes,
+3006869,yes,
+3033083,yes,
+3023910,no,dropped last
+3029628,yes,
+3039763,yes,
+3049100,no,adds new event: Juan Carlos ascending
+3013135,no,dropped last
+3002086,yes,
+3025630,no,anchor changed to Musharraf's tenure
+3011187,yes,
+3025605,yes,
+3041006,yes,
+3050498,yes,
+3041845,yes,
+3039262,no,partner role changed to location (in which country)
+3015644,yes,
+3008012,yes,
+3045631,no,garbled; target becomes a choice for a visit
+3052631,no,anchor changed to the admiral's intervention
+3020149,no,negotiate changed to meet
+3040557,yes,
+3055199,yes,
+3041416,yes,
+3053728,no,condemner and condemned swapped
+3015494,yes,
+3041650,no,before turned into in relation to
+3021271,no,dropped last; anchor becomes AFP's establishment
+3041098,no,dropped last
+3019345,yes,
+3040552,no,before turned into relative to
+3009489,no,before turned into same period
+3007479,yes,
+3019092,yes,
+3007093,yes,
+3031645,yes,
+3012333,no,dropped last
+3007831,no,wanted to meet changed to met
+3050314,yes,
+3004539,no,praiser and praised swapped; anchor misused
+3055765,yes,
+3025998,yes,
+3053070,yes,
+3013339,yes,
+3047545,yes,
+3046393,no,target of denunciation changed to location
+3007837,no,anchor changed to traveling to China
+3036798,yes,
+3022556,yes,
+3019905,no,anchor changed to visiting Singapore ministry
+3043150,yes,
+3004739,no,anchor China and target role changed
+3020997,no,wanted to negotiate changed to negotiated
+3022659,yes,
+3011581,yes,
+3018880,yes,
+3018575,yes,
+3004674,yes,
+3001083,yes,
+3029931,yes,
+3018628,yes,
+3030102,yes,
+3001172,no,partner role changed to location (in which country)
+3004250,no,dropped last; adds completed investigation
+3007100,yes,
+3016960,yes,
+3001698,yes,
+3022324,yes,
+3008792,no,garbled; accuser and accused roles changed
+3006941,yes,
+3050417,no,adds recognition and Obama taking office
+3040982,yes,
+3042229,yes,
+3025509,yes,
+3022699,yes,
+3033193,yes,
+3044567,no,target role changed to location (in which country)
+3046008,yes,
+3048083,yes,
+3052508,no,before turned into after; dropped last
+3045199,yes,
+3002730,yes,
+3029395,yes,
+3022787,yes,
+3044604,no,anchor changed to visiting Malaysia
+3015593,yes,
+3043597,yes,
+3033674,yes,
+3031029,no,anchor changed to sending to Thailand; dropped last
+3049631,no,anchor changed to military assistance to Belarus
+3008579,yes,
+3050435,yes,
+3027301,yes,
+3036332,no,partner role changed to location; dropped last
+3050058,no,before turned into after
+3054277,yes,
+3051202,yes,
+3013195,no,partner role changed to location (in which country)
+3020988,yes,
+3015521,yes,
+3052715,yes,
+3045341,yes,
+3019299,yes,
+3003125,no,denouncer and denounced swapped
+3040863,no,target changed to a month
+3039618,yes,
+3024000,yes,
+3048632,no,negotiated changed to met
+3001446,yes,
+3014964,no,target changed to a day
+3038043,yes,
+3017841,yes,
+3015297,yes,
+3040393,yes,
+3053396,no,target becomes location; anchor becomes visit to Thailand
+3042698,no,target changed to a month
+3044223,no,target changed to a month
+3050957,yes,
+3006590,yes,
+3015837,no,supported changed to was with
+3042677,yes,
+3022702,yes,
+3016924,no,partner role changed to location (in which organization)
+3031925,yes,
+3050431,no,target changed to a month
+3001247,yes,
+3029705,no,target changed to a day
+3053359,yes,
+3018565,no,target changed to a day
+3010577,yes,
+3030543,yes,
+3003055,yes,
+3040058,no,visited changed to met
+3055846,no,target changed to a day
+3006196,no,target changed to a year
+3008570,no,target changed to a month
+3033821,yes,
+3006602,no,target changed to a year
+3006371,yes,
+3002186,no,target changed to a day; roles garbled
+3006791,no,praiser becomes praised; Thailand dropped
+3028581,no,anchor changed to establishment of Royal Administration
+3019168,no,"anchor becomes Somsavat's visit, not hosting"
+3032685,yes,
+3035308,yes,
+3054219,yes,
+3035948,no,target now includes the month
+3016192,yes,
+3001733,no,target changed to a year; roles garbled
+3023339,no,partner role changed to location (in which country)
+3031456,no,anchor changed to South Korean business activities
+3006794,yes,
+3022604,yes,
+3020694,yes,
+3020339,no,target changed to a month
+3012583,yes,
+3042996,yes,
+3023068,yes,
+3036294,no,anchor garbled: dissident was dissipated
+3011690,yes,
+3042954,yes,
+3006787,no,target changed to a month
+3009678,yes,
+3029750,no,target changed to a year
+3036260,yes,
+3039749,yes,
+3052027,yes,
+3029679,yes,
+3037412,yes,
+3030262,no,target changed to a month
+3021452,yes,
+3049257,yes,
+3013392,no,partner role changed to location (in which country)
+3043510,no,anchor changed to Egyptian head being in office
+3007884,yes,
+3012025,no,anchor turned into a source (according to)
+3001395,no,partner role changed to location (in which country)
+3001039,no,UK lawmakers become intermediaries; event changed
+3014620,yes,
+3026123,yes,
+3022895,yes,
+3013920,yes,
+3016721,yes,
+3007419,yes,
+3052532,yes,
+3034264,no,condemned changed to declared guilty
+3032611,no,partner role changed to location (in which organization)
+3005068,no,partner role changed to location (in which country)
+3046569,no,garbled; requester and roles changed
+3009505,yes,
+3030183,yes,
+3002200,no,partner role changed to location (in which country)
+3035415,yes,
+3048033,yes,
+3053660,yes,
+3045662,no,target becomes location; anchor made vague
+3028053,yes,
+3045472,no,target changed to a month
+3014003,no,investigated changed to visited
+3018399,no,recipient role changed to location (in which country)
+3034646,yes,
+3028537,yes,
+3041889,no,adds new event: voting
+3041396,no,anchor Mahdi Army merged into the target
+3016873,no,target changed to a month
+3003087,yes,
+3036122,no,target changed to a year
+3046706,no,anchor turned into a source (according to)
+3000870,no,Malaysia becomes the visited party; anchor role changed
+3034326,no,South Africa becomes visited; anchor role changed
+3054590,yes,
+3012701,no,target changed to a year; anchor changed
+3025793,no,target changed to a month
+3003201,no,Oman anchor dropped; target becomes location
+3054083,no,anchor changed to North Korea; China dropped
+3011731,no,target changed to a year
+3037144,yes,
+3027797,no,target changed to a year; event changed
+3047719,yes,
+3008083,no,target changed to a year
+3051394,no,target changed to a year; roles garbled
+3041476,no,target changed to a month
+3050560,yes,
+3048344,yes,
+3021649,yes,
+3038809,no,target changed to a month
+3054429,yes,
+3019484,yes,
+3052913,no,target changed to a day
+3043688,yes,
+3012207,no,object Iraq dropped
+3030577,no,wish to negotiate changed to likely to negotiate
+3045924,no,target changed to a month
+3014544,no,target changed to a month
+3018699,yes,
+3047501,no,target changed to a day
+3010739,yes,
+3020105,no,target changed to a year
+3019460,yes,
+3025197,yes,
+3034795,yes,
+3025106,yes,
+3029991,yes,
+3044984,no,target changed to a month
+3025930,yes,
+3050103,yes,
+3043666,yes,
+3036833,yes,
+3031623,yes,
+3016583,yes,
+3009941,yes,
+3008444,no,anchor changed to the ministry being active
+3034332,yes,
+3022440,yes,
+3008268,no,partner role changed to location (in which country)
+3026326,no,target changed to a day
+3049803,yes,
+3000479,yes,
+3052908,yes,
+3045161,yes,
+3053291,yes,
+3046310,yes,
+3028589,no,partner role garbled into during which country
+3038449,no,Ethiopia changes from actor to partner; roles swapped
+3022266,no,object China dropped
+3043847,no,object Iraq dropped; anchor changed
+3034947,yes,
+3009156,no,target changed to a month
+3004751,yes,
+3015996,yes,
+3020075,yes,
+3029871,yes,
+3040634,yes,
+3014002,yes,
+3007400,yes,
+3039608,yes,
+3041155,no,Cambodia dropped; target and anchor changed
+3005518,yes,
+3055985,yes,
+3050449,no,partner role changed to location (in which country)
+3001146,yes,
+3029220,no,garbled; host role and target changed
+3011613,yes,
+3047085,no,partner role changed to location (in which country)
+3047064,yes,
+3038065,no,target changed to a month
+3031725,yes,
+3016367,no,target changed to a month
+3031177,no,partner role changed to location (in which country)
+3002558,yes,
+3021247,yes,
+3020477,yes,
+3029630,no,anchor changed to Musharraf being in power
+3053705,no,target becomes topic of discussion
+3054118,yes,

@@ -1,0 +1,9 @@
+subset,form,count,missed_total
+valid,preceding,11,33
+valid,following mid-sentence,2,33
+valid,same period without preposition,19,33
+valid,other,1,33
+valid and judged same,preceding,8,12
+valid and judged same,following mid-sentence,2,12
+valid and judged same,same period without preposition,2,12
+valid and judged same,other,0,12

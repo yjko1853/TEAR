@@ -1,0 +1,19 @@
+[2026-10-18 00:27:35] chunk 0-1000 setting none prompt v3
+finished 419 questions in 2191s (5.23 s/question) -> results/qwen_ground/none_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 01:04:10] chunk 0-1000 setting tear_window prompt v3
+finished 512 questions in 2673s (5.22 s/question) -> results/qwen_ground/tear_window_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 01:48:47] chunk 0-1000 setting timer4 prompt v3
+finished 457 questions in 2478s (5.42 s/question) -> results/qwen_ground/timer4_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 02:30:10] chunk 0-1000 setting timer4_public prompt v3
+finished 745 questions in 3902s (5.24 s/question) -> results/qwen_ground/timer4_public__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 03:35:16] chunk 0-1000 setting tear prompt v3
+finished 1000 questions in 5457s (5.46 s/question) -> results/qwen_ground/tear_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 05:06:18] chunk 0-1000 setting atc prompt v3
+finished 1000 questions in 5351s (5.35 s/question) -> results/qwen_ground/atc_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 06:35:33] chunk 0-1000 setting tr prompt v3
+finished 1000 questions in 5363s (5.36 s/question) -> results/qwen_ground/tr_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 08:05:01] chunk 0-1000 done; see results/qwen_ground_scores/
+[2026-10-18 08:05:01] chunk 1000-2000 setting none prompt v3
+finished 1000 questions in 5254s (5.25 s/question) -> results/qwen_ground/none_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 09:32:39] chunk 1000-2000 setting tear_window prompt v3
+400/1000 done, 5.59 s/question, ETA 0.93 h

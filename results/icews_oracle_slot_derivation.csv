@@ -1,0 +1,16 @@
+answer_type,level,n,derived_rate
+duration,simple,997,0.0
+object,complex,669,0.9970104633781763
+object,medium,1137,0.9938434476693052
+object,simple,1021,0.9990205680705191
+relation_duration,complex,460,0.0
+relation_duration,medium,998,0.0
+relation_ranking,complex,512,0.0
+relation_union_or_intersection,complex,995,0.0
+relation_union_or_intersection,medium,2016,0.0
+subject,complex,661,0.9969742813918305
+subject,medium,1179,0.9957591178965225
+subject,simple,1051,0.9980970504281637
+timestamp_end,simple,1013,0.9970384995064165
+timestamp_range,simple,972,1.0
+timestamp_start,simple,940,0.997872340425532

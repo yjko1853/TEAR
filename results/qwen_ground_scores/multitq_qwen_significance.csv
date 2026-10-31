@@ -1,0 +1,7 @@
+setting,prompt,model,baseline,n,diff,ci_low,ci_high,bootstrap_p,mcnemar_p
+atc_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,none_rule_v2_ground_exact_anydate,6000,0.011166666666666667,0.0036666666666666666,0.0185,0.0036,0.0036339084095117886
+tear_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,none_rule_v2_ground_exact_anydate,6000,0.04633333333333333,0.036166666666666666,0.0565,0.0,1.5510858679370503e-18
+tear_window_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,none_rule_v2_ground_exact_anydate,6000,0.08616666666666667,0.07532916666666667,0.09716666666666667,0.0,3.9869618370423497e-51
+timer4_public,v3,Qwen2.5-7B-Instruct-4bit,none_rule_v2_ground_exact_anydate,6000,0.06833333333333333,0.0585,0.07833333333333334,0.0,2.8780412922581934e-40
+timer4_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,none_rule_v2_ground_exact_anydate,6000,0.028333333333333332,0.022,0.0345,0.0,6.451678970662478e-18
+tr_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,none_rule_v2_ground_exact_anydate,6000,0.030166666666666668,0.022166666666666668,0.03833333333333333,0.0,5.531945346036454e-13

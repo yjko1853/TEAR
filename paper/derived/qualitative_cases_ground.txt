@@ -1,0 +1,84 @@
+== S1 | before_last | quid 3034560 | class -
+   question        : Before China, which was the last country to host a visit by Sheikh Ahmed Abdullah?
+   gold            : Qatar
+   slot            : object
+   topic           : Sheikh Ahmed Abdullah
+   anchor          : China
+   anchor_relation : Make a visit
+   anchor_date     : 2007-04-30
+   none_reader     : China
+   tw_reader       : Qatar
+   none_gold_rank15: None
+   tw_gold_rank15  : 1
+   none            : China Host a visit Sheikh Ahmed Abdullah, 2007-04-30 || Sheikh Ahmed Abdullah Make a visit China, 2007-04-30 || China Host a visit Ali Abdullah Saleh, 2009-12-28
+   tear_window     : Sheikh Ahmed Abdullah Make a visit Qatar, 2006-03-07 || China Host a visit Shaukat Aziz, 2007-04-22 || Head of Government (Pakistan) Host a visit Wen Jiabao, 2005-04-05
+== S2 | equal | quid 3012560 | class -
+   question        : Who wants to negotiate with Kuwait in 2014?
+   gold            : Ali Jannati | John Baird | Catherine Ashton | Abdullah Gül | Nabih Berri | María Ángela Holguín | Juan Carlos I | Ministry (Iran)
+   slot            : subject
+   topic           : Kuwait
+   anchor          : None
+   anchor_relation : None
+   anchor_date     : None
+   none_reader     : Iraq
+   tw_reader       : Ministry (Iran)
+   none_gold_rank15: None
+   tw_gold_rank15  : 1
+   none            : Kuwait Engage in negotiation Iran, 2014-06-03 || Kuwait Engage in negotiation Iraq, 2015-08-01 || Kuwait Express intent to meet or negotiate Iran, 2014-05-23
+   tear_window     : Ministry (Iran) Express intent to meet or negotiate Kuwait, 2014-10-21 || Ministry (Iran) Express intent to meet or negotiate Kuwait, 2014-10-23 || United Arab Emirates Engage in negotiation Kuwait, 2014-07-08
+== S3 | first_last | quid 3000736 | class -
+   question        : At what time did Iraq first reject the Defense Security Ministry of United States?
+   gold            : 2015-05-25
+   slot            : timestamp
+   topic           : Defense / Security Ministry (United States)
+   anchor          : None
+   anchor_relation : None
+   anchor_date     : None
+   none_reader     : 2015-05-26
+   tw_reader       : 2015-05-25
+   none_gold_rank15: 2
+   tw_gold_rank15  : 1
+   none            : Iraq Reject Defense / Security Ministry (United States), 2015-05-26 || Iraq Reject Defense / Security Ministry (United States), 2015-05-25 || Iraq Consult Defense / Security Ministry (United States), 2005-12-22
+   tear_window     : Iraq Reject Defense / Security Ministry (United States), 2015-05-25 || Iraq Consult Defense / Security Ministry (United States), 2005-12-22 || Defense / Security Ministry (United States) Consult Iraq, 2005-12-22
+== F1 | equal_multi | quid 3002799 | class A
+   question        : Who made optimistic comments about the Association of Southeast Asian Nations in the same year as Malaysia?
+   gold            : Zhang Deguang | Japan
+   slot            : subject
+   topic           : Association of Southeast Asian Nations
+   anchor          : Malaysia
+   anchor_relation : Praise or endorse
+   anchor_date     : 2015-11-03
+   none_reader     : 2008-10-21
+   tw_reader       : 2015-02-24
+   none_gold_rank15: None
+   tw_gold_rank15  : None
+   none            : Foreign Affairs (Malaysia) Make optimistic comment Association of Southeast Asian Nations, 2008-10-21 || Malaysia Praise or endorse Association of Southeast Asian Nations, 2015-11-03 || Malaysia Make optimistic comment Association of Southeast Asian Nations, 2005-03-17
+   tear_window     : Foreign Affairs (Malaysia) Make statement Association of Southeast Asian Nations, 2015-11-20 || Foreign Affairs (Malaysia) Make statement Association of Southeast Asian Nations, 2015-06-08 || Foreign Affairs (Malaysia) Make statement Association of Southeast Asian Nations, 2015-12-01
+== F2 | before_after | quid 3043572 | class B
+   question        : Before 29 Nov 2008, who visited the Comoros?
+   gold            : Iran | African Union | Sudan | Ministry (Sudan) | Military (Senegal)
+   slot            : subject
+   topic           : Comoros
+   anchor          : None
+   anchor_relation : None
+   anchor_date     : None
+   none_reader     : African Union
+   tw_reader       : Madagascar
+   none_gold_rank15: 7
+   tw_gold_rank15  : 2
+   none            : Ramtane Lamamra Make a visit Comoros, 2010-06-07 || Other Authorities / Officials (Madagascar) Host a visit Comoros, 2007-11-09 || Mahmoud Ahmadinejad Make a visit Comoros, 2009-02-26
+   tear_window     : Other Authorities / Officials (Madagascar) Host a visit Comoros, 2007-11-09 || African Union Make a visit Comoros, 2008-03-11 || African Union Make a visit Comoros, 2008-03-25
+== F3 | after_first | quid 3029207 | class C
+   question        : After Lockwood Smith, who was the first to make pessimistic remarks about Thailand?
+   gold            : Citizen (Thailand)
+   slot            : subject
+   topic           : Thailand
+   anchor          : Lockwood Smith
+   anchor_relation : Make pessimistic comment
+   anchor_date     : 2006-10-06
+   none_reader     : Prem Tinsulanonda
+   tw_reader       : 2006-10-13
+   none_gold_rank15: 4
+   tw_gold_rank15  : 1
+   none            : Lockwood Smith Make pessimistic comment Thailand, 2006-10-06 || Lockwood Smith Make statement Member of Parliament (Thailand), 2006-07-20 || Prem Tinsulanonda Make pessimistic comment Thailand, 2011-01-07
+   tear_window     : Governor (Thailand) Make pessimistic comment Citizen (Thailand), 2006-12-18 || Abhisit Vejjajiva Make pessimistic comment Cabinet / Council of Ministers / Advisors (Thailand), 2011-08-11 || Citizen (Thailand) Make pessimistic comment Abhisit Vejjajiva, 2008-12-15

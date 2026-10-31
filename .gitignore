@@ -1,0 +1,19 @@
+# third-party clones and generated artefacts
+external/
+cache/
+figures/
+# logs/: only the driver scripts and the small records cited by the paper are tracked
+logs/*
+!logs/*.sh
+!logs/timing.csv
+!logs/timeline_prompt_choice.json
+!logs/qwen_ground_run.log
+!logs/qwen_ground_dedup_run.log
+!logs/timeline_reader.log
+
+# environments and caches
+.venv*/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

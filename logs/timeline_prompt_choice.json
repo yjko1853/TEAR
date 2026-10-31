@@ -1,0 +1,16 @@
+{
+ "prompt": "v3i",
+ "rule": "exact Hit@1, then lenient, ties -> v3; 'none' reranker; 60+60 validation questions",
+ "scores": {
+  "v3": {
+   "exact": 0.16666666666666666,
+   "lenient": 0.16666666666666666,
+   "n": 120
+  },
+  "v3i": {
+   "exact": 0.175,
+   "lenient": 0.19166666666666668,
+   "n": 120
+  }
+ }
+}

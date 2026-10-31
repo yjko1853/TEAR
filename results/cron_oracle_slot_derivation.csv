@@ -1,0 +1,16 @@
+answer_type,level,n,derived_rate
+duration,simple,397,0.0
+object,complex,805,1.0
+object,medium,795,1.0
+object,simple,403,1.0
+relation_duration,complex,402,0.0
+relation_duration,medium,389,0.0
+relation_ranking,complex,454,0.0
+relation_union_or_intersection,complex,774,0.0
+relation_union_or_intersection,medium,803,0.0
+subject,complex,758,1.0
+subject,medium,764,1.0
+subject,simple,433,1.0
+timestamp_end,simple,390,1.0
+timestamp_range,simple,386,1.0
+timestamp_start,simple,391,1.0

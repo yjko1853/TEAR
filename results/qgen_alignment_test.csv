@@ -1,0 +1,9 @@
+qtype,answer_type,ambiguous,delex_fail,none,resolved,unique
+after_first,entity,878,137,1567,1319,2365
+before_after,entity,543,177,1339,2545,6469
+before_last,entity,791,160,1560,1418,2318
+equal,entity,415,0,35,5488,5350
+equal,time,371,162,1069,1987,2434
+equal_multi,entity,202,68,376,1310,1251
+first_last,entity,72,0,21,365,161
+first_last,time,293,218,1818,4139,3393

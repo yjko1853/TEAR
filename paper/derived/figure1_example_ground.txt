@@ -1,0 +1,19 @@
+question: What was the last country to visit Kuwait before the Council of Representatives? | answers ['France'] | slot {'answer_slot': 'subject', 'topic_entity': 'Kuwait', 'topic_source': 'rule_main_clause'}
+anchor: {'type': 'before', 'phrase': 'the Council of Representatives', 'status': 'resolved', 'anchor': 'Council of Representatives', 'anchor_source': 'mention', 'relation': 'Make a visit', 'date': '2009-07-03', 'n_dates': 1, 'qtype': 'before_last', 'timer4_date': '2009-07-03'}
+similarity rank of 'France Make a visit Kuwait in 2009-06-22': [91]
+none
+  Council of Representatives Make a visit Kuwait in 2009-07-03
+  Kuwait Host a visit Council of Representatives in 2009-07-03
+  Kuwait Host a visit Supreme Council (Iraq) in 2011-08-18
+atc
+  Supreme Council (Iraq) Make a visit Kuwait in 2011-08-18
+  Supreme Council (Iraq) Make a visit Kuwait in 2012-03-16
+  Iraq Make a visit Kuwait in 2010-04-28
+tr
+  Kuwait Make a visit Ali Abdullah Saleh in 2005-09-19
+  Kuwait Host a visit Cabinet / Council of Ministers / Advisors (United States) in 2007-02-25
+  Kuwait Host a visit Iraq in 2009-06-05
+tear
+  France Make a visit Kuwait in 2009-06-22
+  Qatar Host a visit Kuwait in 2009-03-04
+  UN Security Council Meet at a 'third' location Head of Government (Qatar) in 2009-01-10

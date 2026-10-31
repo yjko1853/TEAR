@@ -1,0 +1,8 @@
+qtype,anchor_type,n_qtype,n_anchored,resolved,by_mention,n_with_timer4_date,resolved_with_timer4_date,agree_day,agree_month,agree_year,status_resolved,status_no_anchor_entity,status_anchor_is_topic,status_no_topic
+after_first,after,1000,993,0.9879154078549849,0.9510703363914373,0,0,,,,981,12,0,0
+before_after,after,1000,215,0.9813953488372092,0.957345971563981,0,0,,,,211,4,0,0
+before_after,before,1000,240,0.9916666666666667,0.957983193277311,0,0,,,,238,2,0,0
+before_last,before,1000,998,0.9899799599198397,0.9504048582995951,0,0,,,,988,10,0,0
+equal_multi,day,1000,129,0.9844961240310077,0.984251968503937,0,0,,,,127,2,0,0
+equal_multi,month,1000,330,0.9878787878787879,0.9570552147239264,0,0,,,,326,4,0,0
+equal_multi,year,1000,134,0.9850746268656716,0.9545454545454546,0,0,,,,132,2,0,0

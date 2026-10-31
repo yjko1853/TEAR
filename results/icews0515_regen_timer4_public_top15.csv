@@ -1,0 +1,12 @@
+group_type,group,n,coverage@15
+overall,all,6000,0.0
+qtype,after_first,1000,0.0
+qtype,before_after,1000,0.0
+qtype,before_last,1000,0.0
+qtype,equal,1000,0.0
+qtype,equal_multi,1000,0.0
+qtype,first_last,1000,0.0
+answer_type,entity,4716,0.0
+answer_type,time,1284,0.0
+qlabel,Multiple,3000,0.0
+qlabel,Single,3000,0.0

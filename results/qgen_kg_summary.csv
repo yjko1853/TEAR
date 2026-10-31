@@ -1,0 +1,5 @@
+facts,entities_used,relations,days,facts_in_repeated_sro,kg,scope
+461329,10488,251,4017,0.7499832007092552,multitq,all relations
+468558,23033,256,304,0.5598367758100384,icews18,all relations
+242926,8057,22,4017,0.7616763952808674,multitq,22 MultiTQ relations
+233269,16579,22,304,0.5642412836682114,icews18,22 MultiTQ relations

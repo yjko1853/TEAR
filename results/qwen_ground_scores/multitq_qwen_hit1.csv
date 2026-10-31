@@ -1,0 +1,8 @@
+setting,prompt,model,n,hit1_exact,hit1_lenient,hit_any_lenient,after_first,before_after,before_last,equal,equal_multi,first_last
+atc_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,6000,0.2465,0.32266666666666666,0.3585,0.067,0.494,0.095,0.386,0.089,0.348
+none_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,6000,0.23533333333333334,0.31016666666666665,0.3423333333333333,0.058,0.463,0.082,0.385,0.082,0.342
+tear_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,6000,0.2816666666666667,0.349,0.385,0.192,0.494,0.188,0.386,0.08,0.35
+tear_window_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,6000,0.3215,0.3888333333333333,0.424,0.209,0.662,0.194,0.386,0.128,0.35
+timer4_public,v3,Qwen2.5-7B-Instruct-4bit,6000,0.30366666666666664,0.38,0.4191666666666667,0.231,0.381,0.208,0.58,0.076,0.346
+timer4_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,6000,0.26366666666666666,0.339,0.3745,0.058,0.481,0.234,0.385,0.082,0.342
+tr_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,6000,0.2655,0.33166666666666667,0.36916666666666664,0.153,0.463,0.181,0.385,0.065,0.346

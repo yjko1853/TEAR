@@ -1,0 +1,16 @@
+level,answer_type,n,parsed,window,keeps,anchor_atc
+complex,object,669,1.0,1.0,0.21524215246636774,0.0
+complex,relation_duration,460,0.0,0.0,,0.0
+complex,relation_ranking,512,0.0,0.0,,0.0
+complex,relation_union_or_intersection,995,0.4824120603015075,0.4824120603015075,0.7274270833333334,0.0
+complex,subject,661,1.0,1.0,0.25393192133131615,0.0
+medium,object,1137,1.0,1.0,0.5331125769569042,0.0
+medium,relation_duration,998,0.0,0.0,,0.0
+medium,relation_union_or_intersection,2016,0.48412698412698413,0.48412698412698413,0.8311649590163934,0.0
+medium,subject,1179,1.0,1.0,0.5409491094147583,0.0
+simple,duration,997,0.0,0.0,,0.0
+simple,object,1021,0.0,0.0,,0.0
+simple,subject,1051,0.0,0.0,,0.0
+simple,timestamp_end,1013,0.0,0.0,,0.0
+simple,timestamp_range,972,0.45987654320987653,0.45987654320987653,0.3186308724832215,0.0
+simple,timestamp_start,940,0.0,0.0,,0.0

@@ -1,0 +1,4 @@
+setting,prompt,model,baseline,n,diff,ci_low,ci_high,bootstrap_p,mcnemar_p
+tear_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,none_rule_v2_ground_exact_anydate,2000,0.039,0.0225,0.0555,0.0,3.291457199798861e-06
+tear_window_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,none_rule_v2_ground_exact_anydate,2000,0.1015,0.082,0.121,0.0,1.339509269920583e-23
+timer4_rule_v2_ground_exact_anydate,v3,Qwen2.5-7B-Instruct-4bit,none_rule_v2_ground_exact_anydate,2000,0.004,-0.007,0.015,0.5018,0.5262438434591223

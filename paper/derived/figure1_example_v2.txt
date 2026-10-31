@@ -1,0 +1,17 @@
+question: What was the last country to visit Kuwait before 2009-07-03? | answers ['France'] | slot {'answer_slot': 'subject', 'topic_entity': 'Kuwait', 'topic_source': 'rule_main_clause'}
+none
+  Kuwait Make a visit Iraq in 2012-04-28
+  Iraq Make a visit Kuwait in 2009-02-18
+  Kuwait Make a visit Iraq in 2012-04-29
+atc
+  Iraq Make a visit Kuwait in 2009-02-18
+  Iraq Make a visit Kuwait in 2010-04-28
+  Iraq Make a visit Kuwait in 2009-06-05
+tr
+  Kuwait Host a visit Iraq in 2009-06-05
+  Kuwait Make a visit Ali Abdullah Saleh in 2005-09-19
+  France Make a visit Kuwait in 2009-06-22
+tear
+  France Make a visit Kuwait in 2009-06-22
+  Qatar Host a visit Kuwait in 2009-03-04
+  Iraq Make statement Kuwait in 2009-05-15

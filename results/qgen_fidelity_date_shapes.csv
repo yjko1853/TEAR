@@ -1,0 +1,68 @@
+time_level,shape,share,set
+day,{D} {Month} {YYYY},0.8672679149103029,multitq_test
+day,{D} {Mon} {YYYY},0.04117243407509068,multitq_test
+day,"{Month} {Dth}, {YYYY}",0.02382119400058818,multitq_test
+day,"{Mon} {Dth}, {YYYY}",0.02205666111165572,multitq_test
+day,{YYYY}-{MM}-{D},0.013430055876874816,multitq_test
+day,"{Month} {D}, {YYYY}",0.010097049308891284,multitq_test
+day,"{Mon} {D}, {YYYY}",0.009116753259484365,multitq_test
+day,{D}.{MM}.{YYYY},0.009116753259484365,multitq_test
+month,{Month} {YYYY},0.5814363860949356,multitq_test
+month,{YYYY}-{MM},0.1540497617787189,multitq_test
+month,"{Mon}, {YYYY}",0.13569790012352215,multitq_test
+month,"{Month}, {YYYY}",0.04270337038997706,multitq_test
+month,{Mon} {YYYY},0.02788071289924122,multitq_test
+month,"{Month}, the year of {YYYY}",0.015352038115404976,multitq_test
+month,"{Mon}, the year of {YYYY}",0.01394035644962061,multitq_test
+month,"{Mon}, the year {YYYY}",0.009528851244044468,multitq_test
+year,{YYYY},0.9259857789269554,multitq_test
+year,the year {YYYY},0.050096961861667746,multitq_test
+year,the year of {YYYY},0.023917259211376857,multitq_test
+day,{D} {Month} {YYYY},0.8844444444444445,icews0515_regen
+day,{D} {Mon} {YYYY},0.02666666666666667,icews0515_regen
+day,"{Month} {Dth}, {YYYY}",0.022222222222222223,icews0515_regen
+day,{YYYY}-{MM}-{D},0.02074074074074074,icews0515_regen
+day,"{Mon} {Dth}, {YYYY}",0.017777777777777778,icews0515_regen
+day,"{Mon} {D}, {YYYY}",0.01037037037037037,icews0515_regen
+day,{D}.{MM}.{YYYY},0.007407407407407408,icews0515_regen
+day,"{Month} {D}, {YYYY}",0.005925925925925926,icews0515_regen
+month,{Month} {YYYY},0.649616368286445,icews0515_regen
+month,{YYYY}-{MM},0.14578005115089515,icews0515_regen
+month,"{Mon}, {YYYY}",0.10485933503836317,icews0515_regen
+month,"{Month}, {YYYY}",0.061381074168797956,icews0515_regen
+month,{Mon} {YYYY},0.02557544757033248,icews0515_regen
+month,"{Mon}, the year of {YYYY}",0.0076726342710997444,icews0515_regen
+month,"{Month}, the year of {YYYY}",0.0025575447570332483,icews0515_regen
+month,"{Month}, the year {YYYY}",0.0025575447570332483,icews0515_regen
+year,{YYYY},0.9766949152542372,icews0515_regen
+year,the year {YYYY},0.01694915254237288,icews0515_regen
+year,the year of {YYYY},0.006355932203389831,icews0515_regen
+day,{D} {Month} {YYYY},0.8910505836575876,icews18_test
+day,{D} {Mon} {YYYY},0.03501945525291829,icews18_test
+day,"{Month} {Dth}, {YYYY}",0.020752269779507133,icews18_test
+day,{YYYY}-{MM}-{D},0.019455252918287938,icews18_test
+day,"{Mon} {Dth}, {YYYY}",0.018158236057068743,icews18_test
+day,"{Month} {D}, {YYYY}",0.00648508430609598,icews18_test
+day,"{D} {Mon}, {YYYY}",0.005188067444876783,icews18_test
+day,the {Dth} of {Month} {YYYY},0.0025940337224383916,icews18_test
+month,{Month} {YYYY},0.6550868486352357,icews18_test
+month,{YYYY}-{MM},0.141439205955335,icews18_test
+month,"{Mon}, {YYYY}",0.10669975186104218,icews18_test
+month,{Mon} {YYYY},0.03225806451612903,icews18_test
+month,"{Month}, {YYYY}",0.02729528535980149,icews18_test
+month,"{Mon}, the year of {YYYY}",0.019851116625310174,icews18_test
+month,"{Mon}, the year {YYYY}",0.009925558312655087,icews18_test
+month,"{Month}, the year {YYYY}",0.0024813895781637717,icews18_test
+day,{D} {Month} {YYYY},0.9263803680981595,icews18_dev
+day,{D} {Mon} {YYYY},0.03680981595092025,icews18_dev
+day,{YYYY}-{MM}-{D},0.006134969325153374,icews18_dev
+day,"the {Dth} of {Month}, {YYYY}",0.006134969325153374,icews18_dev
+day,{D}.{MM}.{YYYY},0.006134969325153374,icews18_dev
+day,the {Dth} of {Month} {YYYY},0.006134969325153374,icews18_dev
+day,"{Month} {Dth}, {YYYY}",0.006134969325153374,icews18_dev
+day,"{Mon} {Dth}, {YYYY}",0.006134969325153374,icews18_dev
+month,{Month} {YYYY},0.7010309278350515,icews18_dev
+month,{YYYY}-{MM},0.13402061855670103,icews18_dev
+month,"{Mon}, {YYYY}",0.12371134020618557,icews18_dev
+month,"{Month}, {YYYY}",0.020618556701030927,icews18_dev
+month,{Mon} {YYYY},0.020618556701030927,icews18_dev

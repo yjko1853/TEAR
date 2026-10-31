@@ -1,0 +1,23 @@
+relation,phrases
+Accuse,accused {O} | blamed {O} | negotiated with {O}
+Criticize or denounce,criticised {O} | denounced {O} | condemned {O}
+Discuss by telephone,had a telephone conversation with {O}
+Engage in negotiation,negotiated with {O} | was negotiating with {O} | started negotiations with {O}
+Express intent to cooperate,wanted to cooperate with {O} | expressed an interest in cooperation with {O} | expressed interest in cooperation with {O}
+Express intent to engage in diplomatic cooperation (such as policy support),wanted to establish diplomatic cooperation with {O} | wanted to participate in diplomatic cooperation with {O} | would like to participate in diplomatic cooperation with {O}
+Express intent to meet or negotiate,wanted to negotiate with {O} | wanted to meet with {O} | expressed the intention to meet with {O}
+Host a visit,
+Investigate,investigated {O} | was investigating {O} | did {O} investigate
+Make a visit,visited {O} | paid a visit to {O} | would wish to visit {O}
+Make an appeal or request,made an appeal to {O} | made a request to {O} | asked for {O}
+Make optimistic comment,made optimistic remarks about {O} | made optimistic comments about {O} | spoke optimistically about {O}
+Make pessimistic comment,made pessimistic remarks about {O} | made negative remarks about {O} | made negative comments about {O}
+Praise or endorse,praised {O} | supported {O} | visited {O}
+Provide humanitarian aid,provided humanitarian aid to {O} | gave humanitarian aid to {O} | sent humanitarian aid to {O}
+Reject,rejected {O} | declined {O} | negotiated with {O}
+"Return, release person(s)",released people to {O} | returned people to {O}
+Sign formal agreement,signed an agreement with {O} | signed formal agreements with {O} | formally signed an agreement with {O}
+Threaten,threatened {O} | is {O} threatened by | is threatening {O}
+Use conventional military force,used conventional military force against {O} | made {O} suffer from conventional military forces | made {O} suffer with conventional military forces
+Use unconventional violence,used unconventional force against {O} | made {O} suffer from unconventional violence | used unconventional violence against {O}
+fight with small arms and light weapons,used small arms and light weapons to attack {O} | attacked {O} with small arms and light weapons | used small arms and light weapons against {O}

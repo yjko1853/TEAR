@@ -1,0 +1,3 @@
+rules,judged,correct,accuracy,wilson_low,wilson_high
+"orig wording, rules v2 before fixes d-e (blind)",98,96,0.9795918367346939,0.9286164917311492,0.9943855035242277
+"orig wording, current rules v2 (not blind)",98,97,0.9897959183673469,0.9444438369076963,0.9981964986722632

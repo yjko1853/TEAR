@@ -1,0 +1,7 @@
+qtype,n,empty_rewrite,cue,cue_missing_in_rewrite,cue_present_in_original_of_those,cue_missing_and_empty
+after_first,6266,119,first,168.0,168.0,119.0
+before_after,11073,0,,,,
+before_last,6247,143,last,211.0,211.0,143.0
+equal,17311,0,,,,
+equal_multi,3207,79,,,,
+first_last,10480,0,,,,

@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tear-tkgqa"
+version = "2.0.0"
+description = "TEAR: training-free temporal-constraint and answer-type aware reranking for temporal KGQA"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "torch",
+    "sentence-transformers>=3.4",
+    "transformers>=4.49",
+    "faiss-cpu",
+    "rapidfuzz",
+    "fuzzywuzzy",
+    "python-Levenshtein",
+]
+
+[project.optional-dependencies]
+mlx = ["mlx-lm"]          # local LLM reader on Apple silicon (separate environment recommended)
+dev = ["pytest"]
+figures = ["matplotlib"]  # scripts/26_make_figures.py
+
+[tool.setuptools.packages.find]
+include = ["tear*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,82 @@
+[2026-10-20 03:21:09] tune icews prompt v3
+finished 60 questions in 2527s (42.12 s/question) -> results/qwen_timeline_icews/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3__tune.jsonl
+[2026-10-20 04:03:19] tune icews prompt v3i
+finished 60 questions in 2103s (35.06 s/question) -> results/qwen_timeline_icews/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i__tune.jsonl
+[2026-10-20 04:38:26] tune cron prompt v3
+finished 60 questions in 1393s (23.22 s/question) -> results/qwen_timeline_cron/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3__tune.jsonl
+[2026-10-20 05:01:43] tune cron prompt v3i
+finished 60 questions in 605s (10.08 s/question) -> results/qwen_timeline_cron/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i__tune.jsonl
+[2026-10-20 05:11:52] prompt chosen: v3i ({ "prompt": "v3i", "rule": "exact Hit@1, then lenient, ties -> v3; 'none' reranker; 60+60 validation questions", "scores": {  "v3": {   "exact": 0.16666666666666666,   "lenient": 0.16666666666666666,   "n": 120  },  "v3i": {   "exact": 0.175,   "lenient": 0.19166666666666668,   "n": 120  } }})
+[2026-10-20 05:11:52] icews chunk 0-250 setting none prompt v3i
+finished 250 questions in 6878s (27.51 s/question) -> results/qwen_timeline_icews_noleak/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "tear_window", "slice": [0, 250], "todo_before": 250, "copied": 67, "by_source": {"none": 67}, "dry_run": false}
+[2026-10-20 07:06:34] icews chunk 0-250 setting tear_window prompt v3i
+finished 183 questions in 3051s (16.67 s/question) -> results/qwen_timeline_icews_noleak/tear_window_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "hardwindow", "slice": [0, 250], "todo_before": 250, "copied": 230, "by_source": {"tear_window": 227, "none": 3}, "dry_run": false}
+[2026-10-20 07:57:28] icews chunk 0-250 setting hardwindow prompt v3i
+finished 20 questions in 135s (6.73 s/question) -> results/qwen_timeline_icews_noleak/hardwindow_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+[2026-10-20 07:59:47] icews chunk 0-250 scored: results/qwen_timeline_icews_noleak_scores/multitq_qwen_hit1.csv, multitq_qwen_significance.csv
+[2026-10-20 07:59:47] cron chunk 0-250 setting none prompt v3i
+finished 250 questions in 1924s (7.70 s/question) -> results/qwen_timeline_cron_noleak/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "tear_window", "slice": [0, 250], "todo_before": 250, "copied": 26, "by_source": {"none": 26}, "dry_run": false}
+[2026-10-20 08:31:54] cron chunk 0-250 setting tear_window prompt v3i
+finished 224 questions in 1571s (7.01 s/question) -> results/qwen_timeline_cron_noleak/tear_window_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "hardwindow", "slice": [0, 250], "todo_before": 250, "copied": 185, "by_source": {"tear_window": 174, "none": 11}, "dry_run": false}
+[2026-10-20 08:58:09] cron chunk 0-250 setting hardwindow prompt v3i
+finished 65 questions in 473s (7.27 s/question) -> results/qwen_timeline_cron_noleak/hardwindow_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+[2026-10-20 09:06:05] cron chunk 0-250 scored: results/qwen_timeline_cron_noleak_scores/multitq_qwen_hit1.csv, multitq_qwen_significance.csv
+[2026-10-20 09:06:05] icews chunk 250-500 setting none prompt v3i
+finished 250 questions in 1677s (6.71 s/question) -> results/qwen_timeline_icews_noleak/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "tear_window", "slice": [250, 500], "todo_before": 250, "copied": 57, "by_source": {"none": 57}, "dry_run": false}
+[2026-10-20 09:34:06] icews chunk 250-500 setting tear_window prompt v3i
+finished 193 questions in 1332s (6.90 s/question) -> results/qwen_timeline_icews_noleak/tear_window_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "hardwindow", "slice": [250, 500], "todo_before": 250, "copied": 232, "by_source": {"tear_window": 226, "none": 6}, "dry_run": false}
+[2026-10-20 09:56:21] icews chunk 250-500 setting hardwindow prompt v3i
+finished 18 questions in 130s (7.21 s/question) -> results/qwen_timeline_icews_noleak/hardwindow_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+[2026-10-20 09:58:34] icews chunk 250-500 scored: results/qwen_timeline_icews_noleak_scores/multitq_qwen_hit1.csv, multitq_qwen_significance.csv
+[2026-10-20 09:58:34] cron chunk 250-500 setting none prompt v3i
+finished 250 questions in 1904s (7.61 s/question) -> results/qwen_timeline_cron_noleak/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "tear_window", "slice": [250, 500], "todo_before": 250, "copied": 31, "by_source": {"none": 31}, "dry_run": false}
+[2026-10-20 10:30:21] cron chunk 250-500 setting tear_window prompt v3i
+finished 219 questions in 1659s (7.57 s/question) -> results/qwen_timeline_cron_noleak/tear_window_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "hardwindow", "slice": [250, 500], "todo_before": 250, "copied": 189, "by_source": {"tear_window": 182, "none": 7}, "dry_run": false}
+[2026-10-20 10:58:04] cron chunk 250-500 setting hardwindow prompt v3i
+finished 61 questions in 479s (7.85 s/question) -> results/qwen_timeline_cron_noleak/hardwindow_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+[2026-10-20 11:06:06] cron chunk 250-500 scored: results/qwen_timeline_cron_noleak_scores/multitq_qwen_hit1.csv, multitq_qwen_significance.csv
+[2026-10-20 11:06:06] icews chunk 500-750 setting none prompt v3i
+finished 250 questions in 1707s (6.83 s/question) -> results/qwen_timeline_icews_noleak/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "tear_window", "slice": [500, 750], "todo_before": 250, "copied": 70, "by_source": {"none": 70}, "dry_run": false}
+[2026-10-20 11:34:36] icews chunk 500-750 setting tear_window prompt v3i
+finished 180 questions in 1287s (7.15 s/question) -> results/qwen_timeline_icews_noleak/tear_window_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "hardwindow", "slice": [500, 750], "todo_before": 250, "copied": 228, "by_source": {"tear_window": 226, "none": 2}, "dry_run": false}
+[2026-10-20 11:56:07] icews chunk 500-750 setting hardwindow prompt v3i
+finished 22 questions in 157s (7.13 s/question) -> results/qwen_timeline_icews_noleak/hardwindow_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+[2026-10-20 11:58:48] icews chunk 500-750 scored: results/qwen_timeline_icews_noleak_scores/multitq_qwen_hit1.csv, multitq_qwen_significance.csv
+[2026-10-20 11:58:48] cron chunk 500-750 setting none prompt v3i
+finished 250 questions in 1966s (7.87 s/question) -> results/qwen_timeline_cron_noleak/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "tear_window", "slice": [500, 750], "todo_before": 250, "copied": 30, "by_source": {"none": 30}, "dry_run": false}
+[2026-10-20 12:31:37] cron chunk 500-750 setting tear_window prompt v3i
+finished 220 questions in 1721s (7.82 s/question) -> results/qwen_timeline_cron_noleak/tear_window_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "hardwindow", "slice": [500, 750], "todo_before": 250, "copied": 201, "by_source": {"tear_window": 196, "none": 5}, "dry_run": false}
+[2026-10-20 13:00:22] cron chunk 500-750 setting hardwindow prompt v3i
+finished 49 questions in 404s (8.24 s/question) -> results/qwen_timeline_cron_noleak/hardwindow_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+[2026-10-20 13:07:09] cron chunk 500-750 scored: results/qwen_timeline_cron_noleak_scores/multitq_qwen_hit1.csv, multitq_qwen_significance.csv
+[2026-10-20 13:07:09] icews chunk 750-1000 setting none prompt v3i
+finished 250 questions in 1740s (6.96 s/question) -> results/qwen_timeline_icews_noleak/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "tear_window", "slice": [750, 1000], "todo_before": 250, "copied": 51, "by_source": {"none": 51}, "dry_run": false}
+[2026-10-20 13:36:12] icews chunk 750-1000 setting tear_window prompt v3i
+finished 199 questions in 1416s (7.11 s/question) -> results/qwen_timeline_icews_noleak/tear_window_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "hardwindow", "slice": [750, 1000], "todo_before": 250, "copied": 218, "by_source": {"tear_window": 207, "none": 11}, "dry_run": false}
+[2026-10-20 13:59:51] icews chunk 750-1000 setting hardwindow prompt v3i
+finished 32 questions in 228s (7.12 s/question) -> results/qwen_timeline_icews_noleak/hardwindow_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+[2026-10-20 14:03:43] icews chunk 750-1000 scored: results/qwen_timeline_icews_noleak_scores/multitq_qwen_hit1.csv, multitq_qwen_significance.csv
+[2026-10-20 14:03:43] cron chunk 750-1000 setting none prompt v3i
+finished 250 questions in 1943s (7.77 s/question) -> results/qwen_timeline_cron_noleak/none_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "tear_window", "slice": [750, 1000], "todo_before": 250, "copied": 34, "by_source": {"none": 34}, "dry_run": false}
+[2026-10-20 14:36:09] cron chunk 750-1000 setting tear_window prompt v3i
+finished 216 questions in 1695s (7.85 s/question) -> results/qwen_timeline_cron_noleak/tear_window_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+{"target": "hardwindow", "slice": [750, 1000], "todo_before": 250, "copied": 178, "by_source": {"tear_window": 175, "none": 3}, "dry_run": false}
+[2026-10-20 15:04:27] cron chunk 750-1000 setting hardwindow prompt v3i
+finished 72 questions in 566s (7.86 s/question) -> results/qwen_timeline_cron_noleak/hardwindow_rule_ground__Qwen2.5-7B-Instruct-4bit__k15__p-v3i.jsonl
+[2026-10-20 15:13:57] cron chunk 750-1000 scored: results/qwen_timeline_cron_noleak_scores/multitq_qwen_hit1.csv, multitq_qwen_significance.csv
+[2026-10-20 15:13:57] all done

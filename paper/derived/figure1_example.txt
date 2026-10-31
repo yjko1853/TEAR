@@ -1,0 +1,22 @@
+sim-order top5:
+  0.8012 Kuwait Make a visit Iraq in 2012-04-28 ATC INVALID nonrep
+  0.8 Iraq Make a visit Kuwait in 2009-02-18  valid nonrep
+  0.798 Kuwait Make a visit Iraq in 2012-04-29 ATC INVALID nonrep
+  0.7972 Iraq Make a visit Kuwait in 2010-04-28  INVALID nonrep
+  0.7968 Iraq Make a visit Kuwait in 2009-06-05  valid nonrep
+atc
+  0.8 0.8 Iraq Make a visit Kuwait in 2009-02-18  valid nonrep
+  0.7972 0.7972 Iraq Make a visit Kuwait in 2010-04-28  INVALID nonrep
+  0.7968 0.7968 Iraq Make a visit Kuwait in 2009-06-05  valid nonrep
+  0.7926 0.7926 Iraq Make a visit Kuwait in 2012-03-17  INVALID nonrep
+tr
+  0.784 0.784 Kuwait Host a visit Iraq in 2009-06-05 ATC valid rep
+  0.7763 0.7763 Kuwait Make a visit Ali Abdullah Saleh in 2005-09-19 ATC valid rep
+  0.7654 0.7654 France Make a visit Kuwait in 2009-06-22  valid rep
+  0.7543 0.7543 Kuwait Make a visit Iraq in 2008-10-15 ATC valid rep
+tear
+  0.7654 0.7654 France Make a visit Kuwait in 2009-06-22  valid rep
+  0.7318 0.7318 Qatar Host a visit Kuwait in 2009-03-04  valid rep
+  0.6899 0.6899 Iraq Make statement Kuwait in 2009-05-15  valid rep
+  0.6895 0.6895 Iraq Host a visit Business (Kuwait) in 2005-08-23  valid rep
+gold rank in sim order: [(44, 'France Make a visit Kuwait in 2009-06-22'), (90, 'France Make a visit Kuwait in 2007-09-26')]

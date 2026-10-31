@@ -1,0 +1,3 @@
+setting,prompt,model,baseline,n,diff,ci_low,ci_high,bootstrap_p,mcnemar_p
+hardwindow_rule_ground,v3i,Qwen2.5-7B-Instruct-4bit,none_rule_ground,1000,0.084,0.066,0.103,0.0,1.0411139489780577e-16
+tear_window_rule_ground,v3i,Qwen2.5-7B-Instruct-4bit,none_rule_ground,1000,0.041,0.022,0.06,0.0,8.103540911505989e-05

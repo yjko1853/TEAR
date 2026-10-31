@@ -1,0 +1,168 @@
+== after_first | SUCCESS (none wrong, TEAR+window right) | quid 3042808 | error class -
+   original : After China, who was the first person Donald Rumsfeld engaged in negotiations with?
+   query    : After 2005-10-22, who was the first person Donald Rumsfeld engaged in negotiations with?
+   answers  : ['Ahmad Chalabi']
+   slot object | topic Donald Rumsfeld | cues first,after | date True
+   none        : Donald Rumsfeld Engage in negotiation Iraq in 2006-07-12 || Donald Rumsfeld Express intent to meet or negotiate Iraq in 2005-04-12 || Donald Rumsfeld Express intent to meet or negotiate Iraq in 2005-07-27
+   tear_window : Donald Rumsfeld Engage in negotiation Ahmad Chalabi in 2005-11-14 || Donald Rumsfeld Engage in diplomatic cooperation Iran in 2006-08-27 || Donald Rumsfeld Sign formal agreement Vietnam in 2006-06-08
+== after_first | SUCCESS (none wrong, TEAR+window right) | quid 3001117 | error class -
+   original : Who was the first to visit Kuwait after Ismaïl Omar Guelleh?
+   query    : Who was the first to visit Kuwait after 2014-03-24?
+   answers  : ['Mohamed Ould Abdel Aziz']
+   slot subject | topic Kuwait | cues first,after | date True
+   none        : Juan Carlos I Make a visit Kuwait in 2014-04-15 || Kuwait Make a visit Iraq in 2012-04-29 || Kuwait Make a visit Iraq in 2012-04-28
+   tear_window : Mohamed Ould Abdel Aziz Make a visit Kuwait in 2014-03-25 || Sabah Khaled Al-Hamad Al-Sabah Make a visit Iraq in 2014-07-09 || Juan Carlos I Consult Kuwait in 2014-04-15
+== after_first | FAILURE (TEAR+window wrong) | quid 3027423 | error class B
+   original : After the Indo Asian News Service, which country was the first to make an appeal to China?
+   query    : After 2014-09-29, which country was the first to make an appeal to China?
+   answers  : ['Japan']
+   slot subject | topic China | cues first,after | date True
+   none        : Envoy (United States) Make an appeal or request China in 2008-09-05 || Envoy (United States) Make an appeal or request China in 2005-05-07 || Envoy (United States) Make an appeal or request China in 2007-03-04
+   tear_window : Cabinet / Council of Ministers / Advisors (United States) Make an appeal or request China in 2014-10-01 || Envoy (United States) Make statement China in 2015-12-22 || Vietnam Reject China in 2014-10-27
+== after_first | FAILURE (TEAR+window wrong) | quid 3000429 | error class B
+   original : Which country was the first to make an appeal to Thailand after the Student of Thailand?
+   query    : After 2010-03-31, which country was the first to make an appeal to Thailand after the Student of Thailand?
+   answers  : ['Citizen (Thailand)']
+   slot subject | topic Thailand | cues first,after | date True
+   none        : Thailand Make statement Protester (Thailand) in 2010-04-09 || Thailand Make an appeal or request China in 2005-07-04 || Thailand Make statement Protester (Thailand) in 2008-06-01
+   tear_window : National United Front for Democracy Against Dictatorship Demand Thailand in 2010-04-09 || Citizen (Thailand) Express intent to mediate Thailand in 2010-08-15 || Envoy (United States) Make an appeal or request Thailand in 2010-07-20
+== before_after | SUCCESS (none wrong, TEAR+window right) | quid 3021313 | error class -
+   original : Which country was investigated by China before Aug, 2005?
+   query    : Which country was investigated by China before Aug, 2005?
+   answers  : ['Japan', 'Religion (China)', 'Dissident (Australia)', 'Iran']
+   slot object | topic China | cues before | date True
+   none        : South Korea Investigate China in 2005-06-22 || South Korea Investigate China in 2005-06-23 || Japan Investigate China in 2005-05-07
+   tear_window : China Investigate Iran in 2005-07-09 || China Investigate Japan in 2005-04-18 || China Investigate Japan in 2005-05-07
+== before_after | SUCCESS (none wrong, TEAR+window right) | quid 3052578 | error class -
+   original : Which country was praised by Iraq after 14 July 2015?
+   query    : Which country was praised by Iraq after 14 July 2015?
+   answers  : ['Student (Iraq)', 'Iran']
+   slot object | topic Iraq | cues after | date True
+   none        : International Government Organizations Praise or endorse Iraq in 2014-11-13 || Iraq Praise or endorse Iran in 2015-04-26 || Iraq Praise or endorse Iran in 2015-04-28
+   tear_window : Iraq Praise or endorse Iran in 2015-09-12 || Iraq Praise or endorse Student (Iraq) in 2015-07-26 || Legislature (Iraq) Praise or endorse Iran in 2015-07-27
+== before_after | FAILURE (TEAR+window wrong) | quid 3009727 | error class B
+   original : Who criticised the Middle East after Kuwait?
+   query    : Who criticised the Middle East after Kuwait?
+   answers  : ['Iran', 'Mahmoud Abbas', 'Party Member (Brazil)', 'Citizen (Saudi Arabia)', 'Police (Slovakia)', 'Head of Government (Chad)', 'Mahmoud Ahmadinejad', 'Member of Legislative (Govt) (Iran)', 'Ministry (Oman)', 'France', 'Zawahiri', 'China', 'Barack Obama']
+   slot subject | topic Middle East | cues after | date False
+   none        : Kuwait Criticize or denounce Middle East in 2005-06-04 || Kuwait Criticize or denounce Iraq in 2009-10-14 || Kuwait Criticize or denounce Iraq in 2011-07-27
+   tear_window : Kuwait Criticize or denounce Middle East in 2005-06-04 || Kuwait Criticize or denounce Iraq in 2009-10-14 || Kuwait Criticize or denounce Iraq in 2011-07-27
+== before_after | FAILURE (TEAR+window wrong) | quid 3015587 | error class B
+   original : Who was praised by Jack Straw after Thailand?
+   query    : Who was praised by Jack Straw after Thailand?
+   answers  : ['Iran', 'Mahmoud Abbas', 'Kuwait', 'South Africa', 'Muslim (United Kingdom)', 'Newspaper (United Kingdom)', 'China', 'Iraq']
+   slot object | topic Jack Straw | cues after | date False
+   none        : Jack Straw Praise or endorse Thailand in 2005-01-10 || Jack Straw Consult Thailand in 2005-01-07 || Jack Straw Make a visit Thailand in 2005-01-10
+   tear_window : Jack Straw Praise or endorse Thailand in 2005-01-10 || Jack Straw Consult Thailand in 2005-01-07 || Jack Straw Make a visit Thailand in 2005-01-10
+== before_last | SUCCESS (none wrong, TEAR+window right) | quid 3027503 | error class -
+   original : Who was the last person to visit Iraq before Pat Quinn?
+   query    : Who was the last person to visit Iraq before 2009-08-03?
+   answers  : ['Nuri al-Maliki']
+   slot subject | topic Iraq | cues last,before | date True
+   none        : Member of Legislative (Govt) (United States) Make a visit Iraq in 2011-07-04 || Iraq Host a visit Muhammad Naji al-Otari in 2009-04-21 || Envoy (United States) Make a visit Iraq in 2011-07-11
+   tear_window : Nuri al-Maliki Make a visit Iraq in 2009-08-02 || Member of Legislative (Govt) (Lebanon) Host a visit Iraq in 2005-02-17 || Nuri al-Maliki Consult Iraq in 2009-07-10
+== before_last | SUCCESS (none wrong, TEAR+window right) | quid 3055627 | error class -
+   original : Which country receive the visit from UAE Armed Forces last before Kuwait did?
+   query    : Before 2006-01-17, which country received the visit from UAE Armed Forces last before Kuwait did?
+   answers  : ['Qatar']
+   slot subject | topic UAE Armed Forces | cues last,before | date True
+   none        : UAE Armed Forces Make a visit Kuwait in 2006-01-17 || Kuwait Host a visit UAE Armed Forces in 2006-01-17 || UAE Armed Forces Host a visit Government (Qatar) in 2005-02-20
+   tear_window : Qatar Host a visit UAE Armed Forces in 2005-02-16 || Kuwait Host a visit Iraq in 2005-08-04 || Kuwait Host a visit Military (El Salvador) in 2005-02-18
+== before_last | FAILURE (TEAR+window wrong) | quid 3030868 | error class A
+   original : Who was the last country to express an intention to engage in diplomatic cooperation with China, before the Foreign Ministry of Belarus?
+   query    : Who was the last country to express an intention to engage in diplomatic cooperation with China before 2014-12-29?
+   answers  : ['Shaukat Aziz']
+   slot subject | topic China | cues last,before | date True
+   none        : China Express intent to engage in diplomatic cooperation (such as policy support) Other Authorities / Officials (Russia) in 2015-04-18 || China Express intent to engage in diplomatic cooperation (such as policy support) Citizen (Unidentified State Actor) in 2015-02-24 || China Express intent to engage in diplomatic cooperation (such as policy support) Citizen (Unidentified State Actor) in 2015-11-14
+   tear_window : Xi Jinping Express intent to engage in diplomatic cooperation (such as policy support) Barack Obama in 2014-11-12 || Cabinet / Council of Ministers / Advisors (United States) Express intent to meet or negotiate China in 2014-07-03 || Barack Obama Express intent to engage in diplomatic cooperation (such as policy support) Xi Jinping in 2014-11-12
+== before_last | FAILURE (TEAR+window wrong) | quid 3007868 | error class A
+   original : Before the citizens of Mongolia, with which country did China last wish to establish diplomatic cooperation?
+   query    : Before 2015-04-20, with which country did China last wish to establish diplomatic cooperation?
+   answers  : ['Cambodia']
+   slot object | topic China | cues last,before | date True
+   none        : China Express intent to engage in diplomatic cooperation (such as policy support) Other Authorities / Officials (Russia) in 2015-04-18 || China Express intent to engage in diplomatic cooperation (such as policy support) Director General (China) in 2015-06-09 || China Engage in diplomatic cooperation Iran in 2015-04-23
+   tear_window : China Express intent to engage in diplomatic cooperation (such as policy support) Other Authorities / Officials (Russia) in 2015-04-18 || China Engage in diplomatic cooperation Japan in 2015-04-12 || China Express intent to meet or negotiate Foreign Affairs (India) in 2013-11-07
+== equal | SUCCESS (none wrong, TEAR+window right) | quid 3006540 | error class -
+   original : Which country accused China on 13 June 2014?
+   query    : Which country accused China on 13 June 2014?
+   answers  : ['Vietnam', 'Japan']
+   slot subject | topic China | cues  | date False
+   none        : China Accuse Japan in 2014-06-13 || China Accuse Japan in 2014-06-12 || China Accuse Japan in 2014-05-26
+   tear_window : Japan Accuse China in 2014-06-13 || Japan Accuse China in 2014-06-12 || Japan Accuse China in 2014-06-15
+== equal | SUCCESS (none wrong, TEAR+window right) | quid 3050946 | error class -
+   original : Who used small arms and light weapons against Dulmatin in March 2010?
+   query    : Who used small arms and light weapons against Dulmatin in March 2010?
+   answers  : ['Police (Indonesia)']
+   slot subject | topic Dulmatin | cues  | date False
+   none        : Dulmatin fight with small arms and light weapons Men (Indonesia) in 2010-06-28 || Dulmatin Use conventional military force Abu Sayyaf in 2006-10-10 || Police (Indonesia) fight with small arms and light weapons Dulmatin in 2010-03-11
+   tear_window : Police (Indonesia) fight with small arms and light weapons Dulmatin in 2010-03-11 || Police (Indonesia) fight with small arms and light weapons Dulmatin in 2010-03-13 || Police (Indonesia) fight with small arms and light weapons Dulmatin in 2010-03-10
+== equal | FAILURE (TEAR+window wrong) | quid 3046995 | error class B
+   original : Who made a request to Malaysia in 2005?
+   query    : Who made a request to Malaysia in 2005?
+   answers  : ['Ireland', 'Police (Malaysia)', 'Envoy (United States)', 'Human Rights Watch', 'Thailand', 'Nonaligned Movement', 'Moro Islamic Liberation Front', 'Undersecretary (United States)', 'High Commission for Refugees', 'China', 'Japan']
+   slot subject | topic Malaysia | cues  | date False
+   none        : Foreign Affairs (Malaysia) Demand Malaysia in 2010-02-09 || Envoy (United States) Make an appeal or request Malaysia in 2005-10-26 || China Make an appeal or request Malaysia in 2005-11-30
+   tear_window : Foreign Affairs (Malaysia) Demand Malaysia in 2010-02-09 || Envoy (United States) Make an appeal or request Malaysia in 2005-10-26 || China Make an appeal or request Malaysia in 2005-11-30
+== equal | FAILURE (TEAR+window wrong) | quid 3021501 | error class A
+   original : On 7 April 2006, which country expressed its willingness to cooperate with China?
+   query    : On 7 April 2006, which country expressed its willingness to cooperate with China?
+   answers  : ['Yemen']
+   slot subject | topic China | cues  | date False
+   none        : China Express intent to cooperate Iran in 2006-06-16 || China Express intent to cooperate Iran in 2006-02-04 || China Express intent to cooperate Iran in 2007-10-18
+   tear_window : France Express intent to cooperate China in 2006-05-11 || France Express intent to cooperate China in 2005-05-01 || France Express intent to cooperate China in 2005-09-12
+== equal_multi | SUCCESS (none wrong, TEAR+window right) | quid 3029032 | error class -
+   original : Who would like to negotiate with Kuwait on the same year as the Spanish Ministry of Defence and Security?
+   query    : Who would like to negotiate with Kuwait on 2005-07-19?
+   answers  : ['Iran', 'Mahmoud Ahmadinejad', 'Pervez Musharraf', 'Organization of Petroleum Exporting Countries', 'Gerhard Schröder', 'Boris Vyacheslavovich Gryzlov', 'Iraq', 'Head of Government (Germany)']
+   slot subject | topic Kuwait | cues  | date False
+   none        : Kuwait Engage in negotiation Iraq in 2015-08-01 || Kuwait Express intent to meet or negotiate Iraq in 2007-10-21 || Kuwait Engage in negotiation Iraq in 2005-06-20
+   tear_window : Iraq Engage in negotiation Kuwait in 2015-08-01 || Qatar Engage in negotiation Kuwait in 2007-05-18 || Member of Legislative (Govt) (Iran) Express intent to meet or negotiate Kuwait in 2007-06-02
+== equal_multi | SUCCESS (none wrong, TEAR+window right) | quid 3039814 | error class -
+   original : In 2015, which country was the last to negotiate with Thailand?
+   query    : In February 12, 2015, which country was the last to negotiate with Thailand?
+   answers  : ['Vietnam']
+   slot subject | topic Thailand | cues last | date False
+   none        : Thailand Engage in negotiation Vietnam in 2015-07-23 || Thailand Engage in negotiation Envoy (United States) in 2015-01-25 || China Engage in negotiation Thailand in 2015-02-12
+   tear_window : Vietnam Engage in negotiation Thailand in 2015-07-23 || China Express intent to settle dispute Thailand in 2015-09-13 || Association of Southeast Asian Nations Halt negotiations Citizen (Thailand) in 2009-05-18
+== equal_multi | FAILURE (TEAR+window wrong) | quid 3018095 | error class A
+   original : Which country was supported by the Foreign Ministry of Israel in the same month as Thailand?
+   query    : Which country was supported by the Foreign Ministry of Israel in the same month as 2012-02-22?
+   answers  : ['Japan']
+   slot object | topic Israeli Defense Forces | cues  | date False
+   none        : Foreign Affairs (Israel) Provide economic aid Government (Palestinian Territory, Occupied) in 2006-03-01 || Opposition Supporter (Israel) Consult Envoy (United States) in 2009-02-02 || Foreign Affairs (Israel) Make statement Associated Press in 2011-04-27
+   tear_window : Foreign Affairs (Israel) Provide economic aid Government (Palestinian Territory, Occupied) in 2006-03-01 || Opposition Supporter (Israel) Consult Envoy (United States) in 2009-02-02 || Foreign Affairs (Israel) Make statement Associated Press in 2011-04-27
+== equal_multi | FAILURE (TEAR+window wrong) | quid 3009771 | error class A
+   original : In 2014, who was the first to provide humanitarian aid to China?
+   query    : In 2015-10-17, who was the first to provide humanitarian aid to China?
+   answers  : ['Police (Malaysia)']
+   slot subject | topic China | cues first | date False
+   none        : Defense / Security Ministry (United States) Provide humanitarian aid China in 2008-05-18 || Health Ministry (China) Provide humanitarian aid China in 2008-05-15 || China Provide humanitarian aid Villager (China) in 2012-05-11
+   tear_window : Government (Pakistan) Provide humanitarian aid Wang Yi in 2013-07-24 || Xiao Yang Provide humanitarian aid China in 2005-06-04 || Japan Appeal for humanitarian aid China in 2010-10-29
+== first_last | SUCCESS (none wrong, TEAR+window right) | quid 3016352 | error class -
+   original : Who was the first to provide humanitarian aid to Iraq?
+   query    : Who was the first to provide humanitarian aid to Iraq?
+   answers  : ['Military (El Salvador)']
+   slot subject | topic Iraq | cues first | date False
+   none        : Iraq Provide humanitarian aid Sudan in 2012-11-29 || Iraq Provide humanitarian aid Displaced Families (Syria) in 2014-12-10 || Iraq Provide humanitarian aid Displaced Families (Iraq) in 2014-01-08
+   tear_window : Military (El Salvador) Provide humanitarian aid Iraq in 2005-03-31 || Congress (United States) Express intent to provide humanitarian aid Iraq in 2005-05-12 || Royal Administration (Saudi Arabia) Provide humanitarian aid Government (Sudan) in 2008-06-03
+== first_last | SUCCESS (none wrong, TEAR+window right) | quid 3007519 | error class -
+   original : Who was the last country to release people to Iraq?
+   query    : Who was the last country to release people to Iraq?
+   answers  : ['Haider Al-Abadi']
+   slot subject | topic Iraq | cues last | date False
+   none        : High Commission for Refugees Return, release person(s) Iraq in 2008-07-31 || Iraq Yield Kidnapper (Iraq) in 2005-12-02 || Iraq Expel or deport individuals Al Jazeera in 2008-01-05
+   tear_window : Haider Al-Abadi Return, release person(s) Iraq in 2015-05-22 || Armed Rebel (Syria) Return, release person(s) Military (Jordan) in 2013-03-10 || Iran Grant asylum Iraq in 2008-10-25
+== first_last | FAILURE (TEAR+window wrong) | quid 3017561 | error class C
+   original : In which year did the Australian Department of Finance, Economy, Trade and Industry first visit Oman?
+   query    : In which year did the Australian Department of Finance, Economy, Trade and Industry first visit Oman?
+   answers  : ['2015']
+   slot subject | topic Oman | cues first | date False
+   none        : Finance / Economy / Commerce / Trade Ministry (Australia) Make a visit Oman in 2015-09-01 || Oman Host a visit Finance / Economy / Commerce / Trade Ministry (Australia) in 2015-09-01 || Foreign Affairs (India) Make a visit Oman in 2015-02-19
+   tear_window : Finance / Economy / Commerce / Trade Ministry (Australia) Make a visit Oman in 2015-09-01 || Finance / Economy / Commerce / Trade Ministry (Australia) Host a visit Boediono in 2011-03-14 || China Host a visit Oman in 2005-09-24
+== first_last | FAILURE (TEAR+window wrong) | quid 3017854 | error class B
+   original : When did the Iraqi legislature last investigate Iraq?
+   query    : When did the Iraqi legislature last investigate Iraq?
+   answers  : ['2011-09-28']
+   slot timestamp | topic Legislature (Iraq) | cues last | date False
+   none        : Iraq Investigate Legislature (Iraq) in 2014-04-25 || Legislature (Iraq) Investigate Iraq in 2011-08-06 || Legislature (Iraq) Investigate Iraq in 2005-01-15
+   tear_window : Iraq Investigate Legislature (Iraq) in 2014-04-25 || Legislature (Iraq) Investigate Iraq in 2011-09-28 || Legislature (Iraq) Accuse Iraq in 2008-09-01

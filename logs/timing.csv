@@ -1,0 +1,317 @@
+timestamp,step,dataset,seconds,note
+2026-10-17T00:32:57,S0_prepare,multitq,3.3,
+2026-10-17T00:32:58,S0_prepare,icews,0.9,
+2026-10-17T00:32:59,S0_prepare,cron,0.6,
+2026-10-17T00:33:21,S0_prepare,cron,1.5,
+2026-10-17T00:34:23,S1_encode_chunk,multitq,54.1,fact part 0/29
+2026-10-17T00:35:11,S1_encode_chunk,multitq,48.3,fact part 1/29
+2026-10-17T00:35:59,S1_encode_chunk,multitq,48.1,fact part 2/29
+2026-10-17T00:36:47,S1_encode_chunk,multitq,47.3,fact part 3/29
+2026-10-17T00:37:35,S1_encode_chunk,multitq,48.0,fact part 4/29
+2026-10-17T00:38:25,S1_encode_chunk,multitq,50.7,fact part 5/29
+2026-10-17T00:39:31,S1_encode_chunk,multitq,65.5,fact part 6/29
+2026-10-17T00:40:27,S4_oracle_slots,multitq,247.4,
+2026-10-17T00:40:28,S4_oracle_slots,icews,0.2,
+2026-10-17T00:40:29,S4_oracle_slots,cron,0.1,
+2026-10-17T00:40:37,S1_encode_chunk,multitq,65.7,fact part 7/29
+2026-10-17T00:41:32,S1_encode_chunk,multitq,55.0,fact part 8/29
+2026-10-17T00:42:28,S1_encode_chunk,multitq,56.1,fact part 9/29
+2026-10-17T00:43:26,S1_encode_chunk,multitq,57.7,fact part 10/29
+2026-10-17T00:44:23,S1_encode_chunk,multitq,57.2,fact part 11/29
+2026-10-17T00:45:24,S1_encode_chunk,multitq,61.5,fact part 12/29
+2026-10-17T00:46:35,S5_features,multitq,17.7,smoke
+2026-10-17T00:46:39,S1_encode_chunk,multitq,74.3,fact part 13/29
+2026-10-17T00:46:46,S5_rerank_main,multitq,11.2,smoke
+2026-10-17T00:47:21,S5_lambda_sweep,multitq,23.8,smoke
+2026-10-17T00:47:49,S1_encode_chunk,multitq,70.2,fact part 14/29
+2026-10-17T00:48:59,S1_encode_chunk,multitq,69.8,fact part 15/29
+2026-10-17T00:50:10,S1_encode_chunk,multitq,71.4,fact part 16/29
+2026-10-17T00:51:21,S1_encode_chunk,multitq,70.9,fact part 17/29
+2026-10-17T00:51:41,S5_features,icews,44.6,smoke
+2026-10-17T00:51:44,S5_rerank_main,icews,2.7,smoke
+2026-10-17T00:52:32,S1_encode_chunk,multitq,70.7,fact part 18/29
+2026-10-17T00:53:42,S1_encode_chunk,multitq,70.2,fact part 19/29
+2026-10-17T00:54:52,S1_encode_chunk,multitq,70.0,fact part 20/29
+2026-10-17T00:56:04,S1_encode_chunk,multitq,71.1,fact part 21/29
+2026-10-17T00:57:15,S1_encode_chunk,multitq,71.4,fact part 22/29
+2026-10-17T00:58:26,S1_encode_chunk,multitq,70.9,fact part 23/29
+2026-10-17T00:59:38,S1_encode_chunk,multitq,72.0,fact part 24/29
+2026-10-17T01:00:51,S1_encode_chunk,multitq,72.5,fact part 25/29
+2026-10-17T01:02:02,S1_encode_chunk,multitq,71.3,fact part 26/29
+2026-10-17T01:03:14,S1_encode_chunk,multitq,71.6,fact part 27/29
+2026-10-17T01:03:26,S1_encode_chunk,multitq,12.2,fact part 28/29
+2026-10-17T01:03:29,S1_encode,multitq,1800.0,fact n=461329 device=mps batch=256
+2026-10-17T01:05:22,S4_ner,multitq,1248.4,labels=faithful device=cpu n=54584
+2026-10-17T01:05:24,S4_ner_fuzzy,multitq,2.1,labels=faithful engine=rapidfuzz
+2026-10-17T01:07:24,S2_encode_questions,multitq,225.7,n=54584 device=mps
+2026-10-17T01:07:28,S2_faiss_build,multitq,3.7,IndexFlatIP n=461329
+2026-10-17T01:16:27,S4_ner,multitq,627.7,labels=all device=cpu n=54584
+2026-10-17T01:16:35,S4_ner_fuzzy,multitq,7.5,labels=all engine=rapidfuzz
+2026-10-17T01:22:59,S4_ner,icews,329.6,labels=all device=cpu n=14621
+2026-10-17T01:24:40,S4_ner_fuzzy,icews,100.8,labels=all engine=rapidfuzz
+2026-10-17T01:31:44,S4_ner,icews,323.3,labels=faithful device=cpu n=14621
+2026-10-17T01:31:50,S4_ner_fuzzy,icews,6.6,labels=faithful engine=rapidfuzz
+2026-10-17T09:20:49,S2_faiss_build,multitq,1.8,IndexFlatIP n=461329
+2026-10-17T09:21:27,S2_faiss_search,multitq,37.9,top1000 queries=54584
+2026-10-17T09:22:28,S5_features,multitq,9.8,oracle
+2026-10-17T09:22:39,S5_rerank_main,multitq,10.2,oracle
+2026-10-17T09:23:24,S1_encode_chunk,icews,59.4,fact part 0/7
+2026-10-17T09:23:40,S5_lambda_sweep,multitq,57.6,oracle
+2026-10-17T09:24:18,S5_features,multitq,13.0,oracle_anydate
+2026-10-17T09:24:25,S1_encode_chunk,icews,61.1,fact part 1/7
+2026-10-17T09:24:32,S5_rerank_main,multitq,13.4,oracle_anydate
+2026-10-17T09:25:43,S1_encode_chunk,icews,77.9,fact part 2/7
+2026-10-17T09:25:47,S5_lambda_sweep,multitq,68.1,oracle_anydate
+2026-10-17T09:26:04,S5_features,multitq,14.8,oracle_nertopic_anydate
+2026-10-17T09:26:18,S5_rerank_main,multitq,13.4,oracle_nertopic_anydate
+2026-10-17T09:26:42,S5_features,multitq,16.5,oracle_nertopic_faithful_anydate
+2026-10-17T09:27:06,S5_rerank_main,multitq,23.7,oracle_nertopic_faithful_anydate
+2026-10-17T09:27:23,S8_same_sro_similarity,multitq,3.9,pairs=20000
+2026-10-17T09:27:24,S1_encode_chunk,icews,101.0,fact part 3/7
+2026-10-17T09:28:33,S5_features,multitq,20.5,oracle_anydate
+2026-10-17T09:29:09,S1_encode_chunk,icews,105.1,fact part 4/7
+2026-10-17T09:29:09,S5_rerank_main,multitq,35.8,oracle_anydate
+2026-10-17T09:30:36,S5_lambda_sweep,multitq,77.1,oracle_anydate
+2026-10-17T09:30:51,S5_features,multitq,12.8,oracle
+2026-10-17T09:30:53,S1_encode_chunk,icews,104.2,fact part 5/7
+2026-10-17T09:31:06,S5_rerank_main,multitq,14.7,oracle
+2026-10-17T09:31:50,S1_encode_chunk,icews,57.2,fact part 6/7
+2026-10-17T09:31:51,S1_encode,icews,566.8,fact n=108005 device=mps batch=256
+2026-10-17T09:32:20,S5_lambda_sweep,multitq,68.5,oracle
+2026-10-17T09:32:37,S5_features,multitq,15.3,oracle_nertopic_anydate
+2026-10-17T09:32:54,S5_rerank_main,multitq,16.6,oracle_nertopic_anydate
+2026-10-17T09:33:17,S5_features,multitq,14.3,oracle_nertopic_faithful_anydate
+2026-10-17T09:33:32,S5_rerank_main,multitq,15.1,oracle_nertopic_faithful_anydate
+2026-10-17T09:34:04,S2_encode_questions,icews,125.6,n=14621 device=mps
+2026-10-17T09:34:05,S2_faiss_build,icews,0.4,IndexFlatIP n=108005
+2026-10-17T09:34:10,S2_faiss_search,icews,4.9,top1000 queries=14621
+2026-10-17T09:34:37,S5_features,icews,26.0,oracle
+2026-10-17T09:34:39,S5_rerank_main,icews,2.1,oracle
+2026-10-17T09:34:47,S5_lambda_sweep,icews,7.1,oracle
+2026-10-17T09:35:09,S5_features,icews,21.6,oracle_nertopic
+2026-10-17T09:35:11,S5_rerank_main,icews,2.2,oracle_nertopic
+2026-10-17T09:35:12,S8_same_sro_similarity,icews,0.6,pairs=20000
+2026-10-17T09:35:52,S1_encode_chunk,cron,95.6,fact part 0/21
+2026-10-17T09:37:23,S1_encode_chunk,cron,91.5,fact part 1/21
+2026-10-17T09:38:52,S1_encode_chunk,cron,89.0,fact part 2/21
+2026-10-17T09:40:20,S1_encode_chunk,cron,88.3,fact part 3/21
+2026-10-17T09:41:46,S1_encode_chunk,cron,85.7,fact part 4/21
+2026-10-17T09:43:13,S1_encode_chunk,cron,87.0,fact part 5/21
+2026-10-17T09:44:41,S1_encode_chunk,cron,87.3,fact part 6/21
+2026-10-17T09:46:08,S1_encode_chunk,cron,87.5,fact part 7/21
+2026-10-17T09:47:36,S1_encode_chunk,cron,87.6,fact part 8/21
+2026-10-17T09:48:58,S1_encode_chunk,cron,82.6,fact part 9/21
+2026-10-17T09:50:26,S1_encode_chunk,cron,87.2,fact part 10/21
+2026-10-17T09:51:54,S1_encode_chunk,cron,88.9,fact part 11/21
+2026-10-17T09:53:19,S1_encode_chunk,cron,84.4,fact part 12/21
+2026-10-17T09:54:40,S1_encode_chunk,cron,80.7,fact part 13/21
+2026-10-17T09:56:02,S1_encode_chunk,cron,82.1,fact part 14/21
+2026-10-17T09:57:22,S1_encode_chunk,cron,79.7,fact part 15/21
+2026-10-17T09:58:41,S1_encode_chunk,cron,79.8,fact part 16/21
+2026-10-17T10:00:03,S1_encode_chunk,cron,81.4,fact part 17/21
+2026-10-17T10:01:25,S1_encode_chunk,cron,81.8,fact part 18/21
+2026-10-17T10:02:49,S1_encode_chunk,cron,84.1,fact part 19/21
+2026-10-17T10:02:55,S1_encode_chunk,cron,5.7,fact part 20/21
+2026-10-17T10:02:56,S1_encode,cron,1720.3,fact n=328635 device=mps batch=256
+2026-10-17T10:04:23,S2_encode_questions,cron,79.7,n=8344 device=mps
+2026-10-17T10:04:25,S2_faiss_build,cron,0.9,IndexFlatIP n=328635
+2026-10-17T10:04:32,S2_faiss_search,cron,7.7,top1000 queries=8344
+2026-10-17T10:05:11,S4_oracle_slots,cron,0.1,
+2026-10-17T10:05:35,S5_features,cron,23.1,oracle
+2026-10-17T10:05:36,S5_rerank_main,cron,0.9,oracle
+2026-10-17T10:05:39,S5_lambda_sweep,cron,2.8,oracle
+2026-10-17T10:05:39,S8_same_sro_similarity,cron,0.5,pairs=20000
+2026-10-17T13:54:51,S5_features,multitq,11.1,rule_anydate
+2026-10-17T13:55:02,S5_rerank_main,multitq,11.0,rule_anydate
+2026-10-17T13:55:57,S5_lambda_sweep,multitq,50.6,rule_anydate
+2026-10-17T13:56:57,S5_features,multitq,11.5,rule_exact_anydate
+2026-10-17T13:57:08,S5_rerank_main,multitq,10.9,rule_exact_anydate
+2026-10-17T13:58:02,S5_lambda_sweep,multitq,49.8,rule_exact_anydate
+2026-10-17T20:52:43,S0_prepare,multitq_orig,4.2,
+2026-10-17T21:19:49,S2_encode_questions,multitq_orig,1606.4,n=54584 device=cpu
+2026-10-17T21:19:53,S2_faiss_build,multitq_orig,3.1,IndexFlatIP n=461329
+2026-10-17T21:20:50,S2_faiss_search,multitq_orig,56.6,top1000 queries=54584
+2026-10-17T21:38:07,S4_ner,multitq_orig,1018.5,labels=all device=cpu n=54584
+2026-10-17T21:38:19,S4_ner_fuzzy,multitq_orig,11.3,labels=all engine=rapidfuzz
+2026-10-17T21:38:53,S4_rule_slots,multitq_orig,21.7,
+2026-10-17T21:39:20,S5_features,multitq_orig,18.9,rule_exact_anydate
+2026-10-17T21:39:36,S5_rerank_main,multitq_orig,16.1,rule_exact_anydate
+2026-10-17T21:40:54,S5_lambda_sweep,multitq_orig,70.8,rule_exact_anydate
+2026-10-17T21:59:30,S0_make_query,multitq,2.4,
+2026-10-17T21:59:49,S2_encode_questions,multitq,9.4,n=380 device=cpu
+2026-10-17T21:59:54,S2_faiss_build,multitq,3.5,IndexFlatIP n=461329
+2026-10-17T21:59:55,S2_faiss_search,multitq,0.7,top1000 queries=380
+2026-10-17T22:00:11,S4_ner,multitq,12.1,labels=all device=cpu n=380
+2026-10-17T22:00:24,S4_ner_fuzzy,multitq,12.5,labels=all engine=rapidfuzz
+2026-10-17T22:00:50,S4_rule_slots,multitq,24.0,v2 questions_v2.json
+2026-10-17T22:01:15,S5_features,multitq,23.2,rule_v2_exact_anydate
+2026-10-17T22:01:35,S5_rerank_main,multitq,20.2,rule_v2_exact_anydate
+2026-10-17T22:03:04,S5_lambda_sweep,multitq,81.2,rule_v2_exact_anydate
+2026-10-17T22:12:30,S4_rule_slots,multitq,18.3,v2 questions_v2.json
+2026-10-17T22:12:48,S5_features,multitq,16.9,rule_v2_exact_anydate
+2026-10-17T22:13:04,S5_rerank_main,multitq,16.3,rule_v2_exact_anydate
+2026-10-17T22:14:20,S5_lambda_sweep,multitq,70.8,rule_v2_exact_anydate
+2026-10-17T22:22:16,S4_rule_slots,multitq,15.3,v2 questions_v2.json
+2026-10-17T22:22:32,S5_features,multitq,14.5,rule_v2_exact_anydate
+2026-10-17T22:22:47,S5_rerank_main,multitq,14.6,rule_v2_exact_anydate
+2026-10-17T22:23:50,S5_lambda_sweep,multitq,59.1,rule_v2_exact_anydate
+2026-10-17T22:37:26,S4_rule_slots,multitq_orig,15.1,v2 questions.json
+2026-10-17T22:37:42,S5_features,multitq_orig,14.3,rule_v2_exact_anydate
+2026-10-17T22:37:54,S5_rerank_main,multitq_orig,12.5,rule_v2_exact_anydate
+2026-10-17T22:38:59,S5_lambda_sweep,multitq_orig,60.2,rule_v2_exact_anydate
+2026-10-17T23:14:24,S4b_anchor_phrases,multitq_orig,99.0,n=18863
+2026-10-17T23:14:52,S4b_anchor_resolve,multitq_orig,27.8,n=18863 tau=0.5
+2026-10-17T23:21:38,S5_features,multitq_orig,14.3,rule_v2_ground_exact_anydate
+2026-10-17T23:21:53,S5_rerank_main,multitq_orig,15.0,rule_v2_ground_exact_anydate
+2026-10-17T23:22:55,S5_lambda_sweep,multitq_orig,56.6,rule_v2_ground_exact_anydate
+2026-10-17T23:25:31,S5_features,multitq_orig,14.4,rule_v2_anchor_exact_anydate
+2026-10-17T23:25:45,S5_rerank_main,multitq_orig,14.2,rule_v2_anchor_exact_anydate
+2026-10-17T23:28:11,S5_features,multitq,14.4,rule_v2_eqwin_exact_anydate
+2026-10-17T23:28:24,S5_rerank_main,multitq,13.2,rule_v2_eqwin_exact_anydate
+2026-10-17T23:30:59,S5_features,multitq,14.0,rule_v2_ground_exact_anydate
+2026-10-17T23:31:12,S5_rerank_main,multitq,13.8,rule_v2_ground_exact_anydate
+2026-10-17T23:35:38,S5_features,multitq_orig,15.7,rule_v2_ground_exact_anydate
+2026-10-17T23:35:53,S5_rerank_main,multitq_orig,14.2,rule_v2_ground_exact_anydate
+2026-10-17T23:36:56,S5_lambda_sweep,multitq_orig,58.7,rule_v2_ground_exact_anydate
+2026-10-17T23:39:38,S5_features,multitq_orig,16.4,rule_v2_anchor_exact_anydate
+2026-10-17T23:39:57,S5_rerank_main,multitq_orig,18.3,rule_v2_anchor_exact_anydate
+2026-10-17T23:43:26,S5_features,multitq,17.5,rule_v2_eqwin_exact_anydate
+2026-10-17T23:43:41,S5_rerank_main,multitq,15.3,rule_v2_eqwin_exact_anydate
+2026-10-17T23:47:24,S5_features,multitq,22.2,rule_v2_ground_exact_anydate
+2026-10-17T23:47:43,S5_rerank_main,multitq,19.5,rule_v2_ground_exact_anydate
+2026-10-18T18:02:03,SQ_prepare,icews18,0.6,
+2026-10-18T18:09:46,SQ_extract,multitq,451.3,train=386787 dev=57979
+2026-10-18T18:19:43,SQ_extract,multitq,451.8,train=386787 dev=57979
+2026-10-18T18:20:49,SQ_generate,icews0515_regen,2.2,n_per=1000 seed=2025 out=questions.json
+2026-10-18T18:20:53,SQ_generate,icews18,2.8,n_per=1000 seed=2026 out=questions.json
+2026-10-18T18:20:56,SQ_generate,icews18,1.5,n_per=200 seed=2027 out=questions_dev.json
+2026-10-18T18:21:45,SQ_generate,icews0515_regen,1.9,n_per=1000 seed=2025 out=questions.json
+2026-10-18T18:21:48,SQ_generate,icews18,2.3,n_per=1000 seed=2026 out=questions.json
+2026-10-18T18:21:51,SQ_generate,icews18,1.4,n_per=200 seed=2027 out=questions_dev.json
+2026-10-18T18:23:11,SQ_align_test,multitq,65.8,n=54584
+2026-10-18T22:14:36,SQ_generate,icews0515_regen,3.1,n_per=1000 seed=2025 out=questions.json
+2026-10-18T22:14:40,SQ_generate,icews18,2.7,n_per=1000 seed=2026 out=questions.json
+2026-10-18T22:14:42,SQ_generate,icews18,1.4,n_per=200 seed=2027 out=questions_dev.json
+2026-10-18T22:19:32,SQ_generate,icews0515_regen,4.6,n_per=1000 seed=2025 out=questions.json
+2026-10-18T22:19:36,SQ_generate,icews18,3.8,n_per=1000 seed=2026 out=questions.json
+2026-10-18T22:19:39,SQ_generate,icews18,1.5,n_per=200 seed=2027 out=questions_dev.json
+2026-10-18T22:21:07,S4_rule_slots,icews18,4.0,v2 questions.json
+2026-10-18T22:21:08,S4_rule_slots,icews18,1.0,v2 questions_dev.json
+2026-10-18T22:21:10,S4_rule_slots,icews0515_regen,2.0,v2 questions.json
+2026-10-19T18:53:30,S1_encode_chunk,icews18,51.0,fact part 0/29
+2026-10-19T18:55:09,S1_encode_chunk,icews18,99.1,fact part 1/29
+2026-10-19T18:56:13,S1_encode_chunk,icews18,63.8,fact part 2/29
+2026-10-19T18:57:20,S1_encode_chunk,icews18,67.2,fact part 3/29
+2026-10-19T18:58:26,S1_encode_chunk,icews18,66.1,fact part 4/29
+2026-10-19T18:59:32,S1_encode_chunk,icews18,66.2,fact part 5/29
+2026-10-19T19:00:38,S1_encode_chunk,icews18,65.3,fact part 6/29
+2026-10-19T19:01:43,S1_encode_chunk,icews18,65.1,fact part 7/29
+2026-10-19T19:02:49,S1_encode_chunk,icews18,65.6,fact part 8/29
+2026-10-19T19:03:55,S1_encode_chunk,icews18,66.4,fact part 9/29
+2026-10-19T19:04:58,S1_encode_chunk,icews18,63.3,fact part 10/29
+2026-10-19T19:06:03,S1_encode_chunk,icews18,65.1,fact part 11/29
+2026-10-19T19:07:08,S1_encode_chunk,icews18,65.0,fact part 12/29
+2026-10-19T19:08:13,S1_encode_chunk,icews18,64.5,fact part 13/29
+2026-10-19T19:09:18,S1_encode_chunk,icews18,64.8,fact part 14/29
+2026-10-19T19:10:23,S1_encode_chunk,icews18,65.2,fact part 15/29
+2026-10-19T19:11:28,S1_encode_chunk,icews18,65.3,fact part 16/29
+2026-10-19T19:12:33,S1_encode_chunk,icews18,64.7,fact part 17/29
+2026-10-19T19:13:37,S1_encode_chunk,icews18,63.9,fact part 18/29
+2026-10-19T19:14:41,S1_encode_chunk,icews18,64.1,fact part 19/29
+2026-10-19T19:15:45,S1_encode_chunk,icews18,63.4,fact part 20/29
+2026-10-19T19:16:51,S1_encode_chunk,icews18,66.6,fact part 21/29
+2026-10-19T19:17:55,S1_encode_chunk,icews18,63.6,fact part 22/29
+2026-10-19T19:18:59,S1_encode_chunk,icews18,64.1,fact part 23/29
+2026-10-19T19:20:04,S1_encode_chunk,icews18,64.6,fact part 24/29
+2026-10-19T19:21:08,S1_encode_chunk,icews18,63.9,fact part 25/29
+2026-10-19T19:22:13,S1_encode_chunk,icews18,65.6,fact part 26/29
+2026-10-19T19:23:17,S1_encode_chunk,icews18,63.6,fact part 27/29
+2026-10-19T19:23:56,S1_encode_chunk,icews18,38.8,fact part 28/29
+2026-10-19T19:23:58,S1_encode,icews18,1879.7,fact n=468558 device=mps batch=256
+2026-10-19T19:24:27,S2_encode_questions,icews18,24.3,n=6000 device=mps
+2026-10-19T19:24:29,S2_faiss_build,icews18,1.5,IndexFlatIP n=468558
+2026-10-19T19:24:36,S2_faiss_search,icews18,6.2,top1000 queries=6000
+2026-10-19T19:24:42,S2_encode_questions,icews18,4.1,n=1200 device=mps
+2026-10-19T19:24:42,S2_faiss_build,icews18,0.2,IndexFlatIP n=468558
+2026-10-19T19:24:44,S2_faiss_search,icews18,1.2,top1000 queries=1200
+2026-10-19T19:25:13,S4_ner,icews18,28.4,labels=all device=mps n=6000
+2026-10-19T19:25:40,S4_ner_fuzzy,icews18,26.4,labels=all engine=rapidfuzz
+2026-10-19T19:25:46,S4_ner,icews18,5.3,labels=all device=mps n=1200
+2026-10-19T19:25:57,S4_ner_fuzzy,icews18,11.1,labels=all engine=rapidfuzz
+2026-10-19T19:26:01,S4_rule_slots,icews18,3.3,v2 questions.json
+2026-10-19T19:26:02,S4_rule_slots,icews18,0.7,v2 questions_dev.json
+2026-10-19T19:28:32,S4b_anchor_phrases,icews18,3.4,n=657
+2026-10-19T19:28:32,S4b_anchor_resolve,icews18,0.7,n=657 tau=0.5
+2026-10-19T19:28:52,S4b_anchor_phrases,icews18,17.1,n=3340
+2026-10-19T19:28:55,S4b_anchor_resolve,icews18,3.5,n=3340 tau=0.5
+2026-10-19T19:29:01,S5_features,icews18,4.9,rule_v2_ground_exact_anydate
+2026-10-19T19:29:02,S5_rerank_main,icews18,1.2,rule_v2_ground_exact_anydate
+2026-10-19T19:29:11,S5_lambda_sweep,icews18,5.3,rule_v2_ground_exact_anydate
+2026-10-19T19:29:16,S5_features,icews18,4.6,rule_v2_exact_anydate
+2026-10-19T19:29:17,S5_rerank_main,icews18,1.0,rule_v2_exact_anydate
+2026-10-19T19:29:23,S5_features,icews18,1.7,rule_v2_ground_exact_anydate
+2026-10-19T19:29:23,S5_rerank_main,icews18,0.3,rule_v2_ground_exact_anydate
+2026-10-19T19:30:19,S2_encode_questions,icews0515_regen,18.7,n=6000 device=mps
+2026-10-19T19:30:22,S2_faiss_build,icews0515_regen,2.0,IndexFlatIP n=461329
+2026-10-19T19:30:28,S2_faiss_search,icews0515_regen,5.6,top1000 queries=6000
+2026-10-19T19:30:52,S4_ner,icews0515_regen,23.0,labels=all device=mps n=6000
+2026-10-19T19:31:06,S4_ner_fuzzy,icews0515_regen,14.1,labels=all engine=rapidfuzz
+2026-10-19T19:31:08,S4_rule_slots,icews0515_regen,1.6,v2 questions.json
+2026-10-19T19:32:35,S4b_anchor_phrases,icews0515_regen,16.4,n=3039
+2026-10-19T19:32:37,S4b_anchor_resolve,icews0515_regen,2.1,n=3039 tau=0.5
+2026-10-19T19:32:41,S5_features,icews0515_regen,2.8,rule_v2_ground_exact_anydate
+2026-10-19T19:32:42,S5_rerank_main,icews0515_regen,1.2,rule_v2_ground_exact_anydate
+2026-10-19T19:32:47,S5_features,icews0515_regen,2.5,rule_v2_exact_anydate
+2026-10-19T19:32:48,S5_rerank_main,icews0515_regen,1.0,rule_v2_exact_anydate
+2026-10-20T19:58:13,S2_encode_questions,multitq_para,8.5,n=600 device=cpu
+2026-10-20T19:58:15,S2_faiss_build,multitq_para,2.1,IndexFlatIP n=461329
+2026-10-20T19:58:16,S2_faiss_search,multitq_para,0.6,top1000 queries=600
+2026-10-20T19:58:25,S4_ner,multitq_para,8.9,labels=all device=cpu n=600
+2026-10-20T19:58:26,S4_ner_fuzzy,multitq_para,0.6,labels=all engine=rapidfuzz
+2026-10-20T19:58:27,S4_rule_slots,multitq_para,0.2,v2 questions.json
+2026-10-20T19:58:31,S4b_anchor_phrases,multitq_para,2.6,n=486
+2026-10-20T19:58:32,S4b_anchor_resolve,multitq_para,0.6,n=486 tau=0.5
+2026-10-20T19:58:33,S5_features,multitq_para,0.4,rule_v2_ground_exact_anydate
+2026-10-20T19:58:33,S5_rerank_main,multitq_para,0.1,rule_v2_ground_exact_anydate
+2026-10-20T19:58:36,S5_features,multitq_para,0.3,rule_v2_exact_anydate
+2026-10-20T19:58:36,S5_rerank_main,multitq_para,0.1,rule_v2_exact_anydate
+2026-10-20T21:02:09,S0_prepare,multitq_bge,0.0,
+2026-10-20T21:03:01,S1_encode_chunk,multitq_bge,48.9,fact part 0/29
+2026-10-20T21:03:49,S1_encode_chunk,multitq_bge,47.5,fact part 1/29
+2026-10-20T21:04:36,S1_encode_chunk,multitq_bge,47.5,fact part 2/29
+2026-10-20T21:05:23,S1_encode_chunk,multitq_bge,47.2,fact part 3/29
+2026-10-20T21:06:11,S1_encode_chunk,multitq_bge,47.6,fact part 4/29
+2026-10-20T21:06:59,S1_encode_chunk,multitq_bge,47.8,fact part 5/29
+2026-10-20T21:07:54,S1_encode_chunk,multitq_bge,55.3,fact part 6/29
+2026-10-20T21:08:51,S1_encode_chunk,multitq_bge,57.0,fact part 7/29
+2026-10-20T21:09:47,S1_encode_chunk,multitq_bge,56.2,fact part 8/29
+2026-10-20T21:10:43,S1_encode_chunk,multitq_bge,55.5,fact part 9/29
+2026-10-20T21:11:39,S1_encode_chunk,multitq_bge,55.5,fact part 10/29
+2026-10-20T21:12:35,S1_encode_chunk,multitq_bge,56.6,fact part 11/29
+2026-10-20T21:13:32,S1_encode_chunk,multitq_bge,57.3,fact part 12/29
+2026-10-20T21:14:30,S1_encode_chunk,multitq_bge,57.9,fact part 13/29
+2026-10-20T21:15:28,S1_encode_chunk,multitq_bge,57.7,fact part 14/29
+2026-10-20T21:16:26,S1_encode_chunk,multitq_bge,57.7,fact part 15/29
+2026-10-20T21:17:25,S1_encode_chunk,multitq_bge,59.5,fact part 16/29
+2026-10-20T21:18:24,S1_encode_chunk,multitq_bge,58.7,fact part 17/29
+2026-10-20T21:19:23,S1_encode_chunk,multitq_bge,59.3,fact part 18/29
+2026-10-20T21:20:21,S1_encode_chunk,multitq_bge,58.1,fact part 19/29
+2026-10-20T21:21:20,S1_encode_chunk,multitq_bge,58.6,fact part 20/29
+2026-10-20T21:22:21,S1_encode_chunk,multitq_bge,60.4,fact part 21/29
+2026-10-20T21:23:20,S1_encode_chunk,multitq_bge,59.9,fact part 22/29
+2026-10-20T21:24:21,S1_encode_chunk,multitq_bge,60.2,fact part 23/29
+2026-10-20T21:25:21,S1_encode_chunk,multitq_bge,60.6,fact part 24/29
+2026-10-20T21:26:23,S1_encode_chunk,multitq_bge,61.1,fact part 25/29
+2026-10-20T21:27:24,S1_encode_chunk,multitq_bge,61.8,fact part 26/29
+2026-10-20T21:28:25,S1_encode_chunk,multitq_bge,61.0,fact part 27/29
+2026-10-20T21:28:35,S1_encode_chunk,multitq_bge,9.7,fact part 28/29
+2026-10-20T21:28:38,S1_encode,multitq_bge,1585.5,fact n=461329 device=mps batch=256
+2026-10-20T21:31:45,S2_encode_questions,multitq_bge,182.1,n=54584 device=mps
+2026-10-20T21:31:48,S2_faiss_build,multitq_bge,1.9,IndexFlatIP n=461329
+2026-10-20T21:32:39,S2_faiss_search,multitq_bge,50.9,top1000 queries=54584
+2026-10-20T21:34:10,S4b_anchor_phrases,multitq_bge,87.1,n=18863
+2026-10-20T21:34:29,S4b_anchor_resolve,multitq_bge,19.7,n=18863 tau=0.5
+2026-10-20T21:34:44,S5_features,multitq_bge,13.3,rule_v2_ground_exact_anydate
+2026-10-20T21:34:56,S5_rerank_main,multitq_bge,11.4,rule_v2_ground_exact_anydate
+2026-10-21T08:38:46,S5_features,multitq_orig,13.6,rule_v2_ground_substring_anydate
+2026-10-21T08:38:58,S5_rerank_main,multitq_orig,11.8,rule_v2_ground_substring_anydate

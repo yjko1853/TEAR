@@ -1,0 +1,17 @@
+split,qtype,answer_type,ambiguous,delex_fail,none,resolved,unique
+dev,after_first,entity,791,136,1522,1382,2668
+dev,before_after,entity,584,159,1357,2572,6983
+dev,before_last,entity,739,135,1469,1428,2761
+dev,equal,entity,333,0,49,5597,5989
+dev,equal,time,372,160,1287,2135,3061
+dev,equal_multi,entity,185,50,419,1178,1381
+dev,first_last,entity,85,0,14,404,195
+dev,first_last,time,240,219,1923,4281,3736
+train,after_first,entity,3192,507,12152,9802,17652
+train,before_after,entity,3151,187,16152,14433,41417
+train,before_last,entity,2842,428,11499,10237,18101
+train,equal,entity,1249,0,7311,24489,40576
+train,equal,time,1840,426,16952,15566,27481
+train,equal_multi,entity,872,72,3140,5978,6831
+train,first_last,entity,1399,0,2534,7455,3497
+train,first_last,time,886,460,14745,18183,23093

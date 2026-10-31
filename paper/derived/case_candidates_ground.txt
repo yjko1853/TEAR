@@ -1,0 +1,168 @@
+== after_first | SUCCESS (none wrong, TEAR+window right) | quid 3030525 | error class -
+   original : After China, who was the first to suffer from the unconventional violence of the Men of Argentina?
+   query    : After China, who was the first to suffer from the unconventional violence of the Men of Argentina?
+   answers  : ['Senate (Argentina)']
+   slot object | topic Men (Argentina) | cues first,after | date True
+   none        : Men (Argentina) Use unconventional violence China in 2013-09-28 || Men (Argentina) Use unconventional violence Dissident (Argentina) in 2011-10-27 || Men (Argentina) Use unconventional violence Dissident (Argentina) in 2011-10-26
+   tear_window : Men (Argentina) Use unconventional violence Senate (Argentina) in 2013-10-03 || Men (Argentina) fight with small arms and light weapons Lawmaker (Argentina) in 2015-05-06 || Men (Argentina) Threaten Business (Argentina) in 2014-12-09
+== after_first | SUCCESS (none wrong, TEAR+window right) | quid 3052443 | error class -
+   original : After Malaysia, which country hosted Surakiart Sathirathai's visit from Surakiart Sathirathai first?
+   query    : After Malaysia, which country hosted Surakiart Sathirathai's visit from Surakiart Sathirathai first?
+   answers  : ['Thailand']
+   slot subject | topic Surakiart Sathirathai | cues first,after | date True
+   none        : Surakiart Sathirathai Make a visit Malaysia in 2005-08-12 || Malaysia Host a visit Surakiart Sathirathai in 2005-08-12 || Thailand Host a visit Surakiart Sathirathai in 2006-03-24
+   tear_window : Thailand Host a visit Surakiart Sathirathai in 2006-03-24 || Thailand Host a visit Tourist (Malaysia) in 2007-09-03 || Thailand Make a visit Somsavat Lengsava in 2009-03-19
+== after_first | FAILURE (TEAR+window wrong) | quid 3042889 | error class B
+   original : After Mwai Kibaki, which was the first country with which Malaysia began negotiations?
+   query    : After Mwai Kibaki, which was the first country with which Malaysia began negotiations?
+   answers  : ['Governor (Malaysia)']
+   slot object | topic Malaysia | cues first,after | date True
+   none        : Malaysia Engage in negotiation Mwai Kibaki in 2007-04-18 || Mwai Kibaki Engage in negotiation Malaysia in 2007-04-18 || Malaysia Sign formal agreement Mwai Kibaki in 2007-04-18
+   tear_window : Malaysia Express intent to meet or negotiate Vietnam in 2007-04-25 || Malaysia Engage in negotiation Governor (Malaysia) in 2007-05-28 || Malaysia Mediate Moro Islamic Liberation Front in 2008-04-27
+== after_first | FAILURE (TEAR+window wrong) | quid 3048503 | error class B
+   original : Who was the first to express an intention to negotiate with Ethiopia after the Ogaden National Liberation Front?
+   query    : Who was the first to express an intention to negotiate with Ethiopia after the Ogaden National Liberation Front?
+   answers  : ['Ministry (Sudan)']
+   slot subject | topic Ethiopia | cues first,after | date True
+   none        : Ogaden National Liberation Front Express intent to meet or negotiate Ethiopia in 2010-06-23 || Ethiopia Sign formal agreement Ogaden National Liberation Front in 2010-10-12 || Ethiopia Sign formal agreement Ogaden National Liberation Front in 2010-10-19
+   tear_window : Head of Government (Ethiopia) Engage in negotiation Ethiopia in 2011-12-05 || Head of Government (Ethiopia) Engage in negotiation Carlos M. Hernández López in 2012-10-21 || Head of Government (Ethiopia) Engage in negotiation Abdel Fattah Al-Sisi in 2014-06-11
+== before_after | SUCCESS (none wrong, TEAR+window right) | quid 3040704 | error class -
+   original : After 28 May 2013, with whom did Swaziland sign formal agreements?
+   query    : After 28 May 2013, with whom did Swaziland sign formal agreements?
+   answers  : ['Iran']
+   slot object | topic Swaziland | cues after | date True
+   none        : Swaziland Sign formal agreement South Africa in 2011-07-18 || South Africa Sign formal agreement Swaziland in 2011-07-18 || Swaziland Sign formal agreement Iran in 2013-05-28
+   tear_window : Swaziland Sign formal agreement Iran in 2013-05-30 || Swaziland Express intent to meet or negotiate South Africa in 2015-11-10 || Tanzania Sign formal agreement South Africa in 2013-09-29
+== before_after | SUCCESS (none wrong, TEAR+window right) | quid 3001298 | error class -
+   original : Who praised Pakistan-administered Kashmir after China?
+   query    : Who praised Pakistan-administered Kashmir after China?
+   answers  : ['Government (Pakistan)', "Pakistan People's Party"]
+   slot subject | topic Pakistan administered Kashmir | cues after | date True
+   none        : China Praise or endorse Pakistan administered Kashmir in 2011-09-05 || Government (Pakistan) Praise or endorse Pakistan administered Kashmir in 2008-06-24 || Government (Pakistan) Praise or endorse Pakistan administered Kashmir in 2012-02-04
+   tear_window : Government (Pakistan) Praise or endorse Pakistan administered Kashmir in 2012-02-04 || Government (Pakistan) Praise or endorse Pakistan administered Kashmir in 2012-02-05 || Pakistan People's Party Praise or endorse Pakistan administered Kashmir in 2013-02-20
+== before_after | FAILURE (TEAR+window wrong) | quid 3018971 | error class B
+   original : Before 2008, which country did Cambodia make an appeal to?
+   query    : Before 2008, which country did Cambodia make an appeal to?
+   answers  : ['Japan', 'Vietnam', 'High Commission for Refugees', 'Thailand']
+   slot object | topic Cambodia | cues before | date True
+   none        : Cambodia Appeal for economic aid Thailand in 2008-03-05 || Cambodia Appeal for economic aid Thailand in 2008-03-03 || Cambodia Appeal for economic aid China in 2006-11-07
+   tear_window : Cambodia Appeal for economic aid China in 2006-11-07 || Cambodia Make statement China in 2005-12-08 || Cambodia Consult Wen Jiabao in 2006-10-31
+== before_after | FAILURE (TEAR+window wrong) | quid 3037885 | error class B
+   original : Who did the Foreign Affairs of India made optimistic remarks on before Thailand?
+   query    : Who did the Foreign Affairs of India made optimistic remarks on before Thailand?
+   answers  : ['Wen Jiabao', 'Employee (Sudan)', 'Laos']
+   slot object | topic Foreign Affairs (India) | cues before | date True
+   none        : Foreign Affairs (India) Make optimistic comment Thailand in 2009-11-21 || Foreign Affairs (India) Praise or endorse Thailand in 2009-07-24 || Head of Government (India) Make statement Thailand in 2015-04-02
+   tear_window : Foreign Affairs (India) Make statement Head of Government (India) in 2005-10-04 || Foreign Affairs (India) Make statement Head of Government (India) in 2006-05-25 || Foreign Affairs (India) Make optimistic comment Laos in 2006-02-07
+== before_last | SUCCESS (none wrong, TEAR+window right) | quid 3006978 | error class -
+   original : Who was the last person to criticise Tsai Ing-wen before China?
+   query    : Who was the last person to criticise Tsai Ing-wen before China?
+   answers  : ['Ma Ying Jeou']
+   slot subject | topic Tsai Ing-wen | cues last,before | date True
+   none        : China Criticize or denounce Tsai Ing-wen in 2009-12-08 || China Criticize or denounce Tsai Ing-wen in 2007-08-05 || China Criticize or denounce Tsai Ing-wen in 2015-10-01
+   tear_window : Ma Ying Jeou Reject Tsai Ing-wen in 2012-11-17 || Media (United States) Make statement Tsai Ing-wen in 2015-06-13 || China Criticize or denounce Tsai Ing-wen in 2015-10-01
+== before_last | SUCCESS (none wrong, TEAR+window right) | quid 3033407 | error class -
+   original : Which country was the last to visit Ethiopia before William J. Fallon?
+   query    : Which country was the last to visit Ethiopia before William J. Fallon?
+   answers  : ['Angola']
+   slot subject | topic Ethiopia | cues last,before | date True
+   none        : William J. Fallon Make a visit Ethiopia in 2007-05-11 || Ethiopia Host a visit William J. Fallon in 2007-05-11 || Michael D. Higgins Make a visit Ethiopia in 2014-11-07
+   tear_window : Angola Make a visit Ethiopia in 2007-05-09 || Head of Government (Ethiopia) Make a visit African Union in 2007-01-29 || Foreign Affairs (Ethiopia) Make a visit Abdul Aziz Abdul Ghani in 2006-02-15
+== before_last | FAILURE (TEAR+window wrong) | quid 3009938 | error class A
+   original : Before Cambodia, who was the last country to investigate the citizens of Thailand?
+   query    : Before Cambodia, who was the last country to investigate the citizens of Thailand?
+   answers  : ['Media (Thailand)']
+   slot subject | topic Citizen (Thailand) | cues last,before | date True
+   none        : Cambodia Investigate Citizen (Thailand) in 2011-01-06 || Military (Cambodia) Investigate Thailand in 2011-02-16 || Thailand Investigate Cambodia in 2010-08-23
+   tear_window : Thailand Investigate Cambodia in 2010-12-29 || Thailand Deny responsibility Cambodia in 2009-12-08 || Thailand Arrest, detain, or charge with legal action Men (Cambodia) in 2005-05-22
+== before_last | FAILURE (TEAR+window wrong) | quid 3016615 | error class A
+   original : Before the government of Burundi, to whom did Burundi last make a request?
+   query    : Before the government of Burundi, to whom did Burundi last make a request?
+   answers  : ['Other Authorities / Officials (Burundi)']
+   slot object | topic Burundi | cues last,before | date True
+   none        : Envoy (United States) Demand Government (Burundi) in 2015-01-03 || Frédéric Bamvuginyumvira Demand Government (Burundi) in 2007-12-11 || Burundi Consult Government Official (Rwanda) in 2005-10-13
+   tear_window : Front for Democracy in Burundi Consult Head of Government (Burundi) in 2007-10-22 || Burundi Demand Government (Nigeria) in 2006-09-10 || Government (Burundi) Consult Rebel Group (Tanzania) in 2006-05-31
+== equal | SUCCESS (none wrong, TEAR+window right) | quid 3035678 | error class -
+   original : In 2008, who formally signed an agreement with Cambodia?
+   query    : In 2008, who formally signed an agreement with Cambodia?
+   answers  : ['Malaysia', 'Kuwait', 'Vietnam', 'Noppadon Pattama', 'George Yeo', 'Thailand', 'Laos', 'China', 'Qatar', 'Government (Qatar)']
+   slot subject | topic Cambodia | cues  | date False
+   none        : Cambodia Sign formal agreement China in 2008-05-03 || Cambodia Sign formal agreement China in 2008-03-31 || Cambodia Sign formal agreement China in 2009-12-21
+   tear_window : China Sign formal agreement Cambodia in 2008-05-03 || China Sign formal agreement Cambodia in 2008-03-31 || China Sign formal agreement Cambodia in 2009-12-21
+== equal | SUCCESS (none wrong, TEAR+window right) | quid 3043049 | error class -
+   original : Who attacked Thailand with small arms and light weapons in February 2010?
+   query    : Who attacked Thailand with small arms and light weapons in February 2010?
+   answers  : ['Insurgent (Thailand)']
+   slot subject | topic Thailand | cues  | date False
+   none        : Thailand fight with small arms and light weapons Insurgent (Thailand) in 2008-03-21 || Insurgent (Thailand) Threaten with military force Thailand in 2010-12-17 || Insurgent (Thailand) fight with small arms and light weapons Thailand in 2010-02-17
+   tear_window : Insurgent (Thailand) Threaten with military force Thailand in 2010-12-17 || Insurgent (Thailand) fight with small arms and light weapons Thailand in 2010-02-17 || Insurgent (Thailand) Threaten with military force Thailand in 2010-07-13
+== equal | FAILURE (TEAR+window wrong) | quid 3012086 | error class B
+   original : In which year did Iraq repatriate people to the staff of Iraq?
+   query    : In which year did Iraq repatriate people to the staff of Iraq?
+   answers  : ['2015']
+   slot timestamp | topic Iraq | cues  | date False
+   none        : High Commission for Refugees Return, release person(s) Iraq in 2008-07-31 || Iraq Return, release person(s) Employee (Iraq) in 2015-02-08 || Iraq Expel or deport individuals Immigrants (Iraq) in 2011-01-24
+   tear_window : High Commission for Refugees Return, release person(s) Iraq in 2008-07-31 || Iraq Return, release person(s) Employee (Iraq) in 2015-02-08 || Iraq Expel or deport individuals Immigrants (Iraq) in 2011-01-24
+== equal | FAILURE (TEAR+window wrong) | quid 3049868 | error class A
+   original : In November 2014, who paid a visit to Malaysia?
+   query    : In November 2014, who paid a visit to Malaysia?
+   answers  : ['Yen Ming', 'Iran', 'Boris Johnson']
+   slot subject | topic Malaysia | cues  | date False
+   none        : Barack Obama Make a visit Malaysia in 2014-12-29 || Barack Obama Make a visit Malaysia in 2014-04-28 || Barack Obama Make a visit Malaysia in 2014-08-07
+   tear_window : Barack Obama Make a visit Malaysia in 2014-12-29 || Barack Obama Make a visit Malaysia in 2014-04-28 || Barack Obama Make a visit Malaysia in 2014-08-07
+== equal_multi | SUCCESS (none wrong, TEAR+window right) | quid 3027848 | error class -
+   original : In 2005, who was the first to suffer from conventional military forces in Iraq?
+   query    : In 2005, who was the first to suffer from conventional military forces in Iraq?
+   answers  : ['Military (Jordan)']
+   slot object | topic Iraq | cues first | date False
+   none        : U.S. 1st Marine Expeditionary Force Use conventional military force Iraq in 2005-04-25 || Iraq Use conventional military force Member of Parliament (Iraq) in 2014-10-14 || Iraq Use conventional military force Agshin Mehdiyev in 2007-09-29
+   tear_window : Iraq Use conventional military force Military (Jordan) in 2005-08-27 || Iraq Provide humanitarian aid Japan Self-Defense Forces in 2008-04-18 || Iraq Provide military aid Middle East in 2005-01-16
+== equal_multi | SUCCESS (none wrong, TEAR+window right) | quid 3027989 | error class -
+   original : In the same month as Malaysia, which country did South Africa want to cooperate with?
+   query    : In the same month as Malaysia, which country did South Africa want to cooperate with?
+   answers  : ['China']
+   slot object | topic South Africa | cues  | date False
+   none        : South Africa Express intent to cooperate Malaysia in 2005-06-27 || Malaysia Express intent to cooperate South Africa in 2005-06-27 || South Africa Engage in diplomatic cooperation Malaysia in 2007-04-09
+   tear_window : South Africa Express intent to cooperate China in 2005-06-17 || South Africa Express intent to cooperate Malaysia in 2005-06-27 || Malaysia Express intent to cooperate South Africa in 2005-06-27
+== equal_multi | FAILURE (TEAR+window wrong) | quid 3033048 | error class A
+   original : Who was last investigated by China in 2009?
+   query    : Who was last investigated by China in 2009?
+   answers  : ['Men (Japan)']
+   slot object | topic China | cues last | date False
+   none        : Xi Jinping Investigate China in 2009-08-25 || Secretariat (Chinese Communist Party) Investigate China in 2006-11-08 || Secretariat (Chinese Communist Party) Investigate China in 2006-09-12
+   tear_window : Zhang Dejiang Consult Police (Hong Kong) in 2015-03-06 || Public Prosecutor (China) Make statement Oversight Court (China) in 2009-10-24 || China Deny responsibility Intelligence Chief (United States) in 2015-06-26
+== equal_multi | FAILURE (TEAR+window wrong) | quid 3026409 | error class A
+   original : Who did Juan Carlos I negotiate with in Iraq in the same month?
+   query    : Who did Juan Carlos I negotiate with in Iraq in the same month?
+   answers  : ['Royal Administration (Saudi Arabia)']
+   slot object | topic Juan Carlos I | cues  | date False
+   none        : Juan Carlos I Engage in negotiation Iraq in 2006-04-24 || Iraq Engage in negotiation Juan Carlos I in 2006-04-24 || Juan Carlos I Engage in negotiation Vietnam in 2006-02-20
+   tear_window : Juan Carlos I Engage in negotiation Iraq in 2006-04-24 || Juan Carlos I Engage in negotiation Vietnam in 2006-02-20 || Juan Carlos I Express intent to meet or negotiate Vietnam in 2006-02-17
+== first_last | SUCCESS (none wrong, TEAR+window right) | quid 3004493 | error class -
+   original : In which year did Abhisit Vejjajiva last negotiate with Thailand?
+   query    : In which year did Abhisit Vejjajiva last negotiate with Thailand?
+   answers  : ['2010']
+   slot timestamp | topic Abhisit Vejjajiva | cues last | date False
+   none        : Abhisit Vejjajiva Engage in negotiation Thailand in 2009-10-04 || Abhisit Vejjajiva Engage in negotiation Thailand in 2010-01-14 || Abhisit Vejjajiva Engage in negotiation Thailand in 2009-06-15
+   tear_window : Abhisit Vejjajiva Engage in negotiation Thailand in 2010-01-14 || Thailand Engage in negotiation Abhisit Vejjajiva in 2010-01-14 || Abhisit Vejjajiva Reject proposal to meet, discuss, or negotiate Thailand in 2010-07-18
+== first_last | SUCCESS (none wrong, TEAR+window right) | quid 3017127 | error class -
+   original : In what year did Liu Yandong first investigate China?
+   query    : In what year did Liu Yandong first investigate China?
+   answers  : ['2008']
+   slot timestamp | topic Liu Yandong | cues first | date False
+   none        : Liu Yandong Investigate China in 2009-02-15 || Liu Yandong Investigate China in 2008-05-09 || Liu Yandong Investigate China in 2013-10-14
+   tear_window : Liu Yandong Investigate China in 2008-05-09 || Liu Yandong Make a visit China in 2005-11-10 || Liu Yandong Make statement China in 2005-09-02
+== first_last | FAILURE (TEAR+window wrong) | quid 3030612 | error class B
+   original : When was the last time Chu Sang-song visited China?
+   query    : When was the last time Chu Sang-song visited China?
+   answers  : ['2009-12-17']
+   slot timestamp | topic Chu Sang-song | cues last | date False
+   none        : Kang Sok Chu Make a visit China in 2005-04-05 || China Host a visit Chu Sang-song in 2009-12-17 || China Host a visit Chu Sang-song in 2009-12-15
+   tear_window : Kang Sok Chu Make a visit China in 2005-04-05 || China Host a visit Chu Sang-song in 2009-12-17 || Chu Sang-song Make a visit China in 2009-12-17
+== first_last | FAILURE (TEAR+window wrong) | quid 3024153 | error class B
+   original : When did Malaysia first make an appeal to the Muslims of Malaysia?
+   query    : When did Malaysia first make an appeal to the Muslims of Malaysia?
+   answers  : ['2006-06-01']
+   slot timestamp | topic Muslim (Malaysia) | cues first | date False
+   none        : Malaysia Make statement Muslim (Malaysia) in 2005-06-23 || Malaysia Make statement Muslim (Malaysia) in 2007-03-15 || Malaysia Make statement Muslim (Malaysia) in 2011-01-17
+   tear_window : Malaysia Make statement Muslim (Malaysia) in 2005-06-23 || Malaysia Make an appeal or request Muslim (Malaysia) in 2006-06-01 || Malaysia Demand Muslim (Malaysia) in 2007-02-13

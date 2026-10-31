@@ -1,0 +1,121 @@
+[2026-10-18 10:14:16] chunk 0-1000 setting none prompt v3
+finished 0 questions in 0s (0.00 s/question) -> results/qwen_ground/none_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear_window", "slice": [0, 1000], "todo_before": 0, "copied": 0, "by_source": {}, "dry_run": false}
+[2026-10-18 10:14:21] chunk 0-1000 setting tear_window prompt v3
+finished 0 questions in 0s (0.00 s/question) -> results/qwen_ground/tear_window_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "timer4", "slice": [0, 1000], "todo_before": 0, "copied": 0, "by_source": {}, "dry_run": false}
+[2026-10-18 10:14:25] chunk 0-1000 setting timer4 prompt v3
+finished 0 questions in 0s (0.00 s/question) -> results/qwen_ground/timer4_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 10:14:28] chunk 0-1000 setting timer4_public prompt v3
+finished 0 questions in 0s (0.00 s/question) -> results/qwen_ground/timer4_public__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear", "slice": [0, 1000], "todo_before": 0, "copied": 0, "by_source": {}, "dry_run": false}
+[2026-10-18 10:14:32] chunk 0-1000 setting tear prompt v3
+finished 0 questions in 0s (0.00 s/question) -> results/qwen_ground/tear_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "atc", "slice": [0, 1000], "todo_before": 0, "copied": 0, "by_source": {}, "dry_run": false}
+[2026-10-18 10:14:36] chunk 0-1000 setting atc prompt v3
+finished 0 questions in 0s (0.00 s/question) -> results/qwen_ground/atc_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tr", "slice": [0, 1000], "todo_before": 0, "copied": 0, "by_source": {}, "dry_run": false}
+[2026-10-18 10:14:40] chunk 0-1000 setting tr prompt v3
+finished 0 questions in 0s (0.00 s/question) -> results/qwen_ground/tr_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 10:14:44] chunk 0-1000 done; see results/qwen_ground_scores/
+[2026-10-18 10:14:44] chunk 1000-2000 setting none prompt v3
+finished 0 questions in 0s (0.00 s/question) -> results/qwen_ground/none_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear_window", "slice": [1000, 2000], "todo_before": 559, "copied": 44, "by_source": {"none": 44}, "dry_run": false}
+[2026-10-18 10:14:48] chunk 1000-2000 setting tear_window prompt v3
+finished 515 questions in 2521s (4.90 s/question) -> results/qwen_ground/tear_window_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "timer4", "slice": [1000, 2000], "todo_before": 1000, "copied": 754, "by_source": {"none": 754}, "dry_run": false}
+[2026-10-18 10:56:53] chunk 1000-2000 setting timer4 prompt v3
+finished 246 questions in 1186s (4.82 s/question) -> results/qwen_ground/timer4_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 11:16:43] chunk 1000-2000 setting timer4_public prompt v3
+finished 1000 questions in 4861s (4.86 s/question) -> results/qwen_ground/timer4_public__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear", "slice": [1000, 2000], "todo_before": 1000, "copied": 651, "by_source": {"tear_window": 544, "none": 107}, "dry_run": false}
+[2026-10-18 12:37:49] chunk 1000-2000 setting tear prompt v3
+finished 349 questions in 1781s (5.10 s/question) -> results/qwen_ground/tear_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "atc", "slice": [1000, 2000], "todo_before": 1000, "copied": 606, "by_source": {"tear": 224, "tear_window": 95, "none": 287}, "dry_run": false}
+[2026-10-18 13:07:35] chunk 1000-2000 setting atc prompt v3
+finished 394 questions in 1936s (4.91 s/question) -> results/qwen_ground/atc_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tr", "slice": [1000, 2000], "todo_before": 1000, "copied": 582, "by_source": {"none": 426, "tear_window": 155, "tear": 1}, "dry_run": false}
+[2026-10-18 13:39:56] chunk 1000-2000 setting tr prompt v3
+finished 418 questions in 2051s (4.91 s/question) -> results/qwen_ground/tr_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 14:14:12] chunk 1000-2000 done; see results/qwen_ground_scores/
+[2026-10-18 14:14:12] chunk 2000-3000 setting none prompt v3
+finished 1000 questions in 4965s (4.97 s/question) -> results/qwen_ground/none_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear_window", "slice": [2000, 3000], "todo_before": 1000, "copied": 94, "by_source": {"none": 94}, "dry_run": false}
+[2026-10-18 15:37:02] chunk 2000-3000 setting tear_window prompt v3
+finished 906 questions in 4767s (5.26 s/question) -> results/qwen_ground/tear_window_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "timer4", "slice": [2000, 3000], "todo_before": 1000, "copied": 760, "by_source": {"none": 760}, "dry_run": false}
+[2026-10-18 16:56:34] chunk 2000-3000 setting timer4 prompt v3
+finished 240 questions in 1195s (4.98 s/question) -> results/qwen_ground/timer4_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-18 17:16:34] chunk 2000-3000 setting timer4_public prompt v3
+finished 1000 questions in 18728s (18.73 s/question) -> results/qwen_ground/timer4_public__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear", "slice": [2000, 3000], "todo_before": 1000, "copied": 647, "by_source": {"tear_window": 541, "none": 106}, "dry_run": false}
+[2026-10-18 22:28:47] chunk 2000-3000 setting tear prompt v3
+finished 353 questions in 1809s (5.13 s/question) -> results/qwen_ground/tear_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "atc", "slice": [2000, 3000], "todo_before": 1000, "copied": 619, "by_source": {"tear_window": 111, "none": 294, "tear": 214}, "dry_run": false}
+[2026-10-18 22:59:01] chunk 2000-3000 setting atc prompt v3
+finished 381 questions in 1878s (4.93 s/question) -> results/qwen_ground/atc_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tr", "slice": [2000, 3000], "todo_before": 1000, "copied": 596, "by_source": {"none": 431, "tear_window": 163, "tear": 1, "timer4": 1}, "dry_run": false}
+[2026-10-18 23:30:24] chunk 2000-3000 setting tr prompt v3
+finished 404 questions in 2060s (5.10 s/question) -> results/qwen_ground/tr_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-19 00:04:50] chunk 2000-3000 done; see results/qwen_ground_scores/
+[2026-10-19 00:04:50] chunk 3000-4000 setting none prompt v3
+finished 1000 questions in 5203s (5.20 s/question) -> results/qwen_ground/none_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear_window", "slice": [3000, 4000], "todo_before": 1000, "copied": 67, "by_source": {"none": 67}, "dry_run": false}
+[2026-10-19 01:31:38] chunk 3000-4000 setting tear_window prompt v3
+finished 933 questions in 5025s (5.39 s/question) -> results/qwen_ground/tear_window_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "timer4", "slice": [3000, 4000], "todo_before": 1000, "copied": 746, "by_source": {"none": 746}, "dry_run": false}
+[2026-10-19 02:55:27] chunk 3000-4000 setting timer4 prompt v3
+finished 254 questions in 1320s (5.20 s/question) -> results/qwen_ground/timer4_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-19 03:17:32] chunk 3000-4000 setting timer4_public prompt v3
+finished 1000 questions in 5259s (5.26 s/question) -> results/qwen_ground/timer4_public__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear", "slice": [3000, 4000], "todo_before": 1000, "copied": 640, "by_source": {"tear_window": 543, "none": 97}, "dry_run": false}
+[2026-10-19 04:45:16] chunk 3000-4000 setting tear prompt v3
+finished 360 questions in 2015s (5.60 s/question) -> results/qwen_ground/tear_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "atc", "slice": [3000, 4000], "todo_before": 1000, "copied": 613, "by_source": {"tear_window": 115, "tear": 239, "none": 259}, "dry_run": false}
+[2026-10-19 05:18:57] chunk 3000-4000 setting atc prompt v3
+finished 387 questions in 2029s (5.24 s/question) -> results/qwen_ground/atc_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tr", "slice": [3000, 4000], "todo_before": 1000, "copied": 601, "by_source": {"none": 451, "tear_window": 150}, "dry_run": false}
+[2026-10-19 05:52:50] chunk 3000-4000 setting tr prompt v3
+finished 399 questions in 2081s (5.22 s/question) -> results/qwen_ground/tr_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-19 06:27:38] chunk 3000-4000 done; see results/qwen_ground_scores/
+[2026-10-19 06:27:38] chunk 4000-5000 setting none prompt v3
+finished 1000 questions in 5287s (5.29 s/question) -> results/qwen_ground/none_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear_window", "slice": [4000, 5000], "todo_before": 1000, "copied": 80, "by_source": {"none": 80}, "dry_run": false}
+[2026-10-19 07:55:50] chunk 4000-5000 setting tear_window prompt v3
+finished 920 questions in 4652s (5.06 s/question) -> results/qwen_ground/tear_window_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "timer4", "slice": [4000, 5000], "todo_before": 1000, "copied": 759, "by_source": {"none": 759}, "dry_run": false}
+[2026-10-19 09:13:26] chunk 4000-5000 setting timer4 prompt v3
+finished 241 questions in 1205s (5.00 s/question) -> results/qwen_ground/timer4_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-19 09:33:36] chunk 4000-5000 setting timer4_public prompt v3
+finished 1000 questions in 5108s (5.11 s/question) -> results/qwen_ground/timer4_public__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear", "slice": [4000, 5000], "todo_before": 1000, "copied": 659, "by_source": {"tear_window": 558, "none": 101}, "dry_run": false}
+[2026-10-19 10:58:48] chunk 4000-5000 setting tear prompt v3
+finished 341 questions in 1803s (5.29 s/question) -> results/qwen_ground/tear_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "atc", "slice": [4000, 5000], "todo_before": 1000, "copied": 636, "by_source": {"none": 283, "tear": 231, "tear_window": 122}, "dry_run": false}
+[2026-10-19 11:28:56] chunk 4000-5000 setting atc prompt v3
+finished 364 questions in 1863s (5.12 s/question) -> results/qwen_ground/atc_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tr", "slice": [4000, 5000], "todo_before": 1000, "copied": 620, "by_source": {"tear_window": 164, "none": 454, "tear": 2}, "dry_run": false}
+[2026-10-19 12:00:04] chunk 4000-5000 setting tr prompt v3
+finished 380 questions in 1947s (5.12 s/question) -> results/qwen_ground/tr_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-19 12:32:38] chunk 4000-5000 done; see results/qwen_ground_scores/
+[2026-10-19 12:32:38] chunk 5000-6000 setting none prompt v3
+finished 1000 questions in 5232s (5.23 s/question) -> results/qwen_ground/none_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear_window", "slice": [5000, 6000], "todo_before": 1000, "copied": 76, "by_source": {"none": 76}, "dry_run": false}
+[2026-10-19 13:59:55] chunk 5000-6000 setting tear_window prompt v3
+finished 924 questions in 4976s (5.38 s/question) -> results/qwen_ground/tear_window_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "timer4", "slice": [5000, 6000], "todo_before": 1000, "copied": 761, "by_source": {"none": 761}, "dry_run": false}
+[2026-10-19 15:22:55] chunk 5000-6000 setting timer4 prompt v3
+finished 239 questions in 1236s (5.17 s/question) -> results/qwen_ground/timer4_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-19 15:43:36] chunk 5000-6000 setting timer4_public prompt v3
+finished 1000 questions in 5260s (5.26 s/question) -> results/qwen_ground/timer4_public__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tear", "slice": [5000, 6000], "todo_before": 1000, "copied": 637, "by_source": {"tear_window": 548, "none": 89}, "dry_run": false}
+[2026-10-19 17:11:21] chunk 5000-6000 setting tear prompt v3
+finished 363 questions in 1943s (5.35 s/question) -> results/qwen_ground/tear_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "atc", "slice": [5000, 6000], "todo_before": 1000, "copied": 612, "by_source": {"tear": 240, "none": 261, "tear_window": 111}, "dry_run": false}
+[2026-10-19 17:43:48] chunk 5000-6000 setting atc prompt v3
+finished 388 questions in 2012s (5.19 s/question) -> results/qwen_ground/atc_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+{"target": "tr", "slice": [5000, 6000], "todo_before": 1000, "copied": 597, "by_source": {"none": 440, "tear_window": 156, "tear": 1}, "dry_run": false}
+[2026-10-19 18:17:25] chunk 5000-6000 setting tr prompt v3
+finished 403 questions in 2081s (5.16 s/question) -> results/qwen_ground/tr_rule_v2_ground_exact_anydate__Qwen2.5-7B-Instruct-4bit__k15__p-v3.jsonl
+[2026-10-19 18:52:13] chunk 5000-6000 done; see results/qwen_ground_scores/
+[2026-10-19 18:52:13] all chunks done

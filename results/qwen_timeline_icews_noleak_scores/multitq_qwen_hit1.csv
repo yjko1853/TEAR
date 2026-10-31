@@ -1,0 +1,4 @@
+setting,prompt,model,n,hit1_exact,hit1_lenient,hit_any_lenient,timeline_position_retrievel*2+temporal_constrainted_retrieval,timeline_recovery_temporal_constrainted_retrieval
+hardwindow_rule_ground,v3i,Qwen2.5-7B-Instruct-4bit,1000,0.129,0.133,0.172,0.23076923076923078,0.097911227154047
+none_rule_ground,v3i,Qwen2.5-7B-Instruct-4bit,1000,0.074,0.077,0.105,0.11965811965811966,0.06005221932114883
+tear_window_rule_ground,v3i,Qwen2.5-7B-Instruct-4bit,1000,0.125,0.129,0.165,0.21367521367521367,0.097911227154047

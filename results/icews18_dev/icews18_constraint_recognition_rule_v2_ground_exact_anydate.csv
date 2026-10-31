@@ -1,0 +1,7 @@
+qtype,n,slot_available,topic_available,cue_first,cue_last,cue_before,cue_after,target_date,window,tr_fired,atc_penalised_any,anchor_used,period_window,anchor_atc
+after_first,200,1.0,1.0,1.0,0.0,0.0,1.0,0.96,0.96,1.0,0.99,0.96,0.0,0.96
+before_after,200,1.0,1.0,0.0,0.0,0.455,0.545,0.975,0.975,0.0,0.995,0.395,0.0,0.395
+before_last,200,1.0,1.0,0.0,1.0,1.0,0.0,0.98,0.98,1.0,0.995,0.98,0.0,0.98
+equal,200,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0
+equal_multi,200,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.905,0.0,0.995,0.905,0.905,0.905
+first_last,200,1.0,1.0,0.48,0.52,0.0,0.0,0.0,0.0,1.0,0.1,0.0,0.0,0.0

@@ -1,0 +1,11 @@
+category,count,share_of_errors_gold_in_top15,n_sample
+errors_gold_in_top15,2396,1.0,6000
+empty_or_malformed,108,0.045075125208681135,6000
+wrong_granularity,384,0.16026711185308848,6000
+wrong_granularity_finer,381,0.15901502504173623,6000
+wrong_granularity_coarser,3,0.0012520868113522537,6000
+copied_wrong_fact,1564,0.6527545909849749,6000
+copied_from_top1,373,0.1556761268781302,6000
+copied_topic_entity,81,0.03380634390651085,6000
+other_not_in_top15,340,0.1419031719532554,6000
+all_reader_errors,4071,,6000

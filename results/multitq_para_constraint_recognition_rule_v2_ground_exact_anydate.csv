@@ -1,0 +1,4 @@
+qtype,n,slot_available,topic_available,cue_first,cue_last,cue_before,cue_after,target_date,window,tr_fired,atc_penalised_any,anchor_used,period_window,anchor_atc
+after_first,200,1.0,1.0,0.695,0.0,0.09,0.2,0.94,0.94,0.695,0.985,0.94,0.0,0.87
+before_last,200,1.0,1.0,0.005,0.495,0.52,0.03,0.815,0.815,0.5,0.98,0.815,0.0,0.81
+equal_multi,200,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.61,0.0,0.935,0.61,0.61,0.57

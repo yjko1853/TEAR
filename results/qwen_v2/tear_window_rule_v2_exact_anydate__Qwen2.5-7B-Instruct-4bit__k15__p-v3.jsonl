@@ -1,0 +1,1000 @@
+{"quid": "3048359", "prediction": "[]", "answers": ["Jack Straw"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3031002", "prediction": "['2005-01-03', '2005-01-04', '2005-02-04', '2005-11-16',", "answers": ["2008"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3013744", "prediction": "['UN Security Council', 'France', 'Thailand']", "answers": ["Kazakhstan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016728", "prediction": "['Evo Morales', 'Vietnam', 'Colombia', 'Ricardo Ehrlich', 'Cristina Fernández de Kirchner']", "answers": ["Ricardo Ehrlich", "City Mayor (United States)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3000403", "prediction": "['2014-10-08']", "answers": ["2014"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3024356", "prediction": "['2014-01-09']", "answers": ["2014-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3016765", "prediction": "['2013', '2005']", "answers": ["2013"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3034560", "prediction": "['2007-04-23', 'Italy']", "answers": ["Qatar"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025825", "prediction": "['2010-07-19']", "answers": ["2010-07-19"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3017963", "prediction": "['UN Security Council']", "answers": ["Madagascar"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051701", "prediction": "[]", "answers": ["Anas Khalid Al Saleh"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3007465", "prediction": "['Venezuela', 'Argentina']", "answers": ["Vietnam"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050440", "prediction": "['France', 'Admiral (China)']", "answers": ["Kōichirō Genba"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044337", "prediction": "['Rafael Correa', 'Rafael Correa', 'Rafael Correa']", "answers": ["Heraldo Muñoz"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3041000", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Cristina Fernández de Kirchner"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3023333", "prediction": "['Thailand']", "answers": ["Vietnam"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3015884", "prediction": "['Abdullah Gül', '2009-02-06']", "answers": ["Ministry (Egypt)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053848", "prediction": "['2010-05-24']", "answers": ["2010-05-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3024198", "prediction": "['2010-12']", "answers": ["2010-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3031901", "prediction": "['2008-04']", "answers": ["2008-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3039047", "prediction": "[]", "answers": ["Thailand"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3001451", "prediction": "['Japan']", "answers": ["Ethiopia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034566", "prediction": "['Vietnam']", "answers": ["Vietnam"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3007572", "prediction": "['Iran', '2012-05-17']", "answers": ["Iran"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3054954", "prediction": "['Ethiopia']", "answers": ["UAE Armed Forces", "Sudan", "France", "Royal Administration (Saudi Arabia)", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3022315", "prediction": "['Hui Liangyu', '2010-06-30']", "answers": ["Thiha Thura Tin Aung Myint Oo"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000471", "prediction": "['China', 'Xi Jinping']", "answers": ["Vietnam", "Citizen (Brazil)", "Dmitry Anatolyevich Medvedev"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3012322", "prediction": "['June']", "answers": ["2008-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3009678", "prediction": "['Kikuyu', 'Lari']", "answers": ["Kikuyu"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3022632", "prediction": "['Xi Jinping']", "answers": ["Angela Merkel", "Vietnam", "Head of Government (Pakistan)", "Straits Exchange Foundation", "Socialist Party (Yemen)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3049966", "prediction": "['2010-05-03']", "answers": ["2010-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3032090", "prediction": "['Cambodia', 'Japan', 'Vietnam', 'China']", "answers": ["UN Security Council", "Citizen (Thailand)", "Malaysia", "Japan", "Cambodia", "Vietnam", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3038240", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Wen Jiabao"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3049811", "prediction": "['2008-07']", "answers": ["2008-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3033043", "prediction": "['Naval (Sri Lanka)']", "answers": ["Naval (Sri Lanka)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052431", "prediction": "['2012-06-29']", "answers": ["2012-06-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3011917", "prediction": "['China', '2010-09-30']", "answers": ["China"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3030010", "prediction": "['Barack Obama', '2014-03-11']", "answers": ["Agence France-Presse"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3040914", "prediction": "['Vietnam', 'Emperor Akihito']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038912", "prediction": "['Robert M. Kimmitt']", "answers": ["Malaysia", "Mainland Affairs Council", "South Korea", "Donald Rumsfeld", "Citizen (United Kingdom)", "Media Personnel (China)", "Japan", "Health Ministry (China)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052946", "prediction": "['Iran', 'African Union']", "answers": ["Head of Government (Pakistan)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003556", "prediction": "['Citizen (Australia)', 'France']", "answers": ["France"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3049519", "prediction": "['South Korea', '2008-06-04']", "answers": ["City Mayor (China)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025351", "prediction": "['2012']", "answers": ["2012"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3001113", "prediction": "[]", "answers": ["Iran", "Yemen", "Kuwait", "Armed Rebel (Yemen)", "Other Authorities / Officials (Burundi)", "Raúl Castro", "Thailand", "Government (Burundi)", "France", "United Arab Emirates", "Peacekeeping Troop (African Union)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008684", "prediction": "['2009-06-18']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3015387", "prediction": "['Tony Blair', '2005-12-28']", "answers": ["Justice and Development Party"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013637", "prediction": "['Japan']", "answers": ["Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3043989", "prediction": "['Cambodia']", "answers": ["Thailand"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3014170", "prediction": "['France', 'Iran']", "answers": ["France"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3020835", "prediction": "['Abdul-Karim Al-Arhabi', 'Nhial Deng Nhial']", "answers": ["Nhial Deng Nhial"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3030898", "prediction": "['2013-01-28']", "answers": ["2013"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3052308", "prediction": "['Thailand', 'China']", "answers": ["Criminal (China)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3030428", "prediction": "['Iran', 'Unidentified State Actor']", "answers": ["Other Authorities / Officials (Russia)", "South Korea", "Legislature (Czech Republic)", "Iran", "Kazakhstan", "Japan", "Sudan", "South Africa", "Thailand", "Ethiopia", "Cambodia"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3026309", "prediction": "['2013-12-01']", "answers": ["2013"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3033007", "prediction": "['Trinidad and Tobago', 'China']", "answers": ["Iran", "Malaysia", "Sudan", "South Korea", "Kazakhstan", "France", "Laos", "Belize", "Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3039074", "prediction": "['Tony Blair', 'Associated Press']", "answers": ["Tony Blair"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035813", "prediction": "['2014-07-23']", "answers": ["2014-07-23"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3016429", "prediction": "['2008-10-17', 'Party Member (Iraq)']", "answers": ["Islamic Preacher (Iran)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3012722", "prediction": "['Sudan', 'Djibouti']", "answers": ["Sudan", "Djibouti"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3030058", "prediction": "['France', 'France', 'France']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005325", "prediction": "['2013-05-31', '2013-06-01', '2013-06-02']", "answers": ["2014-02"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3020748", "prediction": "['2006-01-23', '2006-04-27']", "answers": ["Kuomintang", "Lien Chan", "Maumoon Abdul Gayoom", "Government (Pakistan)", "Ma Ying Jeou"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3046107", "prediction": "['Japan']", "answers": ["South Korea"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034058", "prediction": "['2006-12-24']", "answers": ["2006-12-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3016826", "prediction": "['2014-06']", "answers": ["Evo Morales", "Kuomintang", "Head of Government (India)", "Jan Mládek", "Royal Administration (Spain)", "Angola", "Military Personnel (Thailand)", "Kocheril Narayanan", "Consultative Assembly of Oman", "Elizabeth II", "Antonis Samaras", "Cabinet / Council of Ministers / Advisors (Japan)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003125", "prediction": "['2005-01-18']", "answers": ["Iran", "France", "Donald Rumsfeld", "Patrick Buchanan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016784", "prediction": "['Thailand', 'France']", "answers": ["Romania"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3026135", "prediction": "['Iran']", "answers": ["Mexico"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3007815", "prediction": "['2008-03-07', '2008-03-25']", "answers": ["Office of the Attorney General"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3010870", "prediction": "['Abdel Fattah Al-Sisi', 'Abdel Fattah Al-Sisi']", "answers": ["Civil Aviation Authority"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3042744", "prediction": "['Foreign Affairs (Syria)']", "answers": ["Iran", "Association of Southeast Asian Nations", "South Sudan", "Foreign Affairs (Zambia)", "Citizen (North Korea)", "South Korea", "Foreign Affairs (Syria)", "Admiral (China)", "Citizen (Thailand)", "Cabinet / Council of Ministers / Advisors (United States)", "Japan", "Barack Obama"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3042564", "prediction": "['Barack Obama', '2011-12-11']", "answers": ["Chen Wei"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055038", "prediction": "['Thailand', 'Thailand', 'Thailand']", "answers": ["Activist (Thailand)", "Citizen (Thailand)", "Member of Parliament (Thailand)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3000521", "prediction": "['France']", "answers": ["South Korea", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3019397", "prediction": "['2014-12-12']", "answers": ["2009-03-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3046898", "prediction": "['Xi Jinping', 'Barack Obama', 'Japan']", "answers": ["Xi Jinping"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3021636", "prediction": "['Ministry (Oman)']", "answers": ["Gerhard Schröder"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037379", "prediction": "['Cambodia', 'Party Member (Thailand)', 'Cambodia', 'Malaysia', 'Malaysia']", "answers": ["Party Member (Thailand)", "Citizen (Thailand)", "Malaysia", "Supachai Panitchpakdi", "Cambodia"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3024545", "prediction": "['France']", "answers": ["Ali Baqeri"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005392", "prediction": "['France']", "answers": ["Mexico", "South Korea", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3020379", "prediction": "['Cabinet / Council of Ministers / Advisors (Thailand)']", "answers": ["Citizen (Thailand)", "China", "Governor (Thailand)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000123", "prediction": "['Tan Sri Muhyiddin Yassin', 'Abdulla Yameen']", "answers": ["Representatives (Malaysia)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050435", "prediction": "['France']", "answers": ["South Korea"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3043448", "prediction": "['Iraq', 'Djibouti']", "answers": ["Iraq"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3011888", "prediction": "['China', 'Djibouti', 'Abdel Fattah Al-Sisi', 'Tanzania', 'Barack Obama', 'Osama Mohamed Abdul Shafy Shaltout']", "answers": ["China", "Djibouti", "Osama Mohamed Abdul Shafy Shaltout", "Sudan", "Vietnam", "Mauritania"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3042642", "prediction": "['Japan', 'India']", "answers": ["South Korea"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3049625", "prediction": "['Vietnam', 'Thailand']", "answers": ["Cabinet / Council of Ministers / Advisors (Thailand)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055337", "prediction": "['Canada']", "answers": ["South Africa"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3049015", "prediction": "[]", "answers": ["Eritrea"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025807", "prediction": "['Citizen (North Korea)']", "answers": ["South Korea"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3031443", "prediction": "['Iran', 'Iraq']", "answers": ["Employee (Iraq)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005467", "prediction": "['Iran', '2014-06-28']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034608", "prediction": "['2009-06-04']", "answers": ["2009-06-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3024575", "prediction": "['2005-01-24', '2005-01-28', '2005-01-31', '2005-02-02',", "answers": ["Maasai", "Citizen (Unidentified State Actor)", "Malaysia", "Citizen (Thailand)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3054187", "prediction": "['Japan']", "answers": ["African Union"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025898", "prediction": "['2011-06-20']", "answers": ["2011-06-20"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3050802", "prediction": "[]", "answers": ["Abhisit Vejjajiva"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3005980", "prediction": "['Vietnam', 'Romania']", "answers": ["Aleksander Kwasniewski", "Mikulas Dzurinda", "Vietnam", "Dmitry Anatolyevich Medvedev", "Political Parties (Slovakia)", "Royal Administration (Spain)", "Romania", "Jaroslav Baska", "Royal Administration (Romania)", "Portugal", "Barack Obama", "Jerzy Szmajdzinski"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3000544", "prediction": "['2010-12-16', '2008-01-12', '2010-04-15', '2010-05-26',", "answers": ["2010-12-16"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3053704", "prediction": "['2008-06-17']", "answers": ["2008"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3023764", "prediction": "['Cambodia']", "answers": ["China"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019585", "prediction": "['February', '2006']", "answers": ["2006-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3010507", "prediction": "['Lien Chan', 'Wen Jiabao', 'Jin Renqing']", "answers": ["Donald Rumsfeld"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005526", "prediction": "['2007-06']", "answers": ["2007-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3046711", "prediction": "['Governor (Malaysia)']", "answers": ["Abhisit Vejjajiva"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3023858", "prediction": "['Japan', 'Japan']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3027482", "prediction": "['2005-04']", "answers": ["2005-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3000706", "prediction": "['Mwai Kibaki']", "answers": ["Governor (Malaysia)", "Pervez Musharraf"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3033369", "prediction": "['North America']", "answers": ["Defense / Security Ministry (United States)", "Wen Jiabao", "Head of Government (South Korea)", "Lee Myung Bak", "Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3035021", "prediction": "['Iran', 'Iran', 'Iran']", "answers": ["Iran", "Mahmoud Ahmadinejad", "International Government Organizations", "UN Security Council"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3041812", "prediction": "['Japan']", "answers": ["Vietnam", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3023540", "prediction": "['Liu Yandong', '2006-12-16']", "answers": ["Yu Zhengsheng"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003923", "prediction": "['Iran']", "answers": ["Kuwait"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000392", "prediction": "['Thailand', 'Cambodia']", "answers": ["Thailand"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3008318", "prediction": "['Japan']", "answers": ["South Africa"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3053701", "prediction": "['2010-10']", "answers": ["2010-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3044022", "prediction": "['Tony Blair', 'Mahmoud Ahmadinejad', 'Legislature (Iraq)']", "answers": ["Legislature (Iraq)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3022598", "prediction": "['Foreign Affairs (Malaysia)']", "answers": ["Xi Jinping"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3043816", "prediction": "['2006-02-05', 'Defense Attorney (Iraq)']", "answers": ["Defense Attorney (Iraq)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024429", "prediction": "[]", "answers": ["Kim Kye Gwan", "Henry M. Paulson"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3038968", "prediction": "['Iran']", "answers": ["Nuri al-Maliki", "Iran"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3054730", "prediction": "['Iran', 'Kuwait']", "answers": ["Iran"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3023134", "prediction": "['2005-03']", "answers": ["2005-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3006956", "prediction": "['Trade Union Congress']", "answers": ["Citizen (Nigeria)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3026069", "prediction": "['2011-09-19']", "answers": ["2011"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3049502", "prediction": "['Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'China']", "answers": ["Abhisit Vejjajiva", "Citizen (Thailand)", "Thailand", "Military (Cambodia)", "Vietnam", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3047760", "prediction": "['Saud bin Faisal bin Abdul-Aziz', '2014-10-19']", "answers": ["Abdel Fattah Al-Sisi"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051936", "prediction": "['2006-01-13']", "answers": ["Detainee (Ethiopia)"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3034314", "prediction": "['2014-05-05']", "answers": ["2014-05"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3001346", "prediction": "['Wang Yi', 'Xi Jinping']", "answers": ["Dmitry Anatolyevich Medvedev"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3027701", "prediction": "['Iran']", "answers": ["Iran", "South Korea", "Kazakhstan", "Thailand", "Japan", "Iraq"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3012366", "prediction": "['Envoy (United States)', '2006-08-27']", "answers": ["Henry M. Paulson"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3002188", "prediction": "['2007-04-08']", "answers": ["2007"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3047224", "prediction": "['Juan Carlos I', 'Supachai Panitchpakdi', 'Chart Thai', 'Minister Kachornprasart', 'Thongsing Thammavong', 'Abhisit Vejjajiva', 'Governor", "answers": ["Governor (South Korea)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051163", "prediction": "['2010-05-21']", "answers": ["2010"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3000313", "prediction": "['2011-04-25']", "answers": ["Military (Cambodia)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3008745", "prediction": "['Vietnam', 'Japan', 'Industry (China)']", "answers": ["Bank (China)", "South Korea", "Military (Taiwan)", "Transport (China)", "Japan", "Central Intelligence Agency", "National Council of Resistance of Iran", "Ethiopia"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3033089", "prediction": "[]", "answers": ["Burundi"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3001879", "prediction": "['2005-03-24', '2008-10-06']", "answers": ["2005"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3012762", "prediction": "['2014-01']", "answers": ["2014-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3032421", "prediction": "['Mahmoud Ahmadinejad', 'Mahmoud Hashemi Shahroudi']", "answers": ["Mahmoud Ahmadinejad"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013812", "prediction": "['2012-05']", "answers": ["2012-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3005711", "prediction": "['China', 'Iran']", "answers": ["Medical Personnel (India)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013390", "prediction": "['China']", "answers": ["Citizen (North Korea)", "Sudan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025106", "prediction": "['Gerhard Schröder', 'Tim Pawlenty', 'Pervez Musharraf']", "answers": ["Government Delegation (North Korea)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3023532", "prediction": "['Iraq', 'Qatar', 'Yemen']", "answers": ["Gerhard Schröder", "Iran", "Head of Government (Ethiopia)", "Iraq"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3011487", "prediction": "['United States']", "answers": ["Envoy (United States)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3045728", "prediction": "['Abhisit Vejjajiva', 'Dmitry Anatolyevich Medvedev']", "answers": ["Abhisit Vejjajiva"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3039531", "prediction": "['2005-07-05']", "answers": ["Mainland Affairs Council", "Thailand"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3028122", "prediction": "['Envoy (United States)', 'Chongwadai', 'Citizen (International)', 'Cabinet / Council of Ministers / Advisors (United States)', 'Ruling Party (China)', 'Daily Monitor']", "answers": ["Chris Evans"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013337", "prediction": "['Isaias Afewerki']", "answers": ["Sudan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3041344", "prediction": "['Qatar', 'Defense / Security Ministry (United States)', 'Iraq', 'Iran', 'Yemen', 'France', 'South Korea', 'Mauritania']", "answers": ["Iran", "Yemen", "Defense / Security Ministry (United States)", "South Korea", "France", "Mauritania", "Qatar", "Iraq"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3041008", "prediction": "['Head of Government (Bahrain)']", "answers": ["Protester (Thailand)", "Abhisit Vejjajiva", "Governor (Thailand)", "Envoy (United States)", "Jatuporn Prompan", "Citizen (Thailand)", "Okada Katsuya", "United Arab Emirates", "Cambodia", "Barack Obama"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3039087", "prediction": "['February']", "answers": ["2006-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3054654", "prediction": "['2008-06']", "answers": ["2008-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3004885", "prediction": "['2015-07-14']", "answers": ["2015-05-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3014193", "prediction": "[]", "answers": ["Vietnam"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3005410", "prediction": "['2008-02-27']", "answers": ["2008"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3026513", "prediction": "['2010-08-10']", "answers": ["Abhisit Vejjajiva", "Protester (Thailand)", "Citizen (Thailand)", "Office of the Attorney General", "Cabinet / Council of Ministers / Advisors (Thailand)", "Representatives (Cambodia)", "UN Security Council"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044392", "prediction": "['2006-12-16']", "answers": ["2006"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3037713", "prediction": "['2013-09-28']", "answers": ["2013-09-28"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3014625", "prediction": "['2015-06']", "answers": ["2013-11"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3038654", "prediction": "['Armed Rebel (Somalia)', 'Armed Opposition (Ethiopia)']", "answers": ["Armed Opposition (Ethiopia)", "Detainee (Ethiopia)", "Armed Gang (Somalia)", "Armed Rebel (Somalia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3020474", "prediction": "['Gerhard Schröder', 'Ali Abdullah Saleh']", "answers": ["Ali Abdullah Saleh", "Gerhard Schröder"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3021916", "prediction": "[]", "answers": ["Cristina Fernández de Kirchner", "Heinz Fischer"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3017414", "prediction": "['France']", "answers": ["France"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3027292", "prediction": "['2005-05-06', '2005-05-05']", "answers": ["Kuomintang"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019171", "prediction": "['Thailand', 'Admiral (Malaysia)', 'Governor (Thailand)', 'Member of Parliament (Thailand)', 'Governor (Thailand)', 'Cabinet / Council of Ministers / Advisors (Thailand)', '", "answers": ["Citizen (Thailand)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3030226", "prediction": "['China']", "answers": ["China"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3015731", "prediction": "['Cambodia', 'Military (Cambodia)', 'Prem Tinsulanonda', 'Insurgent (Thailand)']", "answers": ["Military Personnel (Thailand)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3041066", "prediction": "['France']", "answers": ["South Korea", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3052952", "prediction": "[]", "answers": ["Barack Obama"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008567", "prediction": "['China']", "answers": ["Vietnam"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024614", "prediction": "['Citizen (Australia)']", "answers": ["Citizen (Australia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3008152", "prediction": "['Japan', 'Vietnam']", "answers": ["Japan", "Vietnam", "Citizen (United Kingdom)", "Boko Haram"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3032318", "prediction": "['Foreign Affairs (France)']", "answers": ["Foreign Affairs (France)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038266", "prediction": "['Supreme Council (Iraq)']", "answers": ["Ministry (Iran)", "Adil Abdul-Mahdi", "Foreign Affairs (Hungary)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3018027", "prediction": "['Mwai Kibaki', 'Head of Government (Ethiopia)', 'Head of Government (Egypt)']", "answers": ["African Union", "Mwai Kibaki", "Joao Miranda"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3025723", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Joint Chiefs of Staff (United States)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3039450", "prediction": "['Kuwait', 'Iran', 'Qatar', 'Yemen', 'Japan']", "answers": ["Middle East", "Kuwait", "Iran", "Qatar", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3022572", "prediction": "['Ogaden National Liberation Front', 'Hawiye (ethnic)']", "answers": ["Armed Rebel (Somalia)", "Al-Shabaab", "Eritrea", "Secret Agent (Ethiopia)", "Islamic Courts Union", "Combatant (Hizbul Islam)", "Sudan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3049835", "prediction": "['2007-03-15']", "answers": ["2007"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3008777", "prediction": "['2015-09-07']", "answers": ["2015"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3004076", "prediction": "['Iran']", "answers": ["Djibouti"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017744", "prediction": "['Iran', 'Sudan']", "answers": ["Iran"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3031844", "prediction": "['Eritrea', 'Isaias Afewerki', 'UN Security Council', 'African Union']", "answers": ["Eritrea", "Isaias Afewerki"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3041177", "prediction": "['Qatar']", "answers": ["Ali Abdullah Saleh"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052390", "prediction": "['Nigeria', 'Sweden', 'Uganda', 'Somalia']", "answers": ["Governor (Somalia)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050372", "prediction": "['Vietnam', '2005-10-21']", "answers": ["Thailand"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3029793", "prediction": "['2009-04-30']", "answers": ["2007-09-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3044804", "prediction": "['Sudan']", "answers": ["Mahmoud Ahmadinejad"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019084", "prediction": "['2007-03-27', '2009-01-29']", "answers": ["2007-03-27"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3028069", "prediction": "['2008-07-21', '2008-09-07', '2008-12-16']", "answers": ["Central Intelligence Agency", "Barack Obama", "Nuri al-Maliki", "Jawad al-Bulani"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3036597", "prediction": "['2005-09-23']", "answers": ["2005-09-23"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3007333", "prediction": "['Barack Obama']", "answers": ["UN Security Council"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3015103", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Treasury/Finance Ministry (Japan)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050635", "prediction": "['Mohammad Ali Jafari', 'Donald Rumsfeld']", "answers": ["Nuri al-Maliki"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3031746", "prediction": "['France']", "answers": ["Sudan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008871", "prediction": "['Citizen (Thailand)']", "answers": ["Armed Gang (Thailand)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008999", "prediction": "['Government Official (Rwanda)', 'Government Official (Rwanda)']", "answers": ["Tanzania", "Government Official (Rwanda)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3005744", "prediction": "[]", "answers": ["Le Hong Anh"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3039419", "prediction": "['Defense / Security Ministry (United States)']", "answers": ["Iran", "Jeff Rathke", "Office of the United Nations High Commissioner for Human Rights"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3036402", "prediction": "['2015-01-23']", "answers": ["Police (Croatia)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3001070", "prediction": "['Envoy (United States)', '2009-06-12']", "answers": ["Businessperson (Australia)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053463", "prediction": "['China', '2011-12']", "answers": ["South Korea", "Laos", "Japan", "Bolivia", "Thailand", "Cambodia"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3012782", "prediction": "['2015-12-07']", "answers": ["2008-03-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3048331", "prediction": "['France']", "answers": ["Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3031734", "prediction": "['2012-08-05']", "answers": ["Tanzania", "Clergy (Tanzania)", "Citizen (Tanzania)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3043053", "prediction": "['Cambodia', 'China']", "answers": ["Association of Southeast Asian Nations"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035934", "prediction": "['2009-06-10', '2009-06-09']", "answers": ["2009-06-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3008668", "prediction": "['Kuwait', 'Iran', 'Iraq', 'Oman', 'Qatar']", "answers": ["Middle East", "Oman", "Kuwait", "Royal Administration (Iraq)", "International Monetary Fund", "Iran", "Qatar", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3038196", "prediction": "['China', 'UN Security Council']", "answers": ["UN Security Council", "Citizen (Unidentified State Actor)", "Citizen (Thailand)", "Thailand", "Barack Obama", "Chuck Hagel", "Maldives", "Vietnam", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3052486", "prediction": "['2012-07-09']", "answers": ["2012-07-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3001425", "prediction": "['Eritrea']", "answers": ["China"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005787", "prediction": "['Thailand']", "answers": ["Thailand"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3006909", "prediction": "['Mubarak Al-Khurainej', '2013-10-28']", "answers": ["Macky Sall"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000262", "prediction": "['Vietnam', 'China']", "answers": ["France", "Thailand", "Laos", "Japan", "Vietnam", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3036154", "prediction": "['Tsai Ing-wen', 'International']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3048612", "prediction": "['Governor (Thailand)']", "answers": ["Vietnam", "Muhammadiyah"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3016151", "prediction": "['Iraq', 'Radoslaw Sikorski']", "answers": ["Nuri al-Maliki", "Vivianne Blanlot", "Vietnam", "Ahmad Chalabi", "Radoslaw Sikorski", "Yasuo Fukuda", "Milo Djukanovic", "China", "Iraq"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3048989", "prediction": "['Tony Blair', '2005-12-07']", "answers": ["Haider Al-Abadi"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055343", "prediction": "['Thailand', 'Military (Cambodia)', 'Police (Cambodia)', 'Activist (Cambodia)']", "answers": ["Assemblies (Cambodia)", "Military (Cambodia)", "Indigenous People (Thailand)", "Police (Cambodia)", "Thailand", "Activist (Cambodia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3053469", "prediction": "['2007-01-26']", "answers": ["2007-01-26"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3047553", "prediction": "['2013-12-12']", "answers": ["Malaysia", "Vietnam", "National United Front for Democracy Against Dictatorship", "Envoy (United States)", "Laos", "Cambodia", "China", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3013785", "prediction": "['2015-07-25']", "answers": ["2015-07-25"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3053877", "prediction": "['Military Personnel (Taiwan)', 'Dissident (China)']", "answers": ["Monastery (China)", "Fishermen (Vietnam)", "Businessperson (Australia)", "Media Personnel (China)", "Dissident (China)", "Ai Weiwei", "Dissident (Mongolia)", "Criminal (China)", "Businessperson (Taiwan)", "Military Personnel (Taiwan)", "Women (Australia)", "Women (China)", "Men (Japan)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3011241", "prediction": "['Foreign Affairs (Senegal)']", "answers": ["South Korea", "UN Security Council", "Citizen (International)", "Japan", "Bolivia", "Malaysia", "Vietnam", "International Government Organizations"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050925", "prediction": "[]", "answers": ["Thailand"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3019326", "prediction": "['2010-01-08', '2012-08-29']", "answers": ["2010-01-08"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3021960", "prediction": "['Algirdas Butkevičius', 'Nikos Christodoulides']", "answers": ["Algirdas Butkevičius"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3039350", "prediction": "['Iran', 'Cleric (Pakistan)']", "answers": ["Cleric (Pakistan)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050898", "prediction": "['2005-11']", "answers": ["2011-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3029815", "prediction": "['Vietnam']", "answers": ["Vietnam"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3000095", "prediction": "['Lesotho', 'Lesotho']", "answers": ["Lesotho"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3041624", "prediction": "['Taiwan', '2007-02-04']", "answers": ["Sudan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3042060", "prediction": "['2013-01-14']", "answers": ["2013-01-14"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3005435", "prediction": "['2014-06-20']", "answers": ["Xi Jinping"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034630", "prediction": "['2015']", "answers": ["2015"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3035891", "prediction": "['2015-01-15']", "answers": ["2015-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3040393", "prediction": "['2007-10']", "answers": ["Mexico", "South Korea", "Janez Jansa", "Kazakhstan", "South Africa", "France", "Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050382", "prediction": "['2012-01-04']", "answers": ["2012"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3052884", "prediction": "['2005-07-06']", "answers": ["2005-07-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3003104", "prediction": "['Mahmoud Ahmadinejad']", "answers": ["Business (Hungary)", "Association of Southeast Asian Nations", "Vietnam", "France", "Mexico", "UN Security Council"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3009786", "prediction": "['European Central Bank', 'Cabinet / Council of Ministers / Advisors (Jordan)']", "answers": ["Rodrigo Rato"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3006072", "prediction": "['National Resistance Movement']", "answers": ["Police (Uganda)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3033213", "prediction": "['2005-04-16']", "answers": ["2005-04-16"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3041611", "prediction": "['Iran', 'Association of Southeast Asian Nations']", "answers": ["Tony Blair"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3014256", "prediction": "['China']", "answers": ["China"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3015340", "prediction": "['2009-02']", "answers": ["High Commission for Refugees", "Association of Southeast Asian Nations", "Immigrants (Myanmar)", "Yoon Jeung Hyun", "Laos", "Head of Government (Timor-Leste)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3021239", "prediction": "['Wang Yi', 'Liu Yandong']", "answers": ["Lee Myung Bak"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025882", "prediction": "['Iraq', 'Iran', 'Thailand']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3040112", "prediction": "['Israeli Defense Forces', 'Government (Palestinian Territory, Occupied)', 'Cabinet / Council of Ministers / Advisors (United States)', 'Foreign Affairs (Israel)', 'Benjamin Netanyahu']", "answers": ["Government (Palestinian Territory, Occupied)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005279", "prediction": "['Barack Obama']", "answers": ["Sergey Kuzhugetovich Shoygu", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3050422", "prediction": "['Abdel Fattah Al-Sisi', 'Barack Obama']", "answers": ["Eritrea"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3023216", "prediction": "['Iran']", "answers": ["South Korea"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019776", "prediction": "['Barack Obama', 'Wen Jiabao']", "answers": ["Media Personnel (China)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024572", "prediction": "['Japan']", "answers": ["Sudan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3023241", "prediction": "['2005-05-21']", "answers": ["Stephen Hadley"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017364", "prediction": "['China', 'Iran']", "answers": ["China", "Iran"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3053060", "prediction": "['2005-02']", "answers": ["2005-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3022692", "prediction": "['Ismaïl Omar Guelleh']", "answers": ["Sergey Kuzhugetovich Shoygu", "Saudi Arabian Defence Forces", "Ismaïl Omar Guelleh", "Romania", "Irakli Alasania", "Colombia", "UN Security Council", "Sedki Sobhi", "Haider Al-Abadi", "Japan", "Military (Ukraine)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3054277", "prediction": "['2008-07-14', '2008-07-17', '2008-07-19']", "answers": ["Military (El Salvador)", "Royal Administration (Jordan)", "Healthcare Facility (Kuwait)", "Barack Obama"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013611", "prediction": "['Aivis Ronis', 'Algirdas Butkevičius']", "answers": ["Toomas Hendrik Ilves"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3027321", "prediction": "['Iraq', 'Iran']", "answers": ["Iran"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3052036", "prediction": "['Yemen', 'Middle East', 'Ministry (Oman)', 'Foreign Affairs (Syria)']", "answers": ["Foreign Affairs (Syria)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035819", "prediction": "['Healthcare Facility (Yemen)']", "answers": ["Healthcare Facility (Yemen)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3004326", "prediction": "['Ethiopia']", "answers": ["Ethiopia"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026381", "prediction": "['Vietnam', '2015-08-07']", "answers": ["Vietnam"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037509", "prediction": "['Boris Vyacheslavovich Gryzlov', 'Sergey Vladilenovich Kiriyenko']", "answers": ["United Front for An Independent, Neutral, Peaceful and Co operative Cambodia", "Lawmaker (Japan)", "Citizen (North Korea)", "Nurse (Macao)", "Ma Ying Jeou", "Grand National Party"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3014766", "prediction": "['Cabinet / Council of Ministers / Advisors (Thailand)']", "answers": ["Employee (Thailand)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3032389", "prediction": "['China']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013318", "prediction": "['2015-11-17']", "answers": ["2009-01-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3001632", "prediction": "['Citizen (Thailand)', 'Governor (Thailand)']", "answers": ["Citizen (Thailand)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026640", "prediction": "['Tran Dinh Hoan', 'Tie Banh']", "answers": ["Hui Liangyu"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3006328", "prediction": "['2010-04-27']", "answers": ["2010-04-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3048814", "prediction": "['2009-08']", "answers": ["2009-08"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3028073", "prediction": "['Lesotho', 'Malawi']", "answers": ["Lesotho"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3018672", "prediction": "['2015-12-30', '2015-06-01', '2015-02-19', '2008-08-24']", "answers": ["Mwai Kibaki"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3042300", "prediction": "['Combatant (Islamic State of Iraq and the Levant)']", "answers": ["Combatant (Iraqi Kurds)", "Men (Kenya)", "Jake Bilardi", "Combatant (Islamic State of Iraq and the Levant)", "Terrorist Leader (Islamic State of Iraq and the Levant)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3017005", "prediction": "['Iran', 'UN Security Council', 'Japan', 'France', 'Donald Rumsfeld']", "answers": ["Iran", "France", "UN Security Council", "China", "Shaukat Aziz", "United Arab Emirates", "Japan", "Donald Rumsfeld"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3006754", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)', 'Tu Cheng-sheng']", "answers": ["Cabinet / Council of Ministers / Advisors (United States)", "Rights Activist (United States)", "Japan", "Donald Rumsfeld"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3004283", "prediction": "[]", "answers": ["Liu Yandong"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026133", "prediction": "['Thailand', 'Japan']", "answers": ["Iraq"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3041770", "prediction": "[]", "answers": ["Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034480", "prediction": "['2009-10']", "answers": ["2009-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3054728", "prediction": "['2013-08-30']", "answers": ["2013-08-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3031666", "prediction": "['Military (Cambodia)']", "answers": ["Military (Cambodia)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3041012", "prediction": "['2006-06']", "answers": ["2006-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3005323", "prediction": "['2009-02-04']", "answers": ["France"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019827", "prediction": "['Citizen (Thailand)']", "answers": ["Citizen (Thailand)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3040903", "prediction": "['2014-07']", "answers": ["2014-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3011222", "prediction": "['2005-03-01', '2005-08-20']", "answers": ["2005-03"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3017965", "prediction": "['Roh Moo Hyun']", "answers": ["Shaukat Aziz", "Association of Southeast Asian Nations", "Jusuf Kalla"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3051208", "prediction": "['Barack Obama']", "answers": ["Mahmoud Abbas", "South Sudan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050956", "prediction": "['France']", "answers": ["Vietnam", "South Korea", "Japan", "Kazakhstan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3017831", "prediction": "['Tony Blair', 'Wen Jiabao']", "answers": ["Colombia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3002224", "prediction": "['2015-01-06']", "answers": ["2015"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3029204", "prediction": "['2015', '2007']", "answers": ["2015"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3012477", "prediction": "['2015']", "answers": ["2010"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3055824", "prediction": "['Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand']", "answers": ["Thailand"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3001144", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Segolene Royal"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028533", "prediction": "['Cambodia']", "answers": ["Cambodia"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044201", "prediction": "['Vietnam', 'China', 'Thailand', 'Head of Government (Sri Lanka)', 'Association of Southeast Asian Nations', 'South Korea']", "answers": ["Head of Government (Sri Lanka)", "Vietnam", "South Korea", "Thailand", "Laos", "China", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3045157", "prediction": "['2009-03']", "answers": ["2008-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3010422", "prediction": "['Sudan', 'Sudan', 'Abdel Fattah Al-Sisi']", "answers": ["Abdel Fattah Al-Sisi", "South Sudan", "Djibouti", "Eritrea", "Sudan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3015033", "prediction": "[]", "answers": ["Surakiart Sathirathai"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3042174", "prediction": "['Mainland Affairs Council']", "answers": ["Shaukat Aziz", "South Africa", "Head of Government (Portugal)", "Mexico"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3010996", "prediction": "['2012-08-31']", "answers": ["2012"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3037300", "prediction": "[]", "answers": ["2014-01"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3016982", "prediction": "['2005-03-14']", "answers": ["2005"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3017392", "prediction": "['2014-10']", "answers": ["Haider Al-Abadi", "Legislature (Iraq)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3026650", "prediction": "['2014-10-16']", "answers": ["2014-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3009901", "prediction": "['Iraq', '2014-06-12']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3009156", "prediction": "['Party President (Bharatiya Janata)']", "answers": ["Dmitry Anatolyevich Medvedev"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3043974", "prediction": "[]", "answers": ["Protester (Thailand)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3015187", "prediction": "['Iraq']", "answers": ["Vietnam", "Royal Administration (Saudi Arabia)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013760", "prediction": "['Foreign Affairs (France)']", "answers": ["Iran", "Japan", "Yemen", "Oman", "South Korea", "Gholamali Haddad Adel", "Pervez Musharraf", "UN Security Council", "United Arab Emirates", "Ali Abdullah Saleh", "Qatar", "Iraq", "Roh Moo Hyun"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3010449", "prediction": "['Foreign Affairs (France)']", "answers": ["Iran"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3009489", "prediction": "['Japan']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3004948", "prediction": "['Defense / Security Ministry (United States)']", "answers": ["Barack Obama", "Xi Jinping", "Chuck Hagel", "Vietnam", "Government Official (Japan)", "Separatist Militant (China)", "Cabinet / Council of Ministers / Advisors (United States)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055159", "prediction": "['2008']", "answers": ["2008"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3041043", "prediction": "['France']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028699", "prediction": "['2015-02-19']", "answers": ["Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050431", "prediction": "['Head of Government (South Korea)']", "answers": ["Oluṣẹgun Ọbasanjọ"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3018541", "prediction": "['Iraq', 'Middle East']", "answers": ["Government (Georgia)", "Eloy Inos", "Viktor Orban", "France", "Middle East", "Abdoulaye Wade", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3039007", "prediction": "['Foreign Affairs (Ethiopia)']", "answers": ["African Union"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034250", "prediction": "['Kuwait', 'Malaysia']", "answers": ["Kuwait"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3011015", "prediction": "['2014-03-31']", "answers": ["2014"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3033879", "prediction": "['Eritrea']", "answers": ["Eritrea", "Coalition for Unity and Democracy"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3050075", "prediction": "['Iraq', '2014-12-17']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3040907", "prediction": "['2014-12-15']", "answers": ["Ministry (Senegal)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3050135", "prediction": "['2006-06-20']", "answers": ["2006"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3035277", "prediction": "['Barack Obama', 'United States Senate', 'Citizen (United Kingdom)']", "answers": ["Monastery (China)", "Activist (Syria)", "Religion (China)", "Citizen (United Kingdom)", "Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3055813", "prediction": "['2005-03-21']", "answers": ["2005"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3002911", "prediction": "['Military Personnel (Thailand)', 'Barisan Revolusi Nasional', 'Malaysia']", "answers": ["Barisan Revolusi Nasional", "Military Personnel (Thailand)", "Malaysia"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3051160", "prediction": "['2006-06']", "answers": ["Thailand", "Iran"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016502", "prediction": "['2007-08']", "answers": ["2007-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3005880", "prediction": "['Qatar']", "answers": ["Mexico"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3014234", "prediction": "['Vietnam', 'Iran']", "answers": ["Ethiopia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3032448", "prediction": "['China']", "answers": ["Charles Rabemananjara"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3015067", "prediction": "['William J. Fallon', '2007-07-19']", "answers": ["William J. Fallon"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053002", "prediction": "[]", "answers": ["Shaukat Aziz", "Treasury/Finance Ministry (Japan)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3034290", "prediction": "['South Korea', 'China']", "answers": ["Malaysia", "Vietnam", "National United Front for Democracy Against Dictatorship", "Envoy (United States)", "South Korea", "Laos", "Cambodia", "China", "Insurgent (Thailand)", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3010602", "prediction": "['Malaysia', '2007-02-15']", "answers": ["Intelligence Officer (Germany)", "Iraq"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3037186", "prediction": "['2006-02-22']", "answers": ["2006-05-05"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3049951", "prediction": "['2005-08-02']", "answers": ["South Korea", "Wen Jiabao", "Pervez Musharraf", "City Mayor (China)", "Valdas Adamkus", "Japan", "African Union", "Mainland Affairs Council"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3045277", "prediction": "['Kazakhstan']", "answers": ["Kazakhstan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005835", "prediction": "['2013-08-19']", "answers": ["2013-08-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3052208", "prediction": "['2006-09']", "answers": ["2006-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3046621", "prediction": "['2007-01-15', '2007-09-04']", "answers": ["2007"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3015455", "prediction": "['Iran', 'United Arab Emirates']", "answers": ["Kuwait", "Iran", "United Arab Emirates"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3008160", "prediction": "['2007-06-16']", "answers": ["Eritrea"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3042266", "prediction": "[]", "answers": ["Cambodia", "Thailand", "Yoshihiko Noda", "Laos"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3043393", "prediction": "['China']", "answers": ["United Arab Emirates"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3018409", "prediction": "['2005-10-05', '2006-09-14']", "answers": ["2007-10-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3051754", "prediction": "['France', '2015-12-14']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003000", "prediction": "['Pervez Musharraf', 'Barack Obama', 'Iran']", "answers": ["Middle East", "Benedict XVI", "Barack Obama", "Iran", "Citizen (Saudi Arabia)", "Pervez Musharraf"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3027618", "prediction": "['2007-01']", "answers": ["2007-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3047764", "prediction": "['2015-07-14', 'African Union']", "answers": ["Pope Tawadros II", "Sudan", "South Korea", "Barack Obama"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3034329", "prediction": "['June']", "answers": ["2006-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3010580", "prediction": "[]", "answers": ["South Africa"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3031440", "prediction": "['2011-08-29', '2011-07-18', '2009-05-06', '2007-09-27',", "answers": ["Guerrilla (Iraq)", "Iran", "Israeli Defense Forces"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026248", "prediction": "['2006-07-27', '2006-10-31']", "answers": ["Stephen Hadley", "Professor (Australia)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026045", "prediction": "['2015-12-24']", "answers": ["2015"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3036007", "prediction": "['Ali Abdullah Saleh', 'Barack Obama', 'Nuri al-Maliki']", "answers": ["Ali Abdullah Saleh"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053731", "prediction": "['2007-11-10']", "answers": ["2007"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3053574", "prediction": "['Eritrea', 'Djibouti']", "answers": ["UN Security Council"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3043962", "prediction": "['Muhammadiyah']", "answers": ["Citizen (Thailand)", "Cabinet / Council of Ministers / Advisors (Thailand)", "China", "Japan", "Malaysia", "Cambodia"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3054287", "prediction": "['2007-10-30']", "answers": ["2007-10-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3034133", "prediction": "['China']", "answers": ["Oman", "Qatar"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000221", "prediction": "['Iraq', '2007-08-16']", "answers": ["Mahmoud Abbas"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3002380", "prediction": "['Sudan']", "answers": ["Sudan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3048920", "prediction": "['2010-12-15']", "answers": ["Hui Liangyu"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3013228", "prediction": "['Barack Obama']", "answers": ["Defense / Security Ministry (United States)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3014867", "prediction": "['Newin Chidchob', 'Newin Chidchob']", "answers": ["Aree Wong Araya", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3052926", "prediction": "['African Union', 'Mwai Kibaki']", "answers": ["Indigenous People (Ethiopia)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3020322", "prediction": "['Wu Po-hsiung', 'Xu Caihou', 'Hui Liangyu', 'Xi Jinping']", "answers": ["Tsakhiagiyn Elbegdorj"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3004578", "prediction": "['Iran', 'South Korea']", "answers": ["South Korea"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053768", "prediction": "['France', 'Japan']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3001890", "prediction": "['Wen Jiabao', 'France', 'France', 'France', 'France', 'France', 'France', 'France', 'France', 'France', 'France', 'France', 'France', 'France']", "answers": ["Iraq", "Iran", "Minister Nemwang", "Yemen", "Association of Southeast Asian Nations", "Vietnam", "Kuwait", "South Korea", "Wen Jiabao", "Kazakhstan", "Defense / Security Ministry (Chile)", "Jusuf Kalla", "Maldives", "Thailand", "Yasuo Fukuda", "France", "Japan", "UN Security Council"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3055417", "prediction": "['Sudan', 'China']", "answers": ["Sudan"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3011554", "prediction": "['Interim Leader (Iraq)', 'Cabinet / Council of Ministers / Advisors (United States)', 'Military (Cyprus)']", "answers": ["Military (Cyprus)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3049190", "prediction": "['United States', 'Turkmenistan']", "answers": ["South Korea"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034275", "prediction": "['Abu Bakr Abdullah al-Qirbi']", "answers": ["USAID", "Eritrea", "Abu Bakr Abdullah al-Qirbi"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3055923", "prediction": "['2005-01-30', '2014-11-11', '2007-10-18', '2007-12-10',", "answers": ["Tony Blair", "Iran"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000377", "prediction": "['Ma Ying Jeou', 'Liu Yandong']", "answers": ["New Party (Taiwan)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3002971", "prediction": "['December']", "answers": ["2010-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3039985", "prediction": "['Vietnam', 'Japan']", "answers": ["South Korea"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024816", "prediction": "['Ma Ying Jeou']", "answers": ["Lawrence Cannon", "Dmitry Anatolyevich Medvedev", "Romania", "Ronald Kirk", "UN Security Council", "Ma Ying Jeou", "Tsai Ing-wen", "National Army"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3029504", "prediction": "['France']", "answers": ["Head of Government (Colombia)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013925", "prediction": "['Party President (Liberal National Party)']", "answers": ["Citizen (Australia)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3036468", "prediction": "['2008-05-21']", "answers": ["Kuomintang", "Dmitry Anatolyevich Medvedev", "International Government Organizations", "USAID", "Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024120", "prediction": "['Kuwait']", "answers": ["Iran"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008044", "prediction": "['2007-10-22']", "answers": ["2007-10-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3011428", "prediction": "['United States', 'Associated Press', 'Roh Moo Hyun', 'Energy Department/Ministry (United States)', 'France', 'Defense / Security Ministry (United States)', 'Iran']", "answers": ["Mexico", "Iran", "Malaysia", "Lawmaker (Japan)", "Association of Southeast Asian Nations", "Vietnam", "South Korea", "Kazakhstan", "Romania", "South Africa", "Thailand", "France", "Laos", "Cambodia", "Portugal", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3047837", "prediction": "['Citizen (Thailand)']", "answers": ["Police (Australia)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3018542", "prediction": "['Abu al-Walid', 'Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Haider Al-Abadi"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3054607", "prediction": "['2008-01-16', '2008-01-17']", "answers": ["Ma Ying Jeou"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028310", "prediction": "['Bahrain']", "answers": ["Indigenous People (Thailand)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003975", "prediction": "[]", "answers": ["Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3023716", "prediction": "['2009-08']", "answers": ["2009-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3033847", "prediction": "['Malaysia']", "answers": ["Citizen (Thailand)"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3033187", "prediction": "['United States']", "answers": ["Mauritania"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3012450", "prediction": "['2005-06-13', '2005-08-06']", "answers": ["2015-06-13"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3050821", "prediction": "['2005-12-21', '2005-12-06']", "answers": ["Thailand", "Finance / Economy / Commerce / Trade Ministry (Australia)", "Surakiart Sathirathai"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037264", "prediction": "['2005-03-12', '2008-07-23', '2012-01-12', '2009-08-25']", "answers": ["Police (Malaysia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3016857", "prediction": "['2007-09-24']", "answers": ["Joon Young Woo", "Angela Merkel"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025102", "prediction": "['Iran', 'Kuwait', 'Information / Communication / Transparency Ministry (Iraq)', 'Foreign Affairs (France)', 'Legislature (Iraq)', 'Business (Iran)', 'Business (Iraq)']", "answers": ["Iran", "Kuwait", "Information / Communication / Transparency Ministry (Iraq)", "Undersecretary (Iraq)", "Foreign Affairs (France)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3007931", "prediction": "['2011-09-21']", "answers": ["2011-09-21"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3009196", "prediction": "['Iran']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3011407", "prediction": "['Abdel Fattah Al-Sisi', '2014-09-08']", "answers": ["Head of Government (Egypt)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051326", "prediction": "['2007-11-02']", "answers": ["Roh Moo Hyun"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3014081", "prediction": "['Eritrea']", "answers": ["Eritrea"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3028293", "prediction": "['Iraq']", "answers": ["Iran"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3012784", "prediction": "['Wen Jiabao', 'Dmitry Anatolyevich Medvedev', 'Xi Jinping', 'United Russia', 'Boris Vyacheslavovich Gryzlov', 'Igor Ivanovich Shuvalov']", "answers": ["Dmitry Anatolyevich Medvedev"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028480", "prediction": "['2015-02-26', '2015-03-25']", "answers": ["2015"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3031964", "prediction": "['2013-07-12', 'Xi Jinping']", "answers": ["Ministry (Sudan)", "Head of Government (South Korea)", "South Korea", "Business (South Korea)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3003243", "prediction": "['Iran']", "answers": ["Mahmoud Ahmadinejad"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017252", "prediction": "['Office of the Attorney General', 'China', 'Royal Thai Police', 'Military Personnel (Thailand)', 'Governor (Thailand)', 'Central Intelligence Agency', 'Media Personnel (Thailand)']", "answers": ["Royal Thai Police", "Sukhumbhand Paribatra", "China", "Office of the Attorney General", "Military Personnel (Thailand)", "Governor (Thailand)", "Protester (Thailand)", "Media Personnel (Thailand)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3035728", "prediction": "['Norodom Sihanouk', 'Ministry of Public Security (China)']", "answers": ["Police (Philippines)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3036732", "prediction": "['Benazir Bhutto', 'Tony Blair']", "answers": ["Benazir Bhutto"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038272", "prediction": "['Ali Abdullah Saleh', '2005-12-04']", "answers": ["Ali Abdullah Saleh"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053129", "prediction": "['2007-04']", "answers": ["Ethiopia"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3045755", "prediction": "['2005-01-31', '2010-08-19', '2011-12-25']", "answers": ["2005-01-31"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3030639", "prediction": "['Sudan']", "answers": ["Citizen (United Kingdom)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3012264", "prediction": "['Iran', '2015-03-02']", "answers": ["Iran"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3004996", "prediction": "['Iran']", "answers": ["Romania"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3033903", "prediction": "['Qatar', 'Kazakhstan', 'Yemen']", "answers": ["Vietnam", "Kazakhstan", "Iran", "Qatar"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026792", "prediction": "['February']", "answers": ["2005-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3025750", "prediction": "['Ai Weiwei']", "answers": ["Chen Wei"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034785", "prediction": "['Member of Parliament (Thailand)', 'National United Front for Democracy Against Dictatorship']", "answers": ["Citizen (Thailand)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3033212", "prediction": "['2005-04-12']", "answers": ["2005-04-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3043402", "prediction": "['2008-05-03']", "answers": ["2008"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3053331", "prediction": "['Iraq', 'Qatar']", "answers": ["UN Security Council"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3011171", "prediction": "['2006-08-04']", "answers": ["Citizen (Thailand)", "Protester (Thailand)", "Pattani United Liberation Organization", "Department of Geologic Survey and its Mineral Exploration (Thailand)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3021711", "prediction": "['Thailand', 'Iran']", "answers": ["South Korea"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037097", "prediction": "['2008-01-02']", "answers": ["2008-01-02"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3054593", "prediction": "['Mainland Affairs Council']", "answers": ["South Korea"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3004034", "prediction": "[]", "answers": ["Vietnam"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3044999", "prediction": "['Japan', 'Iraq', 'South Korea']", "answers": ["Japan", "Iraq", "South Korea", "Sudan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3049809", "prediction": "['2010-03-12']", "answers": ["2010"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3000132", "prediction": "['2007-10-08']", "answers": ["2007-10-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3013273", "prediction": "['USAID', 'Governor (Thailand)', 'Military Personnel (Thailand)', 'International Government Organizations', 'China', 'South Korea']", "answers": ["South Korea", "China", "Japan", "USAID", "Police (Malaysia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3006336", "prediction": "['2005-01-10']", "answers": ["2010-09-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3020791", "prediction": "['2012-01-10', '2007-11-26']", "answers": ["Elizabeth II", "South Korea", "Barack Obama"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3042895", "prediction": "['2007-05-29']", "answers": ["2013-10-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3008516", "prediction": "['Morteza Sarmadi']", "answers": ["Head of Government (South Korea)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3033302", "prediction": "['France', 'Japan']", "answers": ["Mexico", "Malaysia", "Association of Southeast Asian Nations", "South Korea", "Thailand", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3055367", "prediction": "['France']", "answers": ["Association of Southeast Asian Nations"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3009112", "prediction": "['Iraq']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038457", "prediction": "['Japan', 'China']", "answers": ["Chuck Hagel"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035352", "prediction": "['Iraq', '2014-12-10']", "answers": ["Sudan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003114", "prediction": "['2007-05-04']", "answers": ["Iran"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3008278", "prediction": "['2012-03-10']", "answers": ["Iran", "Yemen", "Kuwait", "Business (South Korea)", "South Africa", "Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055534", "prediction": "['France']", "answers": ["South Korea", "Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050786", "prediction": "['2014-03']", "answers": ["Foreign Affairs (Zimbabwe)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3041469", "prediction": "['2011-11-01']", "answers": ["2008"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3017817", "prediction": "['United States Senate']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044268", "prediction": "['Iran', '2007-04-06']", "answers": ["Citizen (Nigeria)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3021479", "prediction": "['Japan']", "answers": ["Cambodia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034475", "prediction": "['Villager (Thailand)', 'Citizen (Thailand)']", "answers": ["Citizen (Thailand)", "Activist (Thailand)", "Villager (Thailand)", "Ieng Thirith"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026891", "prediction": "['2005-06']", "answers": ["2005-06"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3021494", "prediction": "['2005']", "answers": ["2015"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3040551", "prediction": "['UN Security Council', 'Government (Burundi)', 'High Commission for Refugees', 'Tanzania']", "answers": ["Mwai Kibaki"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3021722", "prediction": "['Joschka Fischer', 'Joschka Fischer', 'Joschka Fischer']", "answers": ["John Paul II"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053522", "prediction": "['Japan', 'Japan', 'Japan']", "answers": ["Iran", "Angela Merkel", "Business (Iran)", "Nicos Anastasiades", "Mainland Affairs Council", "Tsakhiagiyn Elbegdorj", "South Korea", "Kazakhstan", "Foreign Affairs (Denmark)", "Thailand", "Laos", "Cambodia", "Yoon Sang-jick", "Military (Taiwan)", "Japan", "Head of Government (Germany)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3003983", "prediction": "['2011-02']", "answers": ["2011-02"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3035626", "prediction": "['Mahmoud Abbas', 'Governor (Thailand)', 'Cabinet / Council of Ministers / Advisors (Thailand)', 'Government Official (Vietnam)', 'Governor (Thailand)', 'Military Personnel (Thailand)', '", "answers": ["Mahmoud Abbas"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024330", "prediction": "['2014-12-22']", "answers": ["2014-12-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3014652", "prediction": "['Iran', 'United Arab Emirates']", "answers": ["Iran"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035870", "prediction": "['Industry (China)', 'Daily Monitor Express']", "answers": ["Zhang Dejiang", "Kim Hwang Sik", "Iran", "Werner Faymann", "Liu Yandong", "Dmitry Anatolyevich Medvedev", "Julia Gillard", "South Korea", "Islam Karimov", "Military Personnel (India)", "Foreign Affairs (Malaysia)", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3010182", "prediction": "['2015-02-19', '2015-09-29']", "answers": ["2015-02-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3049456", "prediction": "['Isaias Afewerki', 'Mwai Kibaki', 'Barack Obama', 'Naval (United States)', 'Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Naval (United States)", "Mwai Kibaki", "Isaias Afewerki", "Islamic Courts Union", "UN Security Council", "Cabinet / Council of Ministers / Advisors (United States)", "Barack Obama"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3015883", "prediction": "['Juan Carlos I', 'Juan Carlos I', 'Juan Carlos I']", "answers": ["Foreign Affairs (India)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3010678", "prediction": "['Thailand', 'Thailand']", "answers": ["Maldives"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038653", "prediction": "['Middle East']", "answers": ["Yemen", "Sudan", "Eritrea", "Middle East", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3032965", "prediction": "['Iraq']", "answers": ["Nuri al-Maliki", "Lawyer/Attorney (Kuwait)", "Iran", "Oman", "Badr al-Din Mahmoud", "Catherine Ashton", "Faisal al-Fayez", "Court Judge (Kuwait)", "Human Rights Watch", "Information / Communication / Transparency Ministry (Iraq)", "Nabih Berri", "Japan", "Iraq"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3023667", "prediction": "['2007-03']", "answers": ["2007-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3013859", "prediction": "['2009-06-22', 'Mahmoud Ahmadinejad']", "answers": ["Mahmoud Ahmadinejad"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3042193", "prediction": "['2006-10']", "answers": ["2006-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3018767", "prediction": "['Barack Obama']", "answers": ["Vietnam", "Association of Southeast Asian Nations"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3041992", "prediction": "[]", "answers": ["Wen Jiabao"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052715", "prediction": "[]", "answers": ["Iran"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017713", "prediction": "['Uhuru Muigai Kenyatta']", "answers": ["Benjamin Netanyahu"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028866", "prediction": "['France']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3014252", "prediction": "['Barack Obama']", "answers": ["China"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3036912", "prediction": "['2008-03']", "answers": ["Mahmoud Ahmadinejad"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3012286", "prediction": "['Foreign Affairs (Malaysia)', 'Rights Activist (Malaysia)', 'China', 'Thailand', 'Muslim (Malaysia)', 'Nonaligned Movement']", "answers": ["Court Judge (Malaysia)", "Rights Activist (Malaysia)", "Nonaligned Movement", "Thailand", "Foreign Affairs (Malaysia)", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3001927", "prediction": "['China', 'Vietnam']", "answers": ["China", "Xi Jinping"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026387", "prediction": "['2005-11-25']", "answers": ["2005-06"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3021927", "prediction": "['Japan', 'Japan', 'Japan', 'Japan', 'Japan', 'Japan', 'Japan']", "answers": ["Japan", "Iran"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3050138", "prediction": "['China', 'Maldives', 'UN Security Council', 'UN Security Council']", "answers": ["UN Security Council", "Citizen (Unidentified State Actor)", "Citizen (Thailand)", "Chuck Hagel", "Maldives", "Vietnam", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3031276", "prediction": "['Tourist (Malaysia)']", "answers": ["Foreign Affairs (India)", "Japan", "Dmitry Anatolyevich Medvedev"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016152", "prediction": "['Iraq']", "answers": ["France", "Oman", "South Korea", "Iran", "Malaysia", "Comoros", "China", "Iraq"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3014806", "prediction": "['UN Security Council']", "answers": ["United Arab Emirates"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3054961", "prediction": "['Roh Moo Hyun', 'Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Communist Party of Brazil"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016780", "prediction": "['United Arab Emirates']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000859", "prediction": "['Iran']", "answers": ["Malaysia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005991", "prediction": "['Saudi Arabia']", "answers": ["Malaysia"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3039428", "prediction": "['2005-12-08', '2007-09-25', '2009-12-09']", "answers": ["2005"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3030701", "prediction": "['France', '2009-04-24']", "answers": ["France"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3004016", "prediction": "['Thailand']", "answers": ["Thailand"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038671", "prediction": "['Burundi', 'Tanzania', 'China', 'East African Community', 'African Union', 'Head of Government (Burundi)']", "answers": ["Tanzania"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3038874", "prediction": "['Police (Malaysia)', 'Defense Attorney (Malaysia)']", "answers": ["Police (Malaysia)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3006986", "prediction": "['2010-10-26', '2010-12-08']", "answers": ["Defense / Security Ministry (United States)", "Prachanda", "Chris Evans", "South Korea", "Wen Jiabao", "Boediono", "Julia Gillard", "Maurice Williamson", "Foreign Affairs (Israel)", "France", "Ma Ying Jeou", "Viktor Orban", "Cabinet / Council of Ministers / Advisors (United States)", "City Mayor (United States)", "Japan", "Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3038449", "prediction": "['2014-10-27', '2014-09-26', '2014-09-25']", "answers": ["Eritrea"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052296", "prediction": "['Japan']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052203", "prediction": "['Wolfgang Gehrcke', '2007-11-15']", "answers": ["Wolfgang Gehrcke"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3004939", "prediction": "['Haider Al-Abadi', 'Massoud Barzani']", "answers": ["Eshaq Jahangiri"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3039197", "prediction": "['2013-03']", "answers": ["2013-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3037650", "prediction": "['2012-02-28']", "answers": ["2012-02-28"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3054350", "prediction": "['Abu Bakr Abdullah al-Qirbi', 'Abu Bakr Abdullah al-Qirbi']", "answers": ["Roh Moo Hyun"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037253", "prediction": "['Vincent C. Siew']", "answers": ["Vincent C. Siew"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3047212", "prediction": "['2010-03-17']", "answers": ["2010"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3046446", "prediction": "['Tony Blair', 'Donald Rumsfeld', 'Barack Obama']", "answers": ["Agence France-Presse"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034531", "prediction": "['2015-04-02']", "answers": ["Vietnam", "China", "Insurgent (Thailand)", "Chaturon Chaisang"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3048323", "prediction": "['Vietnam']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3054972", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)', 'Barack Obama', 'Nuri al-Maliki']", "answers": ["Abdullah Gül"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037927", "prediction": "['Iran', 'Iran', 'Iran', 'Iran', 'Commando (Iraq)', 'Commando (Iraq)', 'China']", "answers": ["Iran", "China", "U.S. 1st Marine Expeditionary Force", "Police (Israel)", "Democratic Party", "Mahdi Army", "Commando (Iraq)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3013875", "prediction": "['2005-05-12']", "answers": ["2005"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3011866", "prediction": "['2006-03-08', '2006-12-11']", "answers": ["2005"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3032843", "prediction": "['Anupong Paochinda', 'Abhisit Vejjajiva']", "answers": ["Anupong Paochinda"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013820", "prediction": "['China']", "answers": ["Abdullah Gül", "Head of Government (Pakistan)", "Tony Blair", "Mahmoud Ahmadinejad", "Lawyer/Attorney (United States)", "Nabih Berri", "Other Authorities / Officials (Libya)", "International Government Organizations", "Business (Germany)", "Foreign Affairs (India)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3053427", "prediction": "['Al-Shabaab', 'Combatant (Al-Shabaab)']", "answers": ["Armed Rebel (Somalia)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017009", "prediction": "['Mainland Affairs Council', '2014-08-10']", "answers": ["Vietnam"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3031941", "prediction": "['2015-10-03']", "answers": ["2014"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3039819", "prediction": "['Barack Obama']", "answers": ["Sudan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3009951", "prediction": "['2011-09-16']", "answers": ["2011-09-16"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3034031", "prediction": "['Australia', 'Saudi Arabia', 'United States', 'Iraq', 'Turkey']", "answers": ["Citizen (Australia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3002616", "prediction": "['African Union', 'Isaias Afewerki']", "answers": ["Vietnam", "Islamic Courts Union"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035433", "prediction": "[]", "answers": ["Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3018723", "prediction": "['Vietnam', '2014-08-11']", "answers": ["Vietnam"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038810", "prediction": "['Iraq', 'Iran']", "answers": ["China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3028053", "prediction": "['Iran']", "answers": ["Vietnam"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028632", "prediction": "['2005-11-07', '2009-07-24', '2014-05-16', '2007-09-18']", "answers": ["2005"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3014406", "prediction": "['2012']", "answers": ["2012"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3008899", "prediction": "['2012-05-01']", "answers": ["2012"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3039208", "prediction": "['Pervez Musharraf', '2008-08-10']", "answers": ["Pervez Musharraf"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3020185", "prediction": "['2014-05-08']", "answers": ["2014-05-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3006463", "prediction": "['John Bercow', 'Viktor Orban']", "answers": ["Government (Georgia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3051562", "prediction": "['Abdel Fattah Al-Sisi', 'Ismaïl Omar Guelleh']", "answers": ["Ismaïl Omar Guelleh"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3046564", "prediction": "['2013-03-12', '2012-12-19']", "answers": ["National Front Malaysia"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053531", "prediction": "['France', '2005-10-14']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025137", "prediction": "['2008-03-17', '2008-12-21']", "answers": ["2008-03-17"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3013646", "prediction": "['Barack Obama', 'Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Vincent C. Siew"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3021390", "prediction": "['Police (Malaysia)', 'National Front Malaysia', 'Police (Malaysia)', 'Police (Malaysia)', 'Police (Malaysia)', 'Police (Malaysia)', 'Police (Malaysia)', 'Police (Malaysia)', '", "answers": ["Head of Government (Ukraine)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3032727", "prediction": "['2009-09-15']", "answers": ["2010-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3020775", "prediction": "['France', 'Germany']", "answers": ["Malaysia"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3046448", "prediction": "['Middle East', 'Middle East', 'Mahmoud Abbas', 'Abdullah Gül', 'Kostyantyn Gryshchenko', 'France', 'France', 'Iran', 'Iran', 'Iran', 'Q", "answers": ["Iran", "Mahmoud Abbas", "Abdullah Gül", "Qatar", "Kazakhstan", "Romania", "France", "Middle East", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3014886", "prediction": "['2014-11-07']", "answers": ["2014-09-25"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3051968", "prediction": "['China', 'Cambodia']", "answers": ["Malaysia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003276", "prediction": "['2015-06-08']", "answers": ["2008"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3044454", "prediction": "['2010-05-12']", "answers": ["2010-05-12"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3051602", "prediction": "['Japan', 'Thailand']", "answers": ["Thailand", "Laos", "Japan", "Sudan", "Yemen", "Vietnam", "Cambodia", "Pervez Musharraf"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3039640", "prediction": "['France', 'Russia']", "answers": ["France"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3049954", "prediction": "['Mongolia Communist Party', 'Military (Myanmar)', 'Military (Myanmar)', 'Military (Hong Kong)']", "answers": ["Defense / Security Ministry (United States)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053297", "prediction": "['2005-06-14', '2005-08-04']", "answers": ["2011-01-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3011799", "prediction": "['Malaysian rights activist', 'Malaysian Muslim', 'Malaysian citizen (Thailand)', 'Malaysian women', 'Malaysian Muslim', 'Malaysian women']", "answers": ["Cabinet / Council of Ministers / Advisors (Indonesia)", "Citizen (Thailand)", "Men (Malaysia)", "Lawyer/Attorney (Malaysia)", "Women (Malaysia)", "Police (Malaysia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3046122", "prediction": "['International Government Organizations', 'UN Security Council']", "answers": ["Government (Italy)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3011234", "prediction": "['Ministry (International)', 'Cabinet / Council of Ministers / Advisors (International)']", "answers": ["Ministry (Egypt)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051893", "prediction": "['Abhisit Vejjajiva']", "answers": ["Tourist (Africa)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008765", "prediction": "['UN Security Council']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034083", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Cabinet / Council of Ministers / Advisors (United States)", "Mulatu Teshome", "Nhial Deng Nhial"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3023269", "prediction": "['Surakiart Sathirathai', '2005-01-04']", "answers": ["Jack Straw"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3000097", "prediction": "['Al-Shabaab', 'Eritrea']", "answers": ["Al-Shabaab", "Eritrea", "African Union"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3040134", "prediction": "['Vietnam', 'China']", "answers": ["China"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053612", "prediction": "[]", "answers": ["Wen Jiabao"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017985", "prediction": "['Wang Yi', 'Yu Zhengsheng']", "answers": ["Dmitry Anatolyevich Medvedev"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037527", "prediction": "['UN Security Council', 'Government (Djibouti)']", "answers": ["UN Security Council"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044333", "prediction": "['2007-02-14']", "answers": ["2007-02-14"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3047846", "prediction": "[]", "answers": ["Barack Obama"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3043043", "prediction": "['2006-08', '2007-04']", "answers": ["2006-08"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3045878", "prediction": "['2009-10-05']", "answers": ["2009-10-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3054122", "prediction": "[]", "answers": ["Julia Gillard", "Kay Bailey Hutchison"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3025954", "prediction": "['Xi Jinping']", "answers": ["Abdullah Gül", "Abhisit Vejjajiva"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3001119", "prediction": "['Mahmoud Ahmadinejad', 'Donald Rumsfeld', 'Mike Thompson', 'Richard Boucher', 'James T. Conway', 'Mahmoud Ahmadinejad', 'Mahmoud Ahmadinejad', 'Mahm", "answers": ["William J. Fallon"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053291", "prediction": "['Barack Obama', '2014-10-30']", "answers": ["Iran", "UN Security Council", "Barack Obama"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050123", "prediction": "[]", "answers": ["Abdel Fattah Al-Sisi"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3006128", "prediction": "['Citizen (Singapore)', 'Businessperson (China)', 'Businessperson (China)', 'Businessperson (China)', 'Businessperson (China)', 'Citizen (International)', 'Businessperson (China)', 'Businessperson (China)',", "answers": ["Jacob J. Lew"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017143", "prediction": "['2011-11-04']", "answers": ["2011-11-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3015462", "prediction": "['France', 'Japan', 'Thailand', 'Iran']", "answers": ["Laos"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051493", "prediction": "['Iran', 'Ma Ying Jeou', 'Dragan Šutanovac', 'Vincent C. Siew']", "answers": ["Straits Exchange Foundation"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000958", "prediction": "['2007-04-25']", "answers": ["2006"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3051256", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)', 'Iran', 'Associated Press', 'Tony Blair', 'Johnnason Liu', 'Wen Jiabao', 'Isaias Afewerki']", "answers": ["Roh Moo Hyun"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3039143", "prediction": "['2013']", "answers": ["2013"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3019392", "prediction": "['2014']", "answers": ["2014"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3008165", "prediction": "['UN Security Council']", "answers": ["Citizen (Thailand)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3031061", "prediction": "['Uong Chu Luu', 'Prem Tinsulanonda']", "answers": ["Lawyer/Attorney (Cambodia)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000788", "prediction": "['Dissident (China)', 'Xi Jinping', 'Wen Jiabao']", "answers": ["Dissident (China)", "Mainland Affairs Council", "Manuel Villar", "Xi Jinping", "South Korea", "Human Rights Group (Taiwan)", "Lee Myung Bak", "Ma Ying Jeou", "Cabinet / Council of Ministers / Advisors (United States)", "Yoshihiko Noda", "Japan", "Rights Activist (United States)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3018608", "prediction": "['2005-07-05']", "answers": ["2007"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3003279", "prediction": "['Japan']", "answers": ["Angola"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3014547", "prediction": "['2007-04-19']", "answers": ["Head of Government (Pakistan)", "Head of Government (Portugal)", "Domestic Affairs (Croatia)", "Pervez Musharraf", "Thailand", "Government (Pakistan)", "France", "National Commission for Social Action"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3050763", "prediction": "['African Union']", "answers": ["African Union"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3004928", "prediction": "['Representative to the United Nations (China)']", "answers": ["Tony Blair", "Oluṣẹgun Ọbasanjọ", "France", "Head of Government (Kenya)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3016141", "prediction": "['2005-12-06']", "answers": ["2005"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3034864", "prediction": "['Barack Obama']", "answers": ["Iran", "Ministry (South Korea)", "Head of Government (Turkmenistan)", "South Korea", "Wen Jiabao", "Ronald Kirk", "Ma Ying Jeou", "Wendy Sherman", "Yoshihiko Noda", "City Mayor (United States)", "Japan", "Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3024290", "prediction": "['Sudan', 'Somalia']", "answers": ["Comoros"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3020335", "prediction": "['Japan', 'Vietnam']", "answers": ["Vietnam"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3009898", "prediction": "['Qatar']", "answers": ["Sudan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3016243", "prediction": "['Citizen (International) Express', 'Chongwadai']", "answers": ["South Africa", "Xi Jinping", "Islam Karimov", "Citizen (International)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3044278", "prediction": "['2008-03-13', '2008-03-03']", "answers": ["Central Intelligence Agency", "Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3017215", "prediction": "['Barack Obama']", "answers": ["Military (Myanmar)", "High Ranking Military Personnel (Japan)", "France"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3007090", "prediction": "['2006-12-20']", "answers": ["2006-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3045554", "prediction": "['United States', 'United States', 'United States', 'United States', 'United States', 'United States', 'United States', 'South Korea', 'Taiwan Affairs Office', 'United States', 'United States', 'United", "answers": ["Vietnam"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3040196", "prediction": "['Cambodia', 'Thailand']", "answers": ["Activist (Thailand)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3045967", "prediction": "['Citizen (Brazil)', 'Legislature (Iraq)']", "answers": ["Citizen (Brazil)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3018977", "prediction": "['Qatar', 'Oman']", "answers": ["Qatar"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016167", "prediction": "['2007-02-02']", "answers": ["2007"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3041993", "prediction": "['France', 'Iran']", "answers": ["France"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003617", "prediction": "['Media Personnel (China)', 'Ruling Party (China)']", "answers": ["City Mayor (Africa)", "Muhammadu Buhari", "Media Personnel (China)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3003631", "prediction": "['Japan', 'Japan', 'Japan', 'Japan', 'Iran', 'Japan', 'Japan', 'Association of Southeast Asian Nations', 'Association of Southeast Asian Nations', 'Colombia', 'Andean Community', 'South Korea", "answers": ["Colombia", "Ireland", "Association of Southeast Asian Nations", "South Korea", "Portugal", "Iran", "Japan", "Trinidad and Tobago", "Andean Community", "Vietnam"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3032669", "prediction": "['Associated Press', 'Iran']", "answers": ["Barack Obama"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3048650", "prediction": "['2005-09']", "answers": ["2005-09"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3013792", "prediction": "['2014-10-29', '2010-04-09', '2008-09-03', '2008-07-09',", "answers": ["2008-09-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3043661", "prediction": "['Iraq']", "answers": ["Al-Shabaab"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028281", "prediction": "['2008-11-06', '2008-11-03']", "answers": ["2008-11-06"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3019637", "prediction": "['2006-11']", "answers": ["2006-11"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3046707", "prediction": "['Malaysia']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3022964", "prediction": "['Congress (United States)', 'Legislature (Turkey)']", "answers": ["Legislature (Turkey)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053305", "prediction": "['2008-02-29']", "answers": ["2008-02-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3009519", "prediction": "['Japan', '2013-10-05']", "answers": ["Malaysia"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3018131", "prediction": "['Barack Obama', 'International Government Organizations']", "answers": ["International Government Organizations"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019282", "prediction": "['2013-02']", "answers": ["China", "Laos", "Cambodia"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016911", "prediction": "['China']", "answers": ["Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3018976", "prediction": "['2014-08-03']", "answers": ["Vietnam", "China", "Chuck Hagel", "Citizen (Thailand)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037282", "prediction": "['2015-01-25']", "answers": ["2014"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3016946", "prediction": "['Iraq', 'Iran']", "answers": ["Legislature (Iraq)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025837", "prediction": "['France']", "answers": ["Vietnam"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052274", "prediction": "['2005']", "answers": ["2014"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3003491", "prediction": "['Japan', 'China', 'Colombia']", "answers": ["Cambodia", "China", "Japan", "Laos"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3014410", "prediction": "['Thailand Return, release person(s) Citizen (Thailand) in 2005-11-24', 'Thailand Return, release person(s) Citizen (Thailand) in 2005-", "answers": ["Protester (Thailand)", "Citizen (Thailand)", "Laos", "National United Front for Democracy Against Dictatorship", "Media Personnel (International)", "Military Personnel (Thailand)", "Jatuporn Prompan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3040789", "prediction": "['Shaukat Aziz']", "answers": ["Shaukat Aziz", "Pervez Musharraf"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3031128", "prediction": "['Japan']", "answers": ["Cambodia", "Japan", "Laos"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3005754", "prediction": "['2007-04-20']", "answers": ["2007-04-20"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3011362", "prediction": "['Iran', 'France']", "answers": ["Iran"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044346", "prediction": "['Ma Ying Jeou', 'Tu Cheng-sheng']", "answers": ["Envoy (United States)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3032761", "prediction": "['Envoy (United States)', 'Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Iran", "Islamic Preacher (Iran)", "Mahmoud Ahmadinejad", "Student (Iran)", "Citizen (Sudan)", "Media Personnel (Iran)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3054816", "prediction": "['Malaysian People\\'s Party']", "answers": ["Employee (Thailand)", "Businessperson (Malaysia)", "Women (Uganda)", "Women (Malaysia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3055852", "prediction": "['Eritrea', 'Seyoum Mesfin']", "answers": ["Eritrea"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3049287", "prediction": "['Qatar', 'Iran', 'Iraq', 'United Arab Emirates']", "answers": ["Ministry (Iran)", "Nuri al-Maliki", "Kuwait", "Company - Owner or Operator (Oman)", "Iran", "Qatar", "United Arab Emirates"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3006791", "prediction": "['Association of Southeast Asian Nations']", "answers": ["Cambodia"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028961", "prediction": "['United Arab Emirates']", "answers": ["Ethiopia"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026001", "prediction": "['Véronique Nizigama', 'UN Security Council', 'Ruling Party (Burundi)', 'Lawyer/Attorney (Burundi)', 'Government (Burundi)', 'Other Authorities / Officials (Burundi)',", "answers": ["UN Security Council"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3017752", "prediction": "['Mainland Affairs Council', 'Xi Jinping']", "answers": ["Presidential Press Service (Department of Defense)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3027550", "prediction": "['China', 'Thailand', 'Thailand']", "answers": ["UN Security Council", "Thailand", "Foreign Affairs (India)", "International Court of Justice", "Xi Jinping", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3010401", "prediction": "['2005-03']", "answers": ["2005-03"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3016166", "prediction": "['2014-01']", "answers": ["2014-01"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3040158", "prediction": "['Ma Ying Jeou']", "answers": ["Ma Ying Jeou"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035362", "prediction": "['Japan', 'Kuwait']", "answers": ["China"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3010305", "prediction": "['2013-01-31']", "answers": ["2013"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3026460", "prediction": "['2006-07-24', '2006-07-22']", "answers": ["Elmar Mammadyarov"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3047719", "prediction": "['Donald Rumsfeld', 'Barack Obama']", "answers": ["Iran", "Abdel Fattah Al-Sisi"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3006824", "prediction": "['2008-08-09']", "answers": ["2008"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3049192", "prediction": "['2007-12']", "answers": ["2007-12"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3020268", "prediction": "['Thailand', 'Thailand']", "answers": ["Aceh"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3012201", "prediction": "['Swaziland']", "answers": ["Jakaya Mrisho Kikwete"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035579", "prediction": "['Thailand', 'Vietnam', 'Laos', 'Malaysia']", "answers": ["Thailand", "Laos", "Wen Jiabao", "Japan", "Malaysia", "Roh Moo Hyun", "Vietnam"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3037730", "prediction": "[]", "answers": ["Iran", "Tony Tan Keng Yam", "Jakaya Mrisho Kikwete", "Abdulla Yameen", "Xi Jinping", "South Korea", "Islam Karimov", "Le Hong Anh", "Drug Enforcement Administration", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3042726", "prediction": "[]", "answers": ["Dmitry Anatolyevich Medvedev"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053289", "prediction": "['2011-10-10']", "answers": ["2011"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3002500", "prediction": "['Cambodia', 'Vietnam']", "answers": ["Cambodia", "Vietnam", "Laos"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3019257", "prediction": "['Thailand']", "answers": ["Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3036469", "prediction": "['Japan', 'China']", "answers": ["Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044542", "prediction": "['Xi Jinping', 'Wen Jiabao']", "answers": ["Ma Biao", "Kuomintang", "Media Personnel (International)", "Military (Russia)", "Japan", "Barack Obama", "Abdullah Gül", "Vietnam", "Minister Bogollagama", "Dmitry Anatolyevich Medvedev", "Steven Chu", "South Korea", "Kazakhstan", "Sérgio de Oliveira Cabral Santos Filho", "Assemblies (Cambodia)", "John Baird", "Japan Self-Defense Forces", "Scholar (United States)", "Straits Exchange Foundation", "Cambodia"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3040360", "prediction": "['Japan', 'Japan']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3021785", "prediction": "['Barack Obama', '2011-03-23']", "answers": ["Christine Lagarde"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005921", "prediction": "['Barack Obama']", "answers": ["Citizen (Australia)", "Vietnam", "Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3045489", "prediction": "['Djibouti', 'Sudan']", "answers": ["Foreign Affairs (Ethiopia)", "Head of Government (Ethiopia)", "Sudan", "Representatives (Ethiopia)", "Japan", "Barack Obama"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3045641", "prediction": "['2005-06-21', '2005-10-13']", "answers": ["2005-06-21"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3013477", "prediction": "['Ethiopia']", "answers": ["Madagascar"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013311", "prediction": "['Attacker (Afghanistan)']", "answers": ["Armed Rebel (Afghanistan)", "Militant (Taliban)", "Women (Afghanistan)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034363", "prediction": "[]", "answers": ["Abhisit Vejjajiva"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3026850", "prediction": "[]", "answers": ["Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3007669", "prediction": "['2014']", "answers": ["2013"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3023998", "prediction": "['Defense / Security Ministry (United States)', 'Naval (United States)', 'Donald Rumsfeld', 'Undersecretary (United States)']", "answers": ["Xi Jinping", "Sergey Kuzhugetovich Shoygu"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3020681", "prediction": "['China', 'Yemen']", "answers": ["China"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3020986", "prediction": "['Julian Paul Assange']", "answers": ["Employee (Philippines)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3047925", "prediction": "['Mahmoud Ahmadinejad']", "answers": ["Mahmoud Ahmadinejad"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000994", "prediction": "['2015-11-17']", "answers": ["Thailand"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3032831", "prediction": "['Representatives (Malaysia)']", "answers": ["Abhisit Vejjajiva", "Association of Southeast Asian Nations", "Immigrants (Myanmar)", "High Commission for Refugees", "Democratic Party"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3040382", "prediction": "['African Union', 'Head of Government (Ethiopia)']", "answers": ["African Union"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3001925", "prediction": "['2009-02-04']", "answers": ["2009-02-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3052279", "prediction": "['France', 'Iran']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019304", "prediction": "['Lee Myung Bak']", "answers": ["Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3024237", "prediction": "['2005-11-10']", "answers": ["2011"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3021965", "prediction": "['Oman', 'Iraq', 'Jaber Mubarak Al-Sabah', 'Ali Abdullah Saleh', 'Isaias Afewerki', 'Souleymane Ndéné Ndiaye']", "answers": ["Head of Government (Egypt)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008348", "prediction": "['Government (Nigeria)']", "answers": ["Citizen (Thailand)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008188", "prediction": "['2009-06-03']", "answers": ["2009-06-03"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3025187", "prediction": "['2007-09']", "answers": ["2007-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3010232", "prediction": "['2006-04-16', '2006-02-06', '2006-10-30']", "answers": ["Valdas Adamkus", "Algirdas Butkevičius", "NASA", "Burma Union Solidarity and Development Association"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026245", "prediction": "[]", "answers": ["South Korea"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3017433", "prediction": "['Japan']", "answers": ["Thailand"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3015801", "prediction": "['Sudan', 'South Sudan']", "answers": ["South Sudan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052054", "prediction": "['China', '2006-07']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3004260", "prediction": "['2005-11']", "answers": ["2008-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3006626", "prediction": "['2005-03-27']", "answers": ["Vietnam", "South Korea", "Aceh", "Koo Chen-fu", "Dominican Republic", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3033539", "prediction": "['United States']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013540", "prediction": "['2012-08-08']", "answers": ["2012-08-08"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3045267", "prediction": "['Defense / Security Ministry (United States)', 'Head of Government (Pakistan)', 'Congress (United States)', 'Cabinet / Council of Ministers / Advisors (Thailand)', 'Party Member (Thailand)']", "answers": ["Head of Government (Pakistan)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3006863", "prediction": "['2014-11-20']", "answers": ["2013"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3045038", "prediction": "['Defense / Security Ministry (United States)', 'Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3032582", "prediction": "['2005-11', '2007-03']", "answers": ["2005-11"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3034187", "prediction": "['2014']", "answers": ["2010"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3044489", "prediction": "['Kuwait']", "answers": ["Iran"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051898", "prediction": "['Middle East']", "answers": ["Government (Georgia)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3039822", "prediction": "['China', 'Thailand', 'Cabinet / Council of Ministers / Advisors (United States)', 'International Government Organizations', 'Barack Obama', 'Vietnam', 'Xi Jinping', 'Teo Chee Hean']", "answers": ["Zhang Dejiang", "Jeff Rathke", "Naval (United States)", "Vietnam", "Xi Jinping", "Cabinet / Council of Ministers / Advisors (United States)", "China", "Teo Chee Hean", "Thailand", "France", "International Government Organizations", "Julie Bishop", "Barack Obama"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3025166", "prediction": "['China', 'Laos']", "answers": ["Cambodia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3009557", "prediction": "['2014-09-30']", "answers": ["2014-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3011543", "prediction": "['Vietnam', 'China']", "answers": ["Thailand", "Barack Obama", "Iran", "Japan", "Vietnam", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3049793", "prediction": "['Citizen (Unidentified State Actor)', 'Benedict XVI', 'Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Iran", "Kuwait", "Qatar", "Middle East", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026705", "prediction": "['Japan', 'Vietnam']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3046172", "prediction": "['Japan']", "answers": ["Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037806", "prediction": "['Japan', 'South Korea', 'South Africa', 'Kazakhstan', 'Vietnam']", "answers": ["Thailand", "South Korea", "Laos", "Yoon Sang-jick", "Iran", "Japan", "South Africa", "Head of Government (Taiwan)", "Cambodia", "Vietnam", "Kazakhstan", "Government Official (Taiwan)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3023636", "prediction": "['Uong Chu Luu', 'Abhisit Vejjajiva', 'Minister Kachornprasart', 'Nguyen Tuong Van', 'Citizen (Thailand)', 'Abhisit Vejjajiva',", "answers": ["Justice Department/Ministery (Vietnam)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016269", "prediction": "['2006-10-27']", "answers": ["2006"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3019974", "prediction": "['Sudan', 'Ministry (Sudan)']", "answers": ["Iran", "African Union", "Military (Senegal)", "Sudan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3034745", "prediction": "['Barack Obama', 'Malaysian People\\'s Party']", "answers": ["Tsai Ming-hsien"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3036696", "prediction": "['Xi Jinping']", "answers": ["Xi Jinping"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3007670", "prediction": "['2014-12-09']", "answers": ["Iran", "Defense / Security Ministry (United States)", "Sabah Khaled Al-Hamad Al-Sabah", "Member of Legislative (Govt) (Iran)", "Indigenous People (United Kingdom)", "Chuck Hagel", "Protester (The Hague)", "Haider Al-Abadi", "Federica Mogherini"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3051069", "prediction": "['UN Security Council']", "answers": ["African Union", "Mahmoud Ahmadinejad", "Eritrea"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038308", "prediction": "['China', 'Iran']", "answers": ["Thailand", "Association of Southeast Asian Nations", "High Commission for Refugees", "Iran", "Vietnam", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3024983", "prediction": "['2012-08-21']", "answers": ["2010-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3054085", "prediction": "['Hui Liangyu', 'Government Official (Taiwan)', 'Party Member (Taiwan)']", "answers": ["Jakaya Mrisho Kikwete", "Vincent C. Siew", "Wang Yi", "Samuel J. Locklear", "France"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050606", "prediction": "['June']", "answers": ["2009-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3055914", "prediction": "['Niger', 'Mauritania', 'South Africa']", "answers": ["Niger", "Mauritania", "Military (Niger)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3009391", "prediction": "['United States']", "answers": ["Iran"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3038498", "prediction": "['Foreign Affairs (Malaysia)']", "answers": ["Thailand"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055986", "prediction": "['2015-12-11']", "answers": ["Foreign Affairs (South Korea)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3015163", "prediction": "['Barack Obama', 'Henry M. Paulson', 'Vincent C. Siew', 'Associated Press', 'Stephen W. Bosworth']", "answers": ["Evo Morales"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3031722", "prediction": "['Donald Rumsfeld', 'Joe Manchin', 'Jim Molan']", "answers": ["Abdullah Gül"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028836", "prediction": "['Donald Rumsfeld', 'Gerhard Schröder', 'Mikhail Sergeyevich Gorbachev', 'News Editor (Iraq)']", "answers": ["Gerhard Schröder"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3032048", "prediction": "['Mikhail Yefimovich Fradkov', 'Shivshankar Menon', 'Khandu Wangchuk']", "answers": ["Shivshankar Menon"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3027767", "prediction": "['2008-05-07']", "answers": ["2006"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3047477", "prediction": "['2015-12-19']", "answers": ["Cambodia"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3048542", "prediction": "['Yemen', 'Vietnam', 'Kazakhstan', 'Iran', 'United Arab Emirates']", "answers": ["Iran", "United States Senate", "Angola", "South Africa", "Thailand", "United Arab Emirates", "Qatar"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3035325", "prediction": "['France']", "answers": ["Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3031497", "prediction": "['Mainland Affairs Council', 'Mainland Affairs Council']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035706", "prediction": "['Associated Press', 'Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Industrial / Textiles / Mining Ministry (China)", "Government Official (Japan)", "Kuomintang", "Lien Chan", "South Korea", "Wen Jiabao", "City Mayor (China)", "Raúl Castro", "Okada Katsuya", "France", "Ma Ying Jeou", "Lawmaker (Hong Kong)", "Robert Jones Portman", "Wolfgang Schüssel", "Matthias Platzeck", "Oluṣẹgun Ọbasanjọ", "Japan", "People First Party Korea"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3051916", "prediction": "['Iraq', 'Ministry (Iran)']", "answers": ["Member of Legislative (Govt) (Lebanon)", "Iran", "Mahmoud Ahmadinejad", "Ministry (Iran)", "Iraq"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3003701", "prediction": "['Burundi', 'Tanzania']", "answers": ["Head of Government (Burundi)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052485", "prediction": "['2007-01-31', '2007-02-02']", "answers": ["2007"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3054968", "prediction": "['2015-04-08', 'Iraq Appeal for aid Legislature (Iraq)']", "answers": ["Court Judge (Iraq)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3048670", "prediction": "['2007-05-20']", "answers": ["2007"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3026035", "prediction": "['Barack Obama', 'Wen Jiabao']", "answers": ["Wen Jiabao", "Lee Myung Bak", "Cabinet / Council of Ministers / Advisors (United States)", "Boris Vyacheslavovich Gryzlov", "Korean Workers Party", "Japan", "Barack Obama", "Head of Government (Germany)", "Head of Government (India)", "Mahmoud Abbas", "Vietnam", "Abdullah Gül", "Mwai Kibaki", "Abu Bakr Abdullah al-Qirbi", "Head of Government (Turkmenistan)", "Gennady Andreyevich Zyuganov", "Oluṣẹgun Ọbasanjọ", "Ethiopia", "Businessperson (Taiwan)", "Gurbanguly Berdymukhammedov"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3054243", "prediction": "['2009-10-26']", "answers": ["2006-09-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3003022", "prediction": "['Toomas Hendrik Ilves', 'Algirdas Butkevičius']", "answers": ["Foreign Affairs (Denmark)", "Algirdas Butkevičius", "Toomas Hendrik Ilves", "Alexander Stubb"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3054515", "prediction": "['Al-Shabaab', 'Media (Africa)']", "answers": ["Media (Kenya)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034268", "prediction": "['2015-08-07']", "answers": ["2015"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3003383", "prediction": "['Cambodia', 'China']", "answers": ["Cambodia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3040701", "prediction": "['Tanzania']", "answers": ["Yemen"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005192", "prediction": "['Cambodia']", "answers": ["Military (Myanmar)", "Citizen (Thailand)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3039650", "prediction": "['2009-12']", "answers": ["2009-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3007633", "prediction": "['Defense / Security Ministry (United States)']", "answers": ["Defense / Security Ministry (United States)", "Legislature (Iraq)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3016695", "prediction": "['Barack Obama', '2013-08-14']", "answers": ["Barack Obama"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3023986", "prediction": "['2005-12-20']", "answers": ["2005-06-28"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3022831", "prediction": "['Kuwait', 'Interim Leader (Iraq)', 'Military (Cyprus)']", "answers": ["Kuwait", "Interim Leader (Iraq)", "Military (Cyprus)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3044323", "prediction": "['Thailand', 'Thailand']", "answers": ["Thailand", "Police (Malaysia)", "High Commission for Refugees", "Armed Rebel (Ukraine)", "Criminal (Somalia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3028200", "prediction": "['Vietnam']", "answers": ["China"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3009354", "prediction": "['Japan']", "answers": ["Muhammadu Buhari", "Government (Germany)", "Head of Government (Ghana)", "Citizen (Nigeria)", "France", "Macky Sall", "China", "Head of Government (Germany)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3038161", "prediction": "['Sudan']", "answers": ["Legislature (Cote d'Ivoire)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051837", "prediction": "['2005-04-09']", "answers": ["2005"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3054173", "prediction": "['Japan']", "answers": ["Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3051048", "prediction": "['2008-08-23']", "answers": ["2006-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3017078", "prediction": "['Wen Jiabao', '2010-04-15']", "answers": ["Henry M. Paulson"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3001438", "prediction": "['Michael Sata', 'Nicolai Wammen']", "answers": ["Julia Gillard"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008048", "prediction": "['Iraq', 'Iran']", "answers": ["Information / Communication / Transparency Ministry (Iraq)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3015389", "prediction": "['Defense / Security Ministry (United States)', 'Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Barack Obama"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019615", "prediction": "['2012-05-01']", "answers": ["2012-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3014031", "prediction": "['Government (Pakistan)']", "answers": ["Government (Pakistan)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3012081", "prediction": "['2012-08']", "answers": ["Iran", "South Korea", "Angola", "South Africa", "France", "Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3021404", "prediction": "['Mwai Kibaki']", "answers": ["Democratic Party"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034578", "prediction": "['Envoy (United States)']", "answers": ["Yasuo Fukuda", "France"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3034519", "prediction": "['Thailand', 'Aceh']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016834", "prediction": "['Iraq', 'Syria']", "answers": ["Iran", "South Korea", "European Central Bank", "Japan", "International Monetary Fund", "Colombia", "Vietnam", "Cambodia"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3011527", "prediction": "['2006-12-27']", "answers": ["2006-12-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3003926", "prediction": "['2008-06-17']", "answers": ["2005"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3048105", "prediction": "['Ethiopia']", "answers": ["Iraq", "Iran", "UN Security Council"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3036070", "prediction": "['2007']", "answers": ["2007"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3047725", "prediction": "['Xi Jinping']", "answers": ["China", "Xi Jinping"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3029311", "prediction": "['2005-05-06']", "answers": ["2008-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3044185", "prediction": "['High Commission for Refugees']", "answers": ["Police (Malaysia)", "Armed Rebel (Ukraine)", "Criminal (Somalia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3015843", "prediction": "['China']", "answers": ["France", "Christine Lagarde"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3019452", "prediction": "['2010-03-11', '2012-12-11']", "answers": ["South Africa"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034639", "prediction": "['Vietnam']", "answers": ["China"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024605", "prediction": "['France']", "answers": ["Kazakhstan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019197", "prediction": "['2014-01-27']", "answers": ["2014"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3049517", "prediction": "['2015-08']", "answers": ["2015-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3029997", "prediction": "['2005-02-11', '2005-07-27', '2005-04-12', '2005-12-09',", "answers": ["2005-02-11"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3004433", "prediction": "['2007-04-25', '2008-07-08']", "answers": ["2007-04-25"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3016622", "prediction": "['2012-08-30', 'Liu Yandong']", "answers": ["Media Personnel (China)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3029949", "prediction": "['Thailand', 'Japan', 'United Arab Emirates', 'South Africa']", "answers": ["South Africa", "Thailand", "Japan", "United Arab Emirates"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3050577", "prediction": "[]", "answers": ["Kuomintang", "Wen Jiabao", "Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3007917", "prediction": "['Japan']", "answers": ["Thailand"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3053454", "prediction": "['Kim Kye Gwan', 'Kim Hwang Sik', 'Envoy (United States)']", "answers": ["Cabinet / Council of Ministers / Advisors (United States)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3030197", "prediction": "['Mahmoud Ahmadinejad']", "answers": ["Mahmoud Ahmadinejad"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3035629", "prediction": "['Ma Ying Jeou', 'Envoy (United States)']", "answers": ["Mikhail Yefimovich Fradkov"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013400", "prediction": "['Jack Straw', 'Citizen (Unidentified State Actor)']", "answers": ["National Security Advisor (Iraq)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3020361", "prediction": "['Finance / Economy / Commerce / Trade Ministry (India)']", "answers": ["Iran", "Trade Official (Canada)", "Army Chief of Staff (United States)", "Envoy (United States)", "Finance / Economy / Commerce / Trade Ministry (India)", "Bruno Stagno Ugarte", "Rugmangad Katwal", "Kazakhstan", "Wen Jiabao", "Yasuo Fukuda", "Malawi", "Lee Myung Bak", "Grand National Party", "Cabinet / Council of Ministers / Advisors (United States)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3021044", "prediction": "['2015-10-25']", "answers": ["2007-08-23"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3033476", "prediction": "['Member of Parliament (Australia)']", "answers": ["Steven Marshall"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055950", "prediction": "['Gerhard Schröder']", "answers": ["Gerhard Schröder"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3014999", "prediction": "['China']", "answers": ["Political Parties (Nepal)", "South Korea", "Other Authorities / Officials (Russia)", "Media (India)", "France", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3002364", "prediction": "['Cambodia', 'Vietnam', 'Japan', 'Thailand']", "answers": ["Laos", "South Africa", "Thailand", "United Arab Emirates", "China", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3010522", "prediction": "['African Union', 'Barack Obama', 'China']", "answers": ["African Union", "Chuck Hagel", "International Maritime Organization", "China", "Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3049790", "prediction": "['UN Security Council', 'Iran', 'Iraq', 'Oman', 'Ali Abdullah Saleh']", "answers": ["UN Security Council", "Citizen (Unidentified State Actor)", "Head of Government (Ethiopia)", "Oman", "Barack Obama", "Iran", "Japan", "Ali Abdullah Saleh", "Iraq", "Business (Indonesia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3016840", "prediction": "['2013-10']", "answers": ["2006-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3006936", "prediction": "['Armed Rebel (Turkish Kurds)']", "answers": ["Armed Gang (Al Qaeda)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3028175", "prediction": "['Malaysia']", "answers": ["Men (Malaysia)", "Women (Uganda)", "Women (Malaysia)", "Employee (Thailand)", "Lawyer/Attorney (Malaysia)", "Businessperson (Malaysia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3014896", "prediction": "['France', 'Iran']", "answers": ["Vietnam"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025962", "prediction": "['Eritrea', 'Sudan']", "answers": ["Ogaden National Liberation Front", "Hawiye (ethnic)", "Eritrea", "Police (Ethiopia)", "Islamic Courts Union", "Sudan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3039919", "prediction": "['2013-09-09', '2013-12-05', '2013-12-03']", "answers": ["2013-09-09"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3013552", "prediction": "[]", "answers": ["Abdullah Gül"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017290", "prediction": "['Japan']", "answers": ["Colombia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3030397", "prediction": "['Angola', 'Iran']", "answers": ["Angola"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044921", "prediction": "['China']", "answers": ["Cambodia"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3036408", "prediction": "['Mainland Affairs Council', 'Wen Jiabao']", "answers": ["Mob (China)", "Murderer (China)", "Villager (China)", "Economist (China)", "Armed Opposition (Nigeria)", "Criminal (China)", "Rebel Group (Justice and Equality Movement)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3009028", "prediction": "['Japan']", "answers": ["Japan"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3049016", "prediction": "['November']", "answers": ["2012-11"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3032400", "prediction": "['China']", "answers": ["Malaysia"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3023449", "prediction": "['Abu Bakr Abdullah al-Qirbi']", "answers": ["Abdul-Karim Al-Arhabi", "Mahmoud Abbas", "Vietnam", "Gibran Bassil", "Abu Bakr Abdullah al-Qirbi", "Legislature (Iraq)", "Ali Abdullah Saleh", "Iraq"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024413", "prediction": "['Djibouti', 'Ethiopia', 'Angola']", "answers": ["Ethiopia", "Tanzania", "Angola", "Djibouti"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3020194", "prediction": "['France']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3047397", "prediction": "['Iran', '2015-03-20']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3026964", "prediction": "['2012-09-07', '2012-09-12']", "answers": ["2012-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3051531", "prediction": "['United Arab Emirates', 'Iraq']", "answers": ["UN Security Council"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3011470", "prediction": "['South Korea', 'Vietnam']", "answers": ["South Korea"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3049113", "prediction": "[]", "answers": ["Thailand"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3026173", "prediction": "['Citizen (Sudan)', 'Armed Rebel (Syria)']", "answers": ["Armed Rebel (Syria)", "Citizen (Saudi Arabia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3013138", "prediction": "['2006-07-13', '2006-06-03']", "answers": ["Central Intelligence Agency"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034293", "prediction": "['2005-03-11']", "answers": ["2005"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3037872", "prediction": "['2011-01-16', '2008-09-05']", "answers": ["2011-01-16"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3025854", "prediction": "['2008-08-12']", "answers": ["Foreign Affairs (Hungary)", "Vietnam", "Bolivia", "Head of Government (Cyprus)", "Romania", "Maxime Verhagen", "France", "Milo Djukanovic", "UN Security Council"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3009702", "prediction": "['June', '2008']", "answers": ["2009-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3034245", "prediction": "['Sudan', 'Somalia', 'Iran']", "answers": ["UN Security Council", "Government (Sudan)", "Armed Band (Somalia)", "African Union", "Iran", "Interim Government (Somalia)", "Japan", "Peacekeeping Troop (Africa)", "Sudan", "Coalition for Unity and Democracy", "Islamic Courts Union"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3014839", "prediction": "['2005-11-17']", "answers": ["2005-11-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3007407", "prediction": "['Qatar', 'Malaysia']", "answers": ["China"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028365", "prediction": "['Iraq', 'Head of Government (Qatar)']", "answers": ["Cristina Fernández de Kirchner"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051238", "prediction": "['2010-10-27']", "answers": ["2010"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3021933", "prediction": "['Barack Obama']", "answers": ["Patrick Herminie"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3005319", "prediction": "['2011-07-18', '2007-09-03']", "answers": ["2011-07"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3036955", "prediction": "['Mwai Kibaki', 'Burundi']", "answers": ["Ethiopia", "Angola", "South Africa", "Malawi", "Swaziland"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3007460", "prediction": "['France']", "answers": ["Vietnam"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038901", "prediction": "['China', 'Thailand']", "answers": ["Thailand"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3038236", "prediction": "['2015-02']", "answers": ["2015-02"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3053147", "prediction": "['Iran', 'Japan']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3029991", "prediction": "['Pervez Musharraf']", "answers": ["Shaukat Aziz"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025300", "prediction": "['2015-03-26']", "answers": ["2012-09-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3042770", "prediction": "['Businessperson (Germany)', 'Mainland Affairs Council']", "answers": ["Wen Jiabao"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050197", "prediction": "['2007-06']", "answers": ["2007-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3052608", "prediction": "['Japan', '2009-11-02']", "answers": ["Rio Tinto"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037397", "prediction": "['2015']", "answers": ["2011"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3038077", "prediction": "['Yeo Cheow Tong', 'Koo Chen-fu', 'Jason C. Hu', 'Xu Caihou', 'Hui Liangyu', 'Liu Yandong']", "answers": ["Head of Government (Mongolia)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3045537", "prediction": "['2012-10-11']", "answers": ["2012"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3050229", "prediction": "['2013-04-28']", "answers": ["2013"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3053049", "prediction": "['Rebel Commander (Burundi)']", "answers": ["Rebel Commander (Burundi)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055277", "prediction": "['Cabinet / Council of Ministers / Advisors (United States)']", "answers": ["Cabinet / Council of Ministers / Advisors (United States)", "Philip Hammond"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3003801", "prediction": "['United States']", "answers": ["South Korea"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025872", "prediction": "['United States', 'Egypt', 'International Government Organizations']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037131", "prediction": "['2011-10-03']", "answers": ["2012"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3040337", "prediction": "['Qatar', 'Mahmoud Abbas', 'Iraq', 'Abdullah ibn Husayn al-Ahmar', 'Energy Department/Ministry (United States)', 'Tony Blair', 'Oman', 'Pervez", "answers": ["Iran", "Detainee (United States)", "Abdullah ibn Husayn al-Ahmar", "Mahmoud Abbas", "Oman", "Tony Blair", "Japan Self-Defense Forces", "Energy Department/Ministry (United States)", "Pervez Musharraf", "Undersecretary (United States)", "Military (El Salvador)", "Gerhard Schröder", "Qatar", "Iraq", "Head of Government (Germany)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3044205", "prediction": "['Wu Po-hsiung', 'Yasuo Fukuda']", "answers": ["Envoy (United States)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3012772", "prediction": "['Police (Cambodia)', 'Thailand']", "answers": ["Thailand", "Assemblies (Cambodia)", "Police (Cambodia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3015918", "prediction": "['Franklin Drilon', '2008-03-08']", "answers": ["City Mayor (Philippines)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053757", "prediction": "['Yeo Cheow Tong', 'Seyoum Mesfin', 'Juan Carlos I', 'Hung Chi-chang', 'Koo Chen-fu']", "answers": ["Wen Jiabao"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052970", "prediction": "['South Korea', 'Cambodia']", "answers": ["United Arab Emirates"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3048347", "prediction": "['Yu Zhengsheng', 'Yu Zhengsheng', 'Yu Zhengsheng', 'Yu Zhengsheng']", "answers": ["Mainland Affairs Council"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034261", "prediction": "['2012-09']", "answers": ["2012-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3011211", "prediction": "['Japan', 'South Korea']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3049635", "prediction": "['April']", "answers": ["2007-04"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3008261", "prediction": "['2005-03']", "answers": ["2005-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3010929", "prediction": "['China']", "answers": ["Vietnam"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3039444", "prediction": "['2008-09']", "answers": ["2006-11"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3042598", "prediction": "['Fishermen (Indonesia)']", "answers": ["Citizen (Thailand)", "China", "Aceh", "Government (Pakistan)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3028642", "prediction": "['Thailand', 'Thailand']", "answers": ["Thailand"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3047284", "prediction": "['South Sudan', 'Sudan']", "answers": ["Sudan", "Ethiopia"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3000321", "prediction": "['Citizen (Australia)', 'Member of Parliament (Australia)']", "answers": ["Steven Marshall"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003919", "prediction": "[]", "answers": ["National Front Malaysia", "Abhisit Vejjajiva"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3051657", "prediction": "['2013-10-30']", "answers": ["2013-10-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3002229", "prediction": "['Indigenous People (United States)']", "answers": ["Wen Jiabao"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051564", "prediction": "['2009-11-23']", "answers": ["2013-08-31"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3043446", "prediction": "['Barack Obama', 'Cabinet / Council of Ministers / Advisors (United States)', 'Envoy (United States)']", "answers": ["Defense / Security Ministry (United States)", "Prachanda", "Chris Evans", "South Korea", "Wen Jiabao", "Boediono", "Julia Gillard", "Maurice Williamson", "Foreign Affairs (Israel)", "France", "Ma Ying Jeou", "Viktor Orban", "Cabinet / Council of Ministers / Advisors (United States)", "City Mayor (United States)", "Japan", "Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3019627", "prediction": "['Barack Obama']", "answers": ["Abhisit Vejjajiva", "Dmitry Anatolyevich Medvedev", "Michael Andrew Gove", "Japan", "Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3042132", "prediction": "['Thailand']", "answers": ["Thailand"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3018190", "prediction": "[]", "answers": ["Julie Bishop", "Chuck Hagel", "Malaysia", "Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3006672", "prediction": "['Yemen', 'Iran', 'UAE Armed Forces']", "answers": ["UAE Armed Forces"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3022277", "prediction": "['Burundi']", "answers": ["Tanzania"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3029445", "prediction": "['South Korea']", "answers": ["Military Personnel - Special (Philippines)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025188", "prediction": "['Wen Jiabao', 'Hui Liangyu']", "answers": ["Legislature (Jamaica)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3039266", "prediction": "['Iran']", "answers": ["Iran"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3026692", "prediction": "['2012-11-15']", "answers": ["2012"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3048306", "prediction": "['Citizen (Thailand)', 'Governor (Thailand)']", "answers": ["Head of Government (Bahrain)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019836", "prediction": "['2005-06-28', '2006-03-09', '2006-03-03']", "answers": ["2005-06-28"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3030732", "prediction": "['2008-11-28']", "answers": ["2009-03-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3052935", "prediction": "['2010-12-24']", "answers": ["2010-12-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3047102", "prediction": "['UN Security Council', 'Vietnam']", "answers": ["Abhisit Vejjajiva"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037495", "prediction": "['2008-05-04', '2008-06-17', '2005-03-01', '2005-03-02',", "answers": ["2008-06-17"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3004599", "prediction": "['Mahmoud Abbas', 'Isaias Afewerki']", "answers": ["Muslim Cleric (Iran)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3006849", "prediction": "['Iran', 'Yemen']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3050485", "prediction": "['Ma Ying Jeou', 'Bev Perdue', 'Thiha Thura Tin Aung Myint Oo', 'Seyoum Mesfin']", "answers": ["Jacob J. Lew"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003097", "prediction": "['Military (Myanmar)']", "answers": ["Military Personnel (Thailand)"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3025624", "prediction": "['2015-11-11']", "answers": ["2015-11-11"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3020979", "prediction": "['Envoy (United States)']", "answers": ["Barack Obama"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3018779", "prediction": "['2013-01-16', '2013-01-22']", "answers": ["Businessperson (China)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028353", "prediction": "['Abhisit Vejjajiva', 'Tony Blair', 'Minister Kachornprasart', 'Supachai Panitchpakdi', 'Gurbanguly Berdymukhammedov', 'A.K.", "answers": ["Abhisit Vejjajiva"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3046464", "prediction": "['USAID', 'China', 'Defense / Security Ministry (United States)']", "answers": ["Protester (Thailand)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3008092", "prediction": "['Iran', 'Ministry (Oman)']", "answers": ["Isaias Afewerki"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019844", "prediction": "['2007-01-03', '2007-01-05', '2007-01-07', '2007-01-08',", "answers": ["Ireland", "Barack Obama"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3038046", "prediction": "['Barack Obama', 'France']", "answers": ["Head of Government (India)", "Iran", "Vietnam", "South Korea", "Wen Jiabao", "Kazakhstan", "South Africa", "Thailand", "France", "Laos", "Cambodia", "Japan", "Barack Obama"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3007916", "prediction": "['2015-01-29']", "answers": ["2015"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3021580", "prediction": "['Envoy (United States)']", "answers": ["Wen Jiabao"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3006124", "prediction": "['2007-11']", "answers": ["Iran", "South Korea", "Niger", "Yasuo Fukuda", "Rafael Correa", "Head of Government (Turkmenistan)", "Japan", "Ma Ying Jeou"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034571", "prediction": "['April']", "answers": ["2006-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3037485", "prediction": "['Laos', 'Cambodia', 'South Korea', 'Japan', 'China', 'Abhisit Vejjajiva', 'Malaysia']", "answers": ["Vietnam"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3021810", "prediction": "['2010-08-12']", "answers": ["2010-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3020614", "prediction": "['2014-04-02']", "answers": ["2006-01-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3026280", "prediction": "['2007-12']", "answers": ["2007-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3035454", "prediction": "['Wen Jiabao', 'African Union', 'Oluṣẹgun Ọbasanjọ', 'China', 'Government (Nigeria)']", "answers": ["Citizen (Nigeria)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3054182", "prediction": "['Tony Blair']", "answers": ["Franklin Drilon", "Military Personnel (Philippines)", "Benjamin Abalos", "Congress (Philippines)", "Reserve Personnel (Philippines)", "Alan Peter Cayetano", "Police (Philippines)", "ZTE Corp.", "Moro Islamic Liberation Front", "Priest (Philippines)", "City Mayor (Philippines)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3055834", "prediction": "['2008-06-05']", "answers": ["2005"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3055757", "prediction": "['Nuri al-Maliki', '2006-11-19']", "answers": ["Member of Parliament (Iraq)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3003193", "prediction": "['Japan', '2006-10-08']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055032", "prediction": "['Hui Liangyu']", "answers": ["Lawmaker (United Kingdom)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3051288", "prediction": "['UN Security Council', 'France']", "answers": ["UN Security Council"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3034071", "prediction": "['2014-06-17']", "answers": ["2014-06"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3022081", "prediction": "['Vietnam', 'Cambodia', 'Cambodia', 'Cambodia']", "answers": ["Naval (United States)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024083", "prediction": "['2015-08-17']", "answers": ["2015-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3010652", "prediction": "['2015-08-16', '2014-09-17', '2014-09-15']", "answers": ["2014-09-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3037202", "prediction": "['Japan', 'Vietnam', 'China', 'Citizen (Thailand)']", "answers": ["Citizen (Thailand)", "China", "Laos", "Japan", "Colombia", "Vietnam", "Cambodia"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3044364", "prediction": "['2005-04-15']", "answers": ["2011"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3002859", "prediction": "['2011-06']", "answers": ["Iran", "Japan"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025513", "prediction": "['Djibouti', 'Rwanda']", "answers": ["African Union"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025156", "prediction": "['2008-11-19', '2008-09-01', '2008-06-30', '2008-12-16']", "answers": ["Associated Press"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016833", "prediction": "['Dissident (China)', 'Jian Yu', 'Wen Jiabao', 'Citizen (Unidentified State Actor)']", "answers": ["Congress (United States)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053338", "prediction": "['Malaysia']", "answers": ["Malaysia"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3024063", "prediction": "['June']", "answers": ["2005-06"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3030842", "prediction": "['2005-01-20', '2005-12-22']", "answers": ["2009"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3001807", "prediction": "['2015-07-23']", "answers": ["2015-07-23"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3000516", "prediction": "[]", "answers": ["Government Official (United Kingdom)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044453", "prediction": "['Ethiopia', '2011-04-15']", "answers": ["Eritrea"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3024442", "prediction": "['Ali Abdullah Saleh', 'China']", "answers": ["Djibouti"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3032463", "prediction": "[]", "answers": ["Sali Berisha", "Yasuo Fukuda"], "qtype": "equal", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3012243", "prediction": "['Thailand']", "answers": ["UN Security Council"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3048494", "prediction": "['2010-04-23', '2008-03-03']", "answers": ["2010"], "qtype": "equal", "qlabel": "Single", "answer_type": "time"}
+{"quid": "3021130", "prediction": "['Vietnam', 'United States', 'United States', 'United States', 'United States']", "answers": ["Shivraj Patil"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3032398", "prediction": "['United States', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Iran', 'Yemen']", "answers": ["Iran", "Yemen", "Defense / Security Ministry (United States)", "Foreign Affairs (South Korea)", "Kuwait", "Mwai Kibaki", "Mahmoud Ahmadinejad", "Awad Ahmed al-Jaz", "Donald Rumsfeld", "Islam Karimov", "Nonaligned Movement", "Undersecretary (United States)", "Thailand", "Ali Abdullah Saleh", "Gerhard Schröder"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3054389", "prediction": "['2007-10-30']", "answers": ["Government (Poland)", "Iran"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3009481", "prediction": "['Thailand', 'Foreign Affairs (Malaysia)', 'Foreign Affairs (Singapore)']", "answers": ["Jacob J. Lew"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3027536", "prediction": "['Middle East']", "answers": ["Iran"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3017936", "prediction": "['2015-01']", "answers": ["Haider Al-Abadi", "Foreign Affairs (France)"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3025124", "prediction": "['Vietnam', 'Aceh', 'Sudan', 'Iraq', 'Cambodia', 'Comoros', 'Thailand', 'Citizen (Africa)', 'Association of Southeast Asian Nations']", "answers": ["Fishermen (Vietnam)", "Vietnam", "Aceh", "Sudan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3044996", "prediction": "['Japan']", "answers": ["Japan"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3013538", "prediction": "['North America', 'United Arab Emirates', 'Middle East', 'Congress (United States)']", "answers": ["Head of Government (Turkmenistan)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3019354", "prediction": "['Iran', 'Surakiart Sathirathai', 'Thailand', 'Japan']", "answers": ["Surakiart Sathirathai", "Thailand", "Iran", "Japan", "Yemen"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3030685", "prediction": "['Armed Band (Somalia)', 'Hassan Abdullah Hersi al-Turki']", "answers": ["Intelligence (Puntland)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3031338", "prediction": "['Iran']", "answers": ["South Korea"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017200", "prediction": "['Police (Cambodia)', 'Activist (Cambodia)']", "answers": ["Activist (Cambodia)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3023239", "prediction": "['Vietnam']", "answers": ["Qatar"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016145", "prediction": "['South Korea', '2010-12-24']", "answers": ["South Korea"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3034686", "prediction": "['2005-01-31']", "answers": ["Gates Foundation"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3045720", "prediction": "['']", "answers": ["Wen Jiabao", "Japan", "Military (Taiwan)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3002096", "prediction": "['Police (Malaysia)', 'Tan Sri Muhyiddin Yassin', 'Nurul Izzah Anwar', 'Court Judge (Malaysia)']", "answers": ["Police (Malaysia)", "Tan Sri Muhyiddin Yassin", "Villager (Thailand)", "Nurul Izzah Anwar"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3028522", "prediction": "['Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand', 'Thailand',", "answers": ["Lawyer/Attorney (Cambodia)", "Thailand", "Military Personnel (Thailand)", "Citizen (Thailand)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3037934", "prediction": "['2007-09-29']", "answers": ["Guerrilla (Iraq)", "Iraqi Islamic Party"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3040024", "prediction": "['Iran', 'Kuwait']", "answers": ["Iran"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3055088", "prediction": "['France', 'UN Security Council', 'Haider Al-Abadi', 'Mahmoud Abbas']", "answers": ["UN Security Council", "Nuri al-Maliki", "Mahmoud Abbas", "Foreign Affairs (France)", "Combatant (Islamic State of Iraq and the Levant)", "Member of Parliament (Iraq)", "Haider Al-Abadi", "Other Authorities / Officials (Turkey)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3027690", "prediction": "['Mulatu Teshome']", "answers": ["Japan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3029667", "prediction": "['China', 'France', 'Roh Moo Hyun', 'Shigeru Ishiba']", "answers": ["United Nations Children's Fund", "Vietnam", "Shigeru Ishiba", "France", "China", "Japan", "Roh Moo Hyun"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3019740", "prediction": "['Iran', 'China']", "answers": ["Student (Iraq)", "Quds Force", "Employee (Iraq)", "Iran", "Business (Iran)", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3022983", "prediction": "['Benjamin Netanyahu']", "answers": ["Police (Philippines)", "City Mayor (Philippines)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3024257", "prediction": "['Justice Department/Ministery (Thailand)']", "answers": ["Abhisit Vejjajiva"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3052484", "prediction": "['Iran', 'Philippines']", "answers": ["Iran"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052472", "prediction": "['Cabinet / Council of Ministers / Advisors (Thailand)', 'Citizen (Thailand)', 'Japan', 'Activist (Thailand)', 'Vietnam', 'Malaysia']", "answers": ["Citizen (Thailand)", "Cabinet / Council of Ministers / Advisors (Thailand)", "South Korea", "Colombia", "China", "Laos", "Japan", "Malaysia", "Vietnam", "Police (Malaysia)", "Cambodia"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3025290", "prediction": "['Saudi Arabia', '2012-03-19']", "answers": ["Citizen (United Kingdom)"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3028584", "prediction": "['Cambodia', '2010-08-21']", "answers": ["Thailand"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3044166", "prediction": "['Iraq']", "answers": ["Bolivia"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052227", "prediction": "['Taavi Rõivas', 'Iran', 'Ministry (Afghanistan)', 'Head of Government (Qatar)', 'Oman', 'Head of Government (Egypt)']", "answers": ["Taavi Rõivas"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3005147", "prediction": "['Thailand']", "answers": ["China"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3037412", "prediction": "['Iraq']", "answers": ["Iran"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3016635", "prediction": "['Yemen', 'United Arab Emirates', 'Kuwait', 'Qatar']", "answers": ["Yemen", "Kuwait", "Royal Administration (Saudi Arabia)", "Ali Abdullah Saleh", "Qatar", "Iraq"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3031016", "prediction": "['Chen Zhili', 'Shen Jong-chin']", "answers": ["Henry M. Paulson"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3017477", "prediction": "['Barack Obama', 'Legislature (Iraq)']", "answers": ["Iran", "Kuwait", "South Korea", "Legislature (Iraq)", "China", "Barack Obama"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3011160", "prediction": "['Cambodia']", "answers": ["Cambodia", "Bolivia", "Colombia", "Raúl Castro"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3010359", "prediction": "['Association of Southeast Asian Nations']", "answers": ["Thailand", "Kazakhstan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3029766", "prediction": "['Iraq', 'Australia']", "answers": ["Japan", "Police (Malaysia)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3048196", "prediction": "['United Kingdom']", "answers": ["South Africa", "Iraq"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3052993", "prediction": "['Datuk Seri Musa Aman', 'Foreign Affairs (Malaysia)']", "answers": ["Police (Malaysia)"], "qtype": "after_first", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3052897", "prediction": "['China', 'International Government Organizations', 'Vietnam', 'Japan', 'UN Security Council', 'Dmitry Anatolyevich Medvedev', 'North America']", "answers": ["China", "Japan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3021103", "prediction": "['Association of Southeast Asian Nations']", "answers": ["Thailand"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3040674", "prediction": "['United Arab Emirates', 'Yemen', 'Qatar']", "answers": ["Iran", "Kazakhstan", "Yemen", "Ali Abdullah Saleh", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3012217", "prediction": "['Sergey Vladilenovich Kiriyenko', 'Gennady Andreyevich Zyuganov', 'Gjorge Ivanov', 'Antonis Samaras', 'Melis Turganbayev']", "answers": ["Vietnam"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3053721", "prediction": "['Japan', 'South Korea']", "answers": ["South Korea", "Ma Ying Jeou", "Iran", "Grand National Party", "Japan", "Ai Weiwei", "Xi Jinping", "Vietnam", "Bhutan"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3012011", "prediction": "['Member of Parliament (Iraq)', 'Criticize or denounce Legislature (Iraq) in 2013-03-08']", "answers": ["Gerhard Schröder"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3046860", "prediction": "['Thailand']", "answers": ["Abhisit Vejjajiva", "Citizen (Thailand)", "Thailand", "Military (Cambodia)", "Vietnam", "China"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3046055", "prediction": "['Thailand']", "answers": ["Kazakhstan"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3001099", "prediction": "['Wang Yi']", "answers": ["Vietnam", "Aceh", "Dominican Republic"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3004223", "prediction": "['Commando (South Korea)']", "answers": ["Business (South Korea)", "Farm Worker (South Korea)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "3006787", "prediction": "['2006-10', '2008-08']", "answers": ["Ministry (Sudan)", "Head of Government (Ethiopia)", "UN Security Council"], "qtype": "equal_multi", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3006699", "prediction": "['Thailand', 'Vietnam']", "answers": ["High Commission for Refugees"], "qtype": "before_last", "qlabel": "Multiple", "answer_type": "entity"}
+{"quid": "3039379", "prediction": "['Citizen (Uganda)', 'Indigenous People (Kenya)', 'Men (Kenya)']", "answers": ["Men (Kenya)", "Citizen (Uganda)", "Indigenous People (Kenya)", "Police (Kenya)"], "qtype": "before_after", "qlabel": "Single", "answer_type": "entity"}

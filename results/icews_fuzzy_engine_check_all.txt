@@ -1,0 +1,1 @@
+rapidfuzz vs fuzzywuzzy best-match agreement: 99/100 (fuzzywuzzy 0.99s per query)

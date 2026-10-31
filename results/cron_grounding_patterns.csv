@@ -1,0 +1,16 @@
+level,qtype,answer_type,n,with_event_anchor,top_connectives
+complex,timeline_position_retrieval*2+temporal_constrained_retrieval,object,805,1.0,after+after 129; before+before 124; days_before+days_before 122; days_after+days_after 109
+complex,timeline_position_retrieval*2+temporal_constrained_retrieval,subject,758,1.0,after+after 118; days_after+days_after 116; days_before+days_before 107; before+before 105
+complex,timeline_position_retrieval*3,relation_duration,402,0.0024875621890547263,- 401; after 1
+complex,timeline_position_retrieval*3,relation_ranking,454,0.00881057268722467,- 450; after 3; after+after 1
+complex,timeline_position_retrieval*3,relation_union_or_intersection,774,0.4974160206718346,- 389; same_time+same_time 384; after 1
+medium,timeline_position_retrieval_temporal_constrained_retrieval,object,795,1.0,days_dict 389; before 187; after 186; during 10
+medium,timeline_position_retrieval_temporal_constrained_retrieval,subject,764,1.0,days_dict 350; dict 201; before 187; during 15
+medium,timeline_position_retrieval_timeline_position_retrieval,relation_duration,389,0.0,- 389
+medium,timeline_position_retrieval_timeline_position_retrieval,relation_union_or_intersection,803,0.5280199252801993,same_time 423; - 379; after+same_time 1
+simple,temporal_constrained_retrieval,object,403,0.0,- 403
+simple,temporal_constrained_retrieval,subject,433,0.0,- 433
+simple,timeline_position_retrieval,duration,397,0.0,- 397
+simple,timeline_position_retrieval,timestamp_end,390,0.0,- 390
+simple,timeline_position_retrieval,timestamp_range,386,0.4948186528497409,- 195; during 191
+simple,timeline_position_retrieval,timestamp_start,391,0.0,- 391

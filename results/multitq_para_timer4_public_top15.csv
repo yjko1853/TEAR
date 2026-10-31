@@ -1,0 +1,7 @@
+group_type,group,n,coverage@15
+overall,all,600,0.5183333333333333
+qtype,after_first,200,0.48
+qtype,before_last,200,0.615
+qtype,equal_multi,200,0.46
+answer_type,entity,600,0.5183333333333333
+qlabel,Multiple,600,0.5183333333333333

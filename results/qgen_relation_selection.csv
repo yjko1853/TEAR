@@ -1,0 +1,41 @@
+relation,aligned_dev,share,kept
+Express intent to meet or negotiate,8069,0.17489,True
+Praise or endorse,5406,0.11717,True
+Make a visit,4433,0.09608,True
+Make an appeal or request,3561,0.07718,True
+Criticize or denounce,3087,0.06691,True
+Express intent to engage in diplomatic cooperation (such as policy support),2898,0.06281,True
+Sign formal agreement,2865,0.0621,True
+Express intent to cooperate,2022,0.04383,True
+Make optimistic comment,2015,0.04367,True
+Engage in negotiation,1884,0.04083,True
+Accuse,1742,0.03776,True
+Reject,1329,0.0288,True
+Host a visit,1149,0.0249,True
+Make pessimistic comment,1119,0.02425,True
+Use conventional military force,988,0.02141,True
+Investigate,922,0.01998,True
+Threaten,759,0.01645,True
+Provide humanitarian aid,483,0.01047,True
+Use unconventional violence,397,0.0086,True
+Discuss by telephone,361,0.00782,True
+"Return, release person(s)",244,0.00529,True
+fight with small arms and light weapons,208,0.00451,True
+Make statement,55,0.00119,False
+Consult,13,0.00028,False
+Appeal for diplomatic cooperation (such as policy support),9,0.0002,False
+Demand,7,0.00015,False
+Deny responsibility,7,0.00015,False
+Express intent to cooperate economically,6,0.00013,False
+Express intent to provide economic aid,6,0.00013,False
+"Return, release property",6,0.00013,False
+Express intent to provide material aid,5,0.00011,False
+Engage in diplomatic cooperation,5,0.00011,False
+Reduce or break diplomatic relations,5,0.00011,False
+Demand diplomatic cooperation (such as policy support),5,0.00011,False
+Make empathetic comment,5,0.00011,False
+Cooperate economically,4,9e-05,False
+Reduce relations,4,9e-05,False
+"Impose embargo, boycott, or sanctions",4,9e-05,False
+Express accord,3,7e-05,False
+Provide aid,3,7e-05,False

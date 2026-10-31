@@ -1,0 +1,5 @@
+set,aligned_share,topic_n,topic_distinct_topics,topic_top10_share,topic_top1
+icews0515_regen,,6000.0,1062.0,0.24416666666666667,"('China', 313)"
+icews18_dev,,1200.0,570.0,0.13916666666666666,"('Russia', 29)"
+icews18_test,,6000.0,1433.0,0.12233333333333334,"('Russia', 102)"
+multitq_test,0.7751722116371098,42312.0,1502.0,0.6676592928719984,"('China', 10480)"

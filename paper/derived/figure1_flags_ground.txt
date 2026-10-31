@@ -1,0 +1,16 @@
+none
+  Council of Representatives Make a visit Kuwait in 2009-07-03           penalised=True valid=False rep=False
+  Kuwait Host a visit Council of Representatives in 2009-07-03           penalised=True valid=False rep=False
+  Kuwait Host a visit Supreme Council (Iraq) in 2011-08-18               penalised=True valid=False rep=False
+atc
+  Supreme Council (Iraq) Make a visit Kuwait in 2011-08-18               penalised=False valid=False rep=False
+  Supreme Council (Iraq) Make a visit Kuwait in 2012-03-16               penalised=False valid=False rep=False
+  Iraq Make a visit Kuwait in 2010-04-28                                 penalised=False valid=False rep=False
+tr
+  Kuwait Make a visit Ali Abdullah Saleh in 2005-09-19                   penalised=True valid=True rep=True
+  Kuwait Host a visit Cabinet / Council of Ministers / Advisors (United States) in 2007-02-25 penalised=True valid=True rep=True
+  Kuwait Host a visit Iraq in 2009-06-05                                 penalised=True valid=True rep=True
+tear
+  France Make a visit Kuwait in 2009-06-22                               penalised=False valid=True rep=True
+  Qatar Host a visit Kuwait in 2009-03-04                                penalised=False valid=True rep=True
+  UN Security Council Meet at a 'third' location Head of Government (Qatar) in 2009-01-10 penalised=False valid=True rep=True

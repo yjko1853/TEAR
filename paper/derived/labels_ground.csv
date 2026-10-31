@@ -1,0 +1,7 @@
+field,value
+slots,"{""subject"": 28377, ""timestamp"": 15820, ""object"": 10387}"
+topic_source,"{""rule_main_clause"": 53189, ""ner_fallback"": 1394, ""none"": 1}"
+slot_x_answer_type,"{""subject|entity"": 28327, ""timestamp|time"": 15820, ""object|entity"": 10373, ""subject|time"": 50, ""object|time"": 14}"
+anchored,18863
+anchor_resolved,18629
+anchor_source,"{""embedding"": 3198, ""mention"": 15431}"

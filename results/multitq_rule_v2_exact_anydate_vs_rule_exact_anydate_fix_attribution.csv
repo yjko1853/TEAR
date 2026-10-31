@@ -1,0 +1,5 @@
+step,questions,slot_changes,transitions
+query fallback (380 empty/truncated rewrites),380,124,
+"rule fixes a-c (do-support position, 'in which', 'with which' clause)",54204,948,"object->subject 702, subject->object 246"
+rule fix d (date with a comma in the leading clause),54204,89,subject->object 89
+rule fix e ('suffer from' asks for the victim),54204,190,subject->object 190

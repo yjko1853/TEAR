@@ -1,0 +1,13 @@
+subset,cause,n,orig_hit1,para_hit1,lost_hits
+valid,0 unresolved on the original,23,0.043478260869565216,0.0,1
+valid,1 anchor phrase not found,33,0.42424242424242425,0.0,14
+valid,"2 found, not resolved",6,0.16666666666666666,0.0,1
+valid,3 slot label changed,70,0.2714285714285714,0.15714285714285714,8
+valid,"4 same slot, other date",39,0.15384615384615385,0.05128205128205128,4
+valid,5 same slot and date,268,0.26865671641791045,0.2537313432835821,4
+valid and judged same,0 unresolved on the original,13,0.07692307692307693,0.0,1
+valid and judged same,1 anchor phrase not found,12,0.5,0.0,6
+valid and judged same,"2 found, not resolved",4,0.25,0.0,1
+valid and judged same,3 slot label changed,51,0.21568627450980393,0.13725490196078433,4
+valid and judged same,"4 same slot, other date",27,0.18518518518518517,0.07407407407407407,3
+valid and judged same,5 same slot and date,215,0.26046511627906976,0.26046511627906976,0
