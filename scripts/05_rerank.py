@@ -19,7 +19,7 @@ from tear.data import is_multitq  # noqa: E402
 from tear.data.candidates import CandidatePool  # noqa: E402
 from tear.evaluation.coverage import answer_hit_features, coverage_rows, timer4_public_coverage  # noqa: E402
 from tear.paths import RESULTS, ensure_dirs  # noqa: E402
-from tear.rerank.core import RERANKERS, rerank  # noqa: E402
+from tear.rerank.core import PROMOTE, RERANKERS, rerank  # noqa: E402
 from tear.rerank.features import build_features  # noqa: E402
 from tear.utils.io import load_json, save_json  # noqa: E402
 from tear.utils.timing import timed  # noqa: E402
@@ -50,6 +50,9 @@ def main():
     ap.add_argument("--anchors", default=None, help="anchor dates JSON (scripts/14_ground_anchors.py) for event-anchored"
                     " before/after/same-period constraints")
     ap.add_argument("--equal_window", action="store_true", help="window + TR validity for same-period constraints")
+    ap.add_argument("--rerankers", default=None, help="comma-separated subset (default: the standard list); e.g. the "
+                    "TR-promote variants " + ",".join(PROMOTE) + ". With this option the chrono pool variants, the "
+                    "ablation file and the TimeR4 reference are skipped and only the named arrays are written.")
     args = ap.parse_args()
     ensure_dirs()
     ds = args.dataset
@@ -91,8 +94,9 @@ def main():
 
     # ---- main comparison + slot occupancy
     rows, occ_rows = [], []
-    with timed("S5_rerank_main", ds, tag):
-        for name in RERANKERS:
+    chosen = args.rerankers.split(",") if args.rerankers else RERANKERS
+    with timed("S5_rerank_main", ds, tag + (f" {args.rerankers}" if args.rerankers else "")):
+        for name in chosen:
             perm = rerank(name, pool.sims, F, args.lam1, args.lam2, args.mu, args.chrono_pool)
             rows += coverage_rows(F, perm, name, groups)
             np.save(rerank_dir / f"{name}_{tag}_top{args.save_topk}_ids.npy",
@@ -109,15 +113,16 @@ def main():
             occ_rows.append({"reranker": name, gkey: "ALL", "n": int(m.sum()),
                              "topic_in_answer_slot_share_top15": float(occ[m].mean()),
                              "questions_with_any_in_top15": float((occ[m] > 0).mean())})
-        for P in (100, args.topn):   # chronological-sort pool variants
+        for P in ((100, args.topn) if not args.rerankers else ()):   # chronological-sort pool variants
             perm = rerank("chrono", pool.sims, F, P=P)
             rows += coverage_rows(F, perm, f"chrono_P{P}", groups)
     df = pd.DataFrame(rows)
     df.to_csv(results / f"{ds}_coverage_main_{tag}.csv", index=False)
     pd.DataFrame(occ_rows).to_csv(results / f"{ds}_slot_occupancy_top15_{tag}.csv", index=False)
-    abl = df[df.reranker.isin(["none", "atc", "tr", "tear"])].copy()
-    abl["setting"] = abl.reranker.map({"none": "base", "atc": "+ATC", "tr": "+TR", "tear": "+ATC+TR"})
-    abl.to_csv(results / f"{ds}_ablation_{tag}.csv", index=False)
+    if not args.rerankers:
+        abl = df[df.reranker.isin(["none", "atc", "tr", "tear"])].copy()
+        abl["setting"] = abl.reranker.map({"none": "base", "atc": "+ATC", "tr": "+TR", "tear": "+ATC+TR"})
+        abl.to_csv(results / f"{ds}_ablation_{tag}.csv", index=False)
     piv = df[(df.k == 15) & (df.group_type.isin(["overall", gkey]))].pivot_table(index="reranker", columns="group",
                                                                                 values="coverage")
     print("\ncoverage@15 (pivot):\n", piv.round(4).to_string())
@@ -130,7 +135,7 @@ def main():
         print(f"question order differs from {qo}; wrote question_order_{tag}.json", flush=True)
 
     # ---- reference: TimeR4's released top-15 (MultiTQ)
-    if is_multitq(ds):
+    if is_multitq(ds) and not args.rerankers:
         covs = timer4_public_coverage(pool)
         trows = [{"group_type": "overall", "group": "all", "n": len(covs), "coverage@15": float(covs.mean())}]
         for gtype in ("qtype", "answer_type", "qlabel"):

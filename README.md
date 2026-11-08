@@ -85,6 +85,9 @@ external/   cache/          third-party data clones and generated intermediate f
 | `25_topic_kg_check.py` | automatic KG check of the rule topic entities |
 | `26_make_figures.py` | paper figures (`figures/`, or `TEAR_FIGURES=<dir>`) |
 | `27_hardwindow_reader_report.py` | reader with the hard window and anchor grounding (pre-registered): gain decomposition |
+| `28_tr_promote_report.py` | TR-promote, the within-group variant of the representative-fact rule (pre-registered): LLM-free, reader, diagnostics |
+| `29_second_reader_report.py` | second reader next to the 7B reader on the same 1,000 questions (pre-registered; Qwen2.5-14B registered, Llama-3.1-8B-Instruct fallback at 48 and 256 tokens; `--label`, `--out_name`) |
+| `30_tear_on_timer4_lists.py` | the rules applied to the released top-15 lists of TimeR4's fine-tuned retriever (LLM-free) |
 
 The two scripts numbered 14 are independent: `14_ground_anchors.py` is a CPU labelling stage, and
 `14_reuse_across_settings.py` is a reader utility used by the `logs/run_*` drivers.
@@ -186,6 +189,9 @@ $P scripts/06_llmfree_eval.py --dataset multitq_orig --tag rule_v2_ground_exact_
 | ICEWS18 questions | `scripts/17_generate_questions.py extract / calibrate / prepare / generate / fidelity / rulecheck` (below) | `cache/icews18/questions*.json` (released in `artifacts/icews18/`), `results/qgen_*`, `results/addendum_icews18_benchmark.md` |
 | ICEWS18 retrieval, rerank, reader | `caffeinate -i bash logs/run_icews18.sh` | `results/icews18_*`, `results/qwen_icews18*` |
 | hard window reader (pre-registered) | `caffeinate -i bash logs/run_hardwindow_reader.sh`, `scripts/27` | `results/hardwindow_reader*`, `hardwindow_*` in `results/qwen_ground/` and `results/qwen_icews18/` |
+| TR-promote variant (pre-registered) | `scripts/05 --rerankers tr_promote,tear_promote,tear_window_promote` and `scripts/06 --rerankers ...` (both with `--results_dir results/tr_promote`), `caffeinate -i bash logs/run_tr_promote_reader.sh`, `scripts/28` | `results/tr_promote/`, `results/qwen_ground_promote/`, `results/qwen_icews18_promote/`; the variant's lists are in `artifacts/<ds>/*_top30_promote.npz` |
+| second reader (pre-registered) | `caffeinate -i bash logs/run_second_reader.sh` (14B bench, fallback), `logs/run_second_reader_resume.sh`, `logs/run_second_reader_t256.sh` (256-token deviation), `scripts/29` | `results/qwen14b_ground/` (bench only), `results/qwen_llama8b_ground/`, `results/qwen_llama8b_ground_t256/`, `results/second_reader_t48*`, `results/second_reader_t256*`, `results/second_reader_format.txt` |
+| rules on the fine-tuned retriever's lists | `scripts/30_tear_on_timer4_lists.py` | `results/timer4_lists_tear.md`, `timer4_lists_tear_{llmfree,significance}.csv` |
 | no-rewrite ablation, v1 vs v2 | `scripts/11`, `scripts/13`, `logs/build_v2*.sh` | `results/multitq_orig_vs_rewrite_*`, `results/addendum_*.md` |
 | motivation, topic check, report | `scripts/09`, `scripts/25`, `scripts/10` | `results/multitq_same_sro_similarity.csv`, `results/topic_kg_check.csv`, `results/results.md` |
 | figures | `scripts/26_make_figures.py` | `figures/fig_overview.pdf`, `figures/fig_gains.pdf` and `fig_gains_values.csv` |
@@ -200,7 +206,10 @@ Unless stated otherwise the tag is `rule_v2_ground_exact_anydate`, `<ds>_` is `m
 |---|---|
 | MultiTQ data (`tab:data`) | `cache/multitq_orig/questions.json` (scripts/01); anchored counts `anchor_grounding_accuracy.csv`, `addendum_anchor_grounding.md`; samples `artifacts/multitq_orig/sample_6000.json.gz` |
 | Rerankers on MultiTQ (`tab:main`) | `<ds>_coverage_main_<tag>.csv` (k = 15), `<ds>_llmfree_hit1_<tag>.csv`, `<ds>_llmfree_significance_<tag>.csv`, `<ds>_slot_occupancy_top15_<tag>.csv`, reader `qwen_ground_final_summary.csv` / `qwen_ground_final_significance.csv`, reference row `multitq_timer4_public_top15.csv`; derived: `llmfree_significance_vs_distance_penalty_ground.csv` (difference to the distance penalty), `timer4_released_rescored_sample6000.csv` (fine-tuned TimeR4 reader row) |
-| Hard window reader (Tables 3, 4; S13, S14, S18) | `scripts/27_hardwindow_reader_report.py` -> `hardwindow_reader.md`, `hardwindow_reader_summary.csv`, `hardwindow_reader_significance.csv`; pre-registration `prereg_hardwindow_reader.md` |
+| Hard window reader (Tables 3, 4; S14, S15, S21) | `scripts/27_hardwindow_reader_report.py` -> `hardwindow_reader.md`, `hardwindow_reader_summary.csv`, `hardwindow_reader_significance.csv`; pre-registration `prereg_hardwindow_reader.md` |
+| Rules on the fine-tuned retriever's lists (Table S7) | `scripts/30_tear_on_timer4_lists.py` -> `timer4_lists_tear.md`, `timer4_lists_tear_llmfree.csv`, `timer4_lists_tear_significance.csv` |
+| Second reader (Table S17, Section S10; Limitations) | `scripts/29_second_reader_report.py --pred_dir results/qwen_llama8b_ground --model Meta-Llama-3.1-8B-Instruct-4bit --label 8B-t48 --out_name second_reader_t48` and `--pred_dir results/qwen_llama8b_ground_t256 ... --label 8B-t256 --out_name second_reader_t256` -> `second_reader_t48.md`, `second_reader_t48_{summary,significance}.csv`, `second_reader_t256.md`, `second_reader_t256_{summary,significance}.csv`; list-format counts `second_reader_format.txt`; predictions `qwen_llama8b_ground/` (48 tokens), `qwen_llama8b_ground_t256/` (256 tokens), 14B feasibility bench `qwen14b_ground/*__bench.jsonl`; pre-registration `prereg_second_reader.md` |
+| TR-promote variant (Table S16, Section 5.6) | `scripts/28_tr_promote_report.py` -> `tr_promote/tr_promote_report.md`, `tr_promote_{llmfree_pairs,reader_summary,reader_significance,reader_diagnostic,group_diagnostic}.csv`, `tr_promote/<ds>_*_<tag>.csv` (scripts/05, 06 with `--rerankers`); pre-registration `prereg_tr_promote.md` |
 | Hit@1 by question type (`tab:types`) | `<ds>_llmfree_hit1_<tag>.csv` (`exact_<qtype>`), `qwen_ground_final_summary.csv` (`reader_date`, `qt_*`) |
 | Grounding vs rewriting (`tab:grounding`) | `anchor_grounding_summary.csv`, `anchor_grounding_significance.csv`, `anchor_grounding_accuracy.csv`, `addendum_anchor_grounding.md` |
 | Second retriever (`tab:retriever`) | `retriever_comparison.csv`, `retriever_comparison.md`, `multitq_bge_*_<tag>.csv` |
@@ -223,8 +232,10 @@ Unless stated otherwise the tag is `rule_v2_ground_exact_anydate`, `<ds>_` is `m
 
 Pre-registration notes: `results/prereg_retriever_and_granularity.md` (second retriever, answer granularity),
 `results/prereg_paraphrase_robustness.md` (paraphrase robustness, with its amendments and deviation) and
-`results/prereg_hardwindow_reader.md` (reader with the hard window and anchor grounding; `scripts/27`). Each was
-written before the outputs it covers existed; later changes are listed in the note itself.
+`results/prereg_hardwindow_reader.md` (reader with the hard window and anchor grounding; `scripts/27`),
+`results/prereg_tr_promote.md` (the within-group variant of TR; `scripts/28`) and `results/prereg_second_reader.md`
+(the second reader: Qwen 14B registered, the Llama-3.1-8B fallback and the 256-token deviation; `scripts/29`). Each was written before the outputs it covers existed; later changes are listed in the
+note itself.
 
 ### Outputs and settings
 

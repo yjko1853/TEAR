@@ -7,6 +7,9 @@
       Existing files are kept unless --force.
   python -I artifacts/artifacts.py pack --cache <path to a full cache/> [--out artifacts]
       rebuilds the artefacts from a cache/ written by the pipeline (how this folder was made).
+  python -I artifacts/artifacts.py pack-extra --cache <path to a full cache/> [--out artifacts]
+      adds the TR-promote variant's lists (*_top30_promote.npz, settings tr_promote, tear_promote, tear_window_promote;
+      scripts/28) and the first/last-cue reader samples, and refreshes SHA256SUMS; the other files are left as they are.
 
 Each .npz holds one reranking run: ids (questions x settings x 30, int32; fact i = line i of cache/<ds>/sentences.txt),
 settings (reranker names, axis 1), question_ids (row order, = rerank/question_order.json), tag and rerank_dir.
@@ -40,8 +43,59 @@ SPEC = {
 }
 
 
-def _npz_name(rerank_dir: str) -> str:
-    return f"{rerank_dir}_{TAG}_top30.npz"
+PROMOTE = ["tr_promote", "tear_promote", "tear_window_promote"]
+# dataset -> (rerank directories with the promote arrays, JSON files to gzip): the TR-promote experiment (scripts/28)
+EXTRA = {
+    "multitq_orig": (["rerank"], ["sample_firstlast_cue_3000.json", "sample_first_last_1000.json"]),
+    "icews18": (["rerank"], ["sample_reader2000_first_last.json"]),
+}
+
+
+def _npz_name(rerank_dir: str, suffix: str = "") -> str:
+    return f"{rerank_dir}_{TAG}_top30{suffix}.npz"
+
+
+def _write_npz(src: Path, p: Path, settings: list, rd: str) -> None:
+    arrs = [np.load(src / f"{s}_{TAG}_top30_ids.npy") for s in settings]
+    ids = np.stack(arrs, axis=1).astype(np.int32)
+    order = json.loads((src / "question_order.json").read_text(encoding="utf-8"))
+    qids = np.asarray(order["question_ids"], dtype=np.int64)
+    assert ids.shape[0] == len(qids), (p, ids.shape, len(qids))
+    np.savez_compressed(p, ids=ids, settings=np.asarray(settings), question_ids=qids, tag=np.asarray(TAG),
+                        rerank_dir=np.asarray(rd))
+    z = np.load(p)
+    for j, s in enumerate(settings):  # round-trip check
+        assert np.array_equal(z["ids"][:, j, :], arrs[j]), (p, s)
+
+
+def _gzip_json(cache: Path, ds: str, name: str, od: Path) -> Path:
+    raw = (cache / ds / name).read_bytes()
+    p = od / f"{name}.gz"
+    with open(p, "wb") as f, gzip.GzipFile(filename=name, mode="wb", fileobj=f, compresslevel=9, mtime=0) as g:
+        g.write(raw)
+    assert gzip.decompress(p.read_bytes()) == raw
+    return p
+
+
+def _sums(out: Path) -> None:
+    lines = []
+    for p in sorted(out.rglob("*")):
+        if p.is_file() and p.suffix in {".npz", ".gz", ".json"} and p.parent != out:
+            lines.append(f"{hashlib.sha256(p.read_bytes()).hexdigest()}  {p.relative_to(out).as_posix()}")
+    (out / "SHA256SUMS").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def pack_extra(cache: Path, out: Path) -> None:
+    for ds, (rdirs, gz) in EXTRA.items():
+        od = out / ds
+        od.mkdir(parents=True, exist_ok=True)
+        for rd in rdirs:
+            p = od / _npz_name(rd, "_promote")
+            _write_npz(cache / ds / rd, p, PROMOTE, rd)
+            print(f"{p.relative_to(out)}  ids {np.load(p)['ids'].shape}")
+        for name in gz:
+            print(f"{_gzip_json(cache, ds, name, od).relative_to(out)}")
+    _sums(out)
 
 
 def pack(cache: Path, out: Path) -> None:
@@ -121,12 +175,15 @@ def main():
     u = sub.add_parser("unpack")
     u.add_argument("--cache", type=Path, default=ROOT / "cache")
     u.add_argument("--force", action="store_true")
-    k = sub.add_parser("pack")
-    k.add_argument("--cache", type=Path, required=True)
-    k.add_argument("--out", type=Path, default=HERE)
+    for name in ("pack", "pack-extra"):
+        k = sub.add_parser(name)
+        k.add_argument("--cache", type=Path, required=True)
+        k.add_argument("--out", type=Path, default=HERE)
     args = ap.parse_args()
     if args.cmd == "pack":
         pack(args.cache.resolve(), args.out.resolve())
+    elif args.cmd == "pack-extra":
+        pack_extra(args.cache.resolve(), args.out.resolve())
     else:
         unpack(args.cache.resolve(), args.force)
 

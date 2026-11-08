@@ -8,7 +8,7 @@ from ..temporal import date_to_days, explicit_same_period, extract_temporal_cue,
 from .atc import ContainMasks, atc_mask_exact, atc_mask_substring, resolve_labels
 from .baselines import chrono_direction, timer4_phi
 from .tr import (before_after_validity, from_to_window, group_keys, group_representatives, non_representative_mask,
-                 period_validity)
+                 period_validity, representative_of)
 
 
 def build_features(pool, slots: dict, topics_override: dict | None = None, date_granularity: str = "full",
@@ -21,6 +21,7 @@ def build_features(pool, slots: dict, topics_override: dict | None = None, date_
     Arrays of shape (Q, N) unless noted:
       atc          True = penalised by the ATC rule (lambda1)
       tr           True = not a group representative (lambda2)
+      tr_rep       int32: index of the representative of the candidate's group, -1 when none (TR-promote variant)
       window       True = inside the before/after (or from-to) window; has_window (Q,)
       phi_before / phi_after  TimeR4 phi_t (NaN rows when the question has no such date)
       chrono_dir (Q,), cand_date, meta (DataFrame: which rules fired per question)
@@ -28,6 +29,7 @@ def build_features(pool, slots: dict, topics_override: dict | None = None, date_
     Q, N = pool.ids.shape
     atc = np.zeros((Q, N), bool)
     tr = np.zeros((Q, N), bool)
+    tr_rep = np.full((Q, N), -1, np.int32)
     window = np.ones((Q, N), bool)
     has_window = np.zeros(Q, bool)
     phi_before = np.full((Q, N), np.nan, np.float32)
@@ -92,6 +94,7 @@ def build_features(pool, slots: dict, topics_override: dict | None = None, date_
             keys = group_keys(slot, s_c, r_c, o_c, pool.E, pool.R)
             reps = group_representatives(keys, valid, cand_date[qi], cues)
             tr[qi] = non_representative_mask(N, reps)
+            tr_rep[qi] = representative_of(keys, reps)
             tr_fired = len(reps) > 0
         row = {"slot": slot, "topic": topic, "has_cue_first": "first" in cues, "has_cue_last": "last" in cues,
                "has_cue_before": "before" in cues, "has_cue_after": "after" in cues,
@@ -102,5 +105,5 @@ def build_features(pool, slots: dict, topics_override: dict | None = None, date_
         meta.append(row)
         if qi % 10000 == 0:
             print(f"  features {qi}/{Q}", flush=True)
-    return dict(atc=atc, tr=tr, window=window, has_window=has_window, phi_before=phi_before, phi_after=phi_after,
+    return dict(atc=atc, tr=tr, tr_rep=tr_rep, window=window, has_window=has_window, phi_before=phi_before, phi_after=phi_after,
                 chrono_dir=chrono_dir, cand_date=cand_date, meta=pd.DataFrame(meta))

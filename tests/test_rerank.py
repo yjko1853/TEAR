@@ -57,3 +57,29 @@ def test_tear_scores_rank_penalised_last():
     assert rerank("none", sims, F).tolist() == [[0, 1, 2]]
     assert rerank("atc", sims, F).tolist() == [[1, 0, 2]]     # 0.9*0.8 = 0.72: below 0.8, still above 0.7
     assert rerank("tear", sims, F, lam1=0.5, lam2=0.5).tolist() == [[2, 0, 1]]
+
+
+def test_representative_of_and_promote():
+    from tear.rerank.core import PROMOTE_EPS, promote_scores
+    from tear.rerank.tr import representative_of
+    # groups: candidates 0,1,2 share a key, 3 is alone, 4 has a group without representative (invalid)
+    keys = np.array([7, 7, 7, 9, 11]); reps = np.array([2, 3])
+    assert representative_of(keys, reps).tolist() == [2, 2, 2, 3, -1]
+    assert representative_of(keys, np.array([], np.int64)).tolist() == [-1] * 5
+    sims = np.array([[0.9, 0.8, 0.7, 0.6, 0.5]], np.float32)
+    tr_rep = np.array([[2, 2, 2, 3, -1]])
+    sc = promote_scores(sims, tr_rep)
+    assert np.isclose(sc[0, 2], 0.9 + PROMOTE_EPS) and sc[0, 0] == np.float32(0.9)   # representative lifted to the group max
+    assert np.allclose(sc[0, [1, 4]], [0.8, 0.5]) and np.isclose(sc[0, 3], 0.6 + PROMOTE_EPS)
+    assert sims[0, 2] == np.float32(0.7)                                             # input untouched
+
+
+def test_tr_promote_keeps_other_members_in_place():
+    sims = np.array([[0.9, 0.8, 0.7, 0.6]], np.float32)
+    F = {"atc": np.zeros((1, 4), bool), "tr": np.array([[True, True, False, False]]),
+         "tr_rep": np.array([[2, 2, 2, 3]]), "window": np.array([[True, True, True, False]])}
+    assert rerank("tr", sims, F).tolist() == [[0, 2, 1, 3]]                  # original TR: 0.72, 0.64, 0.70, 0.60
+    assert rerank("tr_promote", sims, F).tolist() == [[2, 0, 1, 3]]          # 2 lifted above 0; 0 and 1 keep their order
+    assert rerank("tear_window_promote", sims, F).tolist() == [[2, 0, 1, 3]]
+    F["window"] = np.array([[False, True, True, True]])
+    assert rerank("tear_window_promote", sims, F).tolist() == [[2, 1, 3, 0]]  # window applied after the promotion

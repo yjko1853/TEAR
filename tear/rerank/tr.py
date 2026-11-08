@@ -69,3 +69,23 @@ def group_representatives(keys, valid, cand_date, cues):
 def non_representative_mask(n: int, reps):
     """True = not a representative (gets lambda2)."""
     return ~np.isin(np.arange(n), reps)
+
+
+def representative_of(keys, reps):
+    """Index of the representative of each candidate's group; -1 when the group has none (TR-promote variant).
+
+    The promote variant of TR (tear.rerank.core: tr_promote / tear_promote / tear_window_promote) lifts the
+    representative to the rank of its group's best-scoring member and leaves every other candidate in place, so the
+    reader still sees the group's other occurrences; the original TR instead down-weights every non-representative."""
+    out = np.full(len(keys), -1, np.int64)
+    reps = np.asarray(reps, np.int64)
+    if len(reps) == 0:
+        return out
+    rep_keys = keys[reps]
+    order = np.argsort(rep_keys, kind="stable")
+    sk, sr = rep_keys[order], reps[order]
+    pos = np.searchsorted(sk, keys)
+    pos_c = np.minimum(pos, len(sk) - 1)
+    hit = sk[pos_c] == keys
+    out[hit] = sr[pos_c[hit]]
+    return out

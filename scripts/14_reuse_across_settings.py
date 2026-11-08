@@ -32,6 +32,7 @@ def main():
     ap.add_argument('--prompt', default='v3')
     ap.add_argument('--k', type=int, default=15)
     ap.add_argument('--seed', type=int, default=2026, help='shuffle seed of the reader (same as 07)')
+    ap.add_argument('--source_dir', default=None, help='directory of the source predictions (default: --pred_dir)')
     ap.add_argument('--dry_run', action='store_true')
     a = ap.parse_args()
     cache = ROOT / 'cache' / a.dataset
@@ -41,13 +42,14 @@ def main():
     random.Random(a.seed).shuffle(sample)
     sl = sample[a.start:a.end]
     pdir = ROOT / a.pred_dir
-    fname = lambda s: pdir / f'{s}_{a.tag}__{a.model}__k{a.k}__p-{a.prompt}.jsonl'
+    sdir = ROOT / a.source_dir if a.source_dir else pdir
+    fname = lambda s, d=pdir: d / f'{s}_{a.tag}__{a.model}__k{a.k}__p-{a.prompt}.jsonl'
     def read(p):
         return {json.loads(l)['quid']: json.loads(l) for l in open(p)} if p.exists() else {}
     tgt_arr = np.load(cache / 'rerank' / f'{a.target}_{a.tag}_top30_ids.npy', mmap_mode='r')
     have = read(fname(a.target))
     srcs = [s for s in a.sources.split(',') if s and s not in (a.target, 'timer4_public')]
-    src = [(s, np.load(cache / 'rerank' / f'{s}_{a.tag}_top30_ids.npy', mmap_mode='r'), read(fname(s))) for s in srcs]
+    src = [(s, np.load(cache / 'rerank' / f'{s}_{a.tag}_top30_ids.npy', mmap_mode='r'), read(fname(s, sdir))) for s in srcs]
     out, counts = [], {}
     for q in sl:
         if q in have:

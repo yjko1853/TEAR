@@ -1,0 +1,29 @@
+Format compliance of the fallback second reader (Meta-Llama-3.1-8B-Instruct-4bit, prompt v3, 48 tokens, first 1,000
+questions of the reader order; results/qwen_llama8b_ground/). "contains list": the output has a bracketed [...] list
+anywhere; "starts with list": the output begins with "[" (the 7B reader does so on every question); "exact first":
+the first parsed answer matches a gold answer; "gold anywhere": a gold answer string occurs anywhere in the output.
+Computed 2026-11-07 23:46 (tear.reader.parse.parse_list, tear.text.normalize).
+
+setting      n     contains list  starts with list  exact first  gold anywhere
+none         1000  157            0                 85           211
+tear_window  1000  170            1                 92           284
+hardwindow   1000  144            0                 78           239
+
+Typical output: "To find who negotiated with Iraq on 21 February 2006, we need to look for any facts where ..." (cut at
+48 tokens before any answer); when a list follows the reasoning it is parsed correctly ("... Here is the list of
+answers: ['2008']" -> ['2008']).
+
+Registered deviation (256 tokens, results/qwen_llama8b_ground_t256/, run 2026-11-07 23:55 .. 2026-11-08 08:54; 12.7 / 13.5 /
+14.3 s per question for none / tear_window / hardwindow, 13.3 overall over the 2,423 questions read; 577 reused across
+settings). Same columns; "ends with list": the output ends with "]" (the list is the last thing written). Computed
+2026-11-08 09:05.
+
+setting      n     contains list  starts with list  exact first  gold anywhere  ends with list
+none         1000  599            0                 210          427            533
+tear_window  1000  573            1                 259          575            500
+hardwindow   1000  606            0                 254          506            529
+
+Qwen2.5-7B-Instruct-4bit on the same 1,000 questions (48 tokens, results/qwen_ground/), for comparison:
+none         1000  985            1000              245          362            985
+tear_window  1000  983            1000              327          422            983
+hardwindow   1000  986            1000              285          410            986

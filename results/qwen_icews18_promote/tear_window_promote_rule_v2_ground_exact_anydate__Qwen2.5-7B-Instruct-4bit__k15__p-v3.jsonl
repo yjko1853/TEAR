@@ -1,0 +1,354 @@
+{"quid": "5005403", "prediction": "['2018-04-21']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005500", "prediction": "['2018-03-29']", "answers": ["2018-03-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005022", "prediction": "['2018-03-19']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005464", "prediction": "['2018-03-19']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005507", "prediction": "['2018-02-02']", "answers": ["2018-02-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005706", "prediction": "['2018-07-27']", "answers": ["2018-06-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005485", "prediction": "['2018-06-19']", "answers": ["2018-06-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005397", "prediction": "['2018-09-14']", "answers": ["2018-09-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005942", "prediction": "['2018-10-16']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005033", "prediction": "['2018-03-01', '2018-02-28', '2018-02-27']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005490", "prediction": "['2018-10-30']", "answers": ["2018-07-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005744", "prediction": "['2018-05']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005222", "prediction": "['2018-09-11']", "answers": ["2018-09-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005904", "prediction": "['2018-03-13']", "answers": ["2018-03-13"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005122", "prediction": "['2018-02-12']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005377", "prediction": "['2018-03-15']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005959", "prediction": "['2018-10-03', '2018-06-01']", "answers": ["2018-10-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005581", "prediction": "['Russia', '2018-02-14']", "answers": ["Russia"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity", "copied_from": "none"}
+{"quid": "5005514", "prediction": "['2018-07-04']", "answers": ["2018-07-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005527", "prediction": "['2018-10-09']", "answers": ["2018-10-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005619", "prediction": "['2018-08-03']", "answers": ["2018-08-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005815", "prediction": "['2018-03-15', '2018-07-27']", "answers": ["2018-03-15"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005413", "prediction": "['2018-07-31']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005742", "prediction": "['2018-10-30']", "answers": ["2018-10-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005050", "prediction": "['2018-04-23']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005450", "prediction": "['2018-05-31']", "answers": ["2018-02-20"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005467", "prediction": "['2018-02-08']", "answers": ["2018-02-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005614", "prediction": "['2018-04-02']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005571", "prediction": "['2018-06-05']", "answers": ["2018-06-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005691", "prediction": "['2018-03-09']", "answers": ["2018-03-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005611", "prediction": "['2018-09-07']", "answers": ["2018-09-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005359", "prediction": "['2018-01-25', '2018-02-01']", "answers": ["2018-01-25"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005765", "prediction": "['2018-06-18']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time", "copied_from": "none"}
+{"quid": "5005693", "prediction": "['2018-08-06']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005086", "prediction": "['2018-10-29']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005948", "prediction": "['2018-05-18', '2018-03-12']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005804", "prediction": "['2018-10-30']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005207", "prediction": "['2018-03-06']", "answers": ["2018-03-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005422", "prediction": "['2018-03-08', '2018-03-07']", "answers": ["2018-03-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005217", "prediction": "['2018-10-30']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005370", "prediction": "['2018-05-16']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005191", "prediction": "['2018-09-28']", "answers": ["2018-09-28"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005272", "prediction": "['2018-02-12']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005670", "prediction": "['2018-02-05']", "answers": ["2018-02-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005061", "prediction": "['2018-09']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005518", "prediction": "['2018-07-17']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005979", "prediction": "['2018-01-28']", "answers": ["2018-01-26"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005436", "prediction": "['2018-10-30']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005998", "prediction": "['2018-03-13']", "answers": ["2018-03-13"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005672", "prediction": "['2018-03-27']", "answers": ["2018-03-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005028", "prediction": "['2018-09-19']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005092", "prediction": "['2018-05-08']", "answers": ["2018-05-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005138", "prediction": "['2018-06-03']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005573", "prediction": "['2018-01-10']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005687", "prediction": "['2018-10-31']", "answers": ["2018-06-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005503", "prediction": "['2018-09-03']", "answers": ["2018-09-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005245", "prediction": "['2018-01-11']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005662", "prediction": "['2018-06']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005148", "prediction": "['2018-05-26']", "answers": ["2018-05-26"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005553", "prediction": "['2018-08-24']", "answers": ["2018-08-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005996", "prediction": "['2018-02-12']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005266", "prediction": "['2018-05']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005261", "prediction": "['2018-04-11']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005295", "prediction": "['2018-07-20', '2018-07-19']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005141", "prediction": "['2018-03']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005971", "prediction": "['2018-01-20']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005866", "prediction": "['2018-01-09']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005635", "prediction": "['2018-08-16']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005724", "prediction": "['2018-01-11']", "answers": ["2018-01-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005858", "prediction": "['2018-03-02']", "answers": ["2018-03-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005100", "prediction": "['2018-10-11']", "answers": ["2018-10-11"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005349", "prediction": "['China']", "answers": ["Pakistan"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005562", "prediction": "['2018-09-20']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005461", "prediction": "['2018-10-22']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005781", "prediction": "['2018-05-23']", "answers": ["2018-05-23"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005256", "prediction": "['2018-06-25']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005206", "prediction": "['2018-03-22']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005412", "prediction": "['2018-01-22']", "answers": ["2018-01-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005215", "prediction": "['2018-09-26']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005285", "prediction": "['2018-07-12']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005262", "prediction": "['2018-09-06']", "answers": ["2018-09-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005155", "prediction": "['2018-10-04']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005345", "prediction": "['2018-10-26']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005451", "prediction": "['2018-04-24']", "answers": ["2018-09-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005952", "prediction": "['2018-06-27']", "answers": ["2018-06-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005186", "prediction": "['2018-06']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005978", "prediction": "['2018-04-22']", "answers": ["2018-06-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005317", "prediction": "['2018-02-22']", "answers": ["2018-02-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005917", "prediction": "['2018-01-08']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005889", "prediction": "['2018-07-08']", "answers": ["2018-07-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005353", "prediction": "['2018-01-26']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005250", "prediction": "['2018-01-06']", "answers": ["2018-01-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005045", "prediction": "['2018-10-05', '2018-10-04']", "answers": ["2018-10-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005230", "prediction": "['2018-04']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005821", "prediction": "['2018-05-10']", "answers": ["2018-03-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005313", "prediction": "['2018-01-10', '2018-02-19']", "answers": ["2018-02-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005922", "prediction": "['2018-10-26']", "answers": ["2018-10-26"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005273", "prediction": "['2018-02-28']", "answers": ["2018-02-28"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005200", "prediction": "['2018-03-05', '2018-04-07']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005406", "prediction": "['2018-01-03']", "answers": ["2018-01-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005124", "prediction": "['2018-06-27', '2018-06-19']", "answers": ["2018-06-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005168", "prediction": "['2018-10-06']", "answers": ["2018-10-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005806", "prediction": "['2018-07-27']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005628", "prediction": "['2018-05-17']", "answers": ["2018-05-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005093", "prediction": "['2018-09-14']", "answers": ["2018-05-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005329", "prediction": "['2018-10-19']", "answers": ["2018-10-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005417", "prediction": "['2018-08-20']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005111", "prediction": "['2018-02']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005426", "prediction": "['2018-04-11', '2018-04-23']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005921", "prediction": "['2018-06-13']", "answers": ["2018-06-13"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005047", "prediction": "['2018-09-24']", "answers": ["2018-09-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005956", "prediction": "['2018-10-23', '2018-09-17']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005664", "prediction": "['2018-02']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005995", "prediction": "['2018-03-22']", "answers": ["2018-03-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005957", "prediction": "['Luiz Inacio Lula Da Silva', 'Solidarity', 'Geraldo Alckmin', '2018-07-27']", "answers": ["Governor (Brazil)"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005750", "prediction": "['2018-07-24']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005644", "prediction": "['2018-07-10']", "answers": ["2018-10-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005115", "prediction": "['2018-02-01']", "answers": ["2018-02-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005869", "prediction": "['2018-02-09']", "answers": ["2018-02-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005605", "prediction": "['2018-06-29']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005751", "prediction": "['2018-05-30']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005073", "prediction": "['2018-08-21', '2018-08-28']", "answers": ["2018-08-21"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005796", "prediction": "['2018-01-14']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005410", "prediction": "['2018-01-10']", "answers": ["2018-01-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005516", "prediction": "['2018-08-06']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005153", "prediction": "['2018-10-26', '2018-10-23', '2018-07-23']", "answers": ["2018-10-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005592", "prediction": "['2018-10-11']", "answers": ["2018-08-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005154", "prediction": "['2018-03-18', '2018-03-16']", "answers": ["2018-03-18"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005726", "prediction": "['2018-09-06']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005894", "prediction": "['2018-06']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005632", "prediction": "['2018-03-14']", "answers": ["2018-03-14"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005242", "prediction": "['2018-01-09']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005064", "prediction": "['2018-05-05']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005541", "prediction": "['Turkey', '2018-07-12']", "answers": ["Citizen (Greece)"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005682", "prediction": "['2018-05-25']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005279", "prediction": "['2018-02-08', '2018-02-07']", "answers": ["2018-02-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005599", "prediction": "['2018-08-24']", "answers": ["2018-08-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005193", "prediction": "['2018-03-26']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005361", "prediction": "['2018-10-16']", "answers": ["2018-10-16"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005660", "prediction": "['2018-07-23']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005012", "prediction": "['2018-02-23']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005701", "prediction": "['2018-03-19']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005404", "prediction": "['2018-07-30']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005962", "prediction": "['2018-07-30']", "answers": ["2018-08-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005179", "prediction": "['2018-10-16']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005881", "prediction": "['2018-06-01', '2018-07-01', '2018-07-03']", "answers": ["2018-07-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005236", "prediction": "['2018-06-27']", "answers": ["2018-06-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005943", "prediction": "['2018-07-02']", "answers": ["2018-01-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005788", "prediction": "['2018-01-19']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005538", "prediction": "['2018-10-24']", "answers": ["2018-10-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005851", "prediction": "['2018-10-16']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005596", "prediction": "['2018-03-12', '2018-09-25']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005130", "prediction": "['2018-05-11']", "answers": ["2018-05-11"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005723", "prediction": "['2018-03-23', '2018-01-05']", "answers": ["2018-03-23"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005802", "prediction": "['2018-05-08']", "answers": ["2018-05-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005056", "prediction": "['2018-03-20']", "answers": ["2018-03-20"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005883", "prediction": "['2018-07-24']", "answers": ["2018-06-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005702", "prediction": "['2018-05-10']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005248", "prediction": "['2018-01-15', '2018-01-12', '2018-01-11']", "answers": ["2018-01-15"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005818", "prediction": "['2018-07-30', '2018-07-09', '2018-07-02', '2018-06-25']", "answers": ["2018-07-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005835", "prediction": "['2018-06-09']", "answers": ["2018-10-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005595", "prediction": "['2018-06-04']", "answers": ["2018-06-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005575", "prediction": "['2018-08']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005129", "prediction": "['2018-10-18']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005969", "prediction": "['2018-01-31']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005099", "prediction": "['2018-08-02']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005895", "prediction": "['2018-06-20']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005624", "prediction": "['2018-07-26']", "answers": ["2018-07-26"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005241", "prediction": "['2018-06-06']", "answers": ["2018-06-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005535", "prediction": "['2018-03-07']", "answers": ["2018-03-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005455", "prediction": "['Scott Morrison', '2018-09-01']", "answers": ["Head of Government (Australia)"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005021", "prediction": "['2018-02-23']", "answers": ["2018-02-23"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005257", "prediction": "['2018-04-17']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005251", "prediction": "['2018-10-19']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005042", "prediction": "['2018-01-12']", "answers": ["2018-01-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005060", "prediction": "['2018-06-07']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005499", "prediction": "['2018-03-01']", "answers": ["2018-03-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005090", "prediction": "['2018-09-20']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005741", "prediction": "['2018-01-21']", "answers": ["2018-01-21"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005269", "prediction": "['2018-04-17']", "answers": ["2018-04-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005610", "prediction": "['2018-01-09']", "answers": ["2018-01-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005887", "prediction": "['2018-07-24']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005117", "prediction": "['2018-05-08']", "answers": ["2018-10-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005277", "prediction": "['2018-07-11']", "answers": ["2018-07-11"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005638", "prediction": "['2018-01-02']", "answers": ["2018-01-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005524", "prediction": "['2018-10-04', '2018-02-07']", "answers": ["2018-10-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005229", "prediction": "['2018-08-01']", "answers": ["2018-08-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005934", "prediction": "['2018-10-09']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005932", "prediction": "['2018-03-15']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005591", "prediction": "['China', 'United States', 'United States', 'United States', 'United States']", "answers": ["China"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005298", "prediction": "['2018-06-20']", "answers": ["2018-06-20"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005840", "prediction": "['2018-05-26']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005810", "prediction": "['2018-09-10']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005458", "prediction": "['2018-07']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005107", "prediction": "['2018-01-21']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005793", "prediction": "['']", "answers": ["2018-03-15"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005356", "prediction": "['2018-10-26']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005166", "prediction": "['Florence Parly', '2018-01-01']", "answers": ["Florence Parly"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005775", "prediction": "['2018-02-03']", "answers": ["2018-02-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005110", "prediction": "['2018-01-24', '2018-01-30']", "answers": ["2018-01-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005811", "prediction": "['2018-08-21']", "answers": ["2018-08-21"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005365", "prediction": "['2018-10-28']", "answers": ["2018-08-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005910", "prediction": "['2018-05-17']", "answers": ["2018-05-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005958", "prediction": "['2018-07-24']", "answers": ["2018-07-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005513", "prediction": "['Kim Jong-Un', '2018-09-19']", "answers": ["Kim Jong-Un"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005231", "prediction": "['2018-05-29']", "answers": ["2018-05-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005928", "prediction": "['2018-09-10']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005259", "prediction": "['2018-05-18']", "answers": ["2018-05-18"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005496", "prediction": "['2018-06-06', '2018-05-30']", "answers": ["2018-04-16"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005648", "prediction": "['2018-04-19']", "answers": ["2018-04-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005730", "prediction": "['2018-03-22']", "answers": ["2018-03-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005931", "prediction": "['2018-03-16', '2018-03-15']", "answers": ["2018-03-16"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005036", "prediction": "['2018-09-27']", "answers": ["Mindanao"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005903", "prediction": "['2018-08-30']", "answers": ["2018-08-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005095", "prediction": "['2018-05-05']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005183", "prediction": "['2018-09-22']", "answers": ["2018-09-22"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005990", "prediction": "['2018-05-03']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005873", "prediction": "['2018-03-09']", "answers": ["2018-03-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005466", "prediction": "['2018-03-18']", "answers": ["2018-03-18"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005068", "prediction": "['2018-08']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005407", "prediction": "['2018-09-14']", "answers": ["2018-09-14"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005448", "prediction": "['2018-06-14']", "answers": ["2018-06-14"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005722", "prediction": "['2018-01-24', '2018-01-25']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005004", "prediction": "['2018-05-21']", "answers": ["2018-03-26"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005075", "prediction": "['2018-02-28']", "answers": ["2018-02-28"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005018", "prediction": "['2018-03']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005677", "prediction": "['2018-10']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005116", "prediction": "[]", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005296", "prediction": "['2018-03-16']", "answers": ["2018-03-16"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005577", "prediction": "['2018-05-02']", "answers": ["2018-05-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005145", "prediction": "['2018-04-16']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005082", "prediction": "['2018-03-01']", "answers": ["2018-03-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005263", "prediction": "['2018-05-31']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005736", "prediction": "['2018-04-25']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005195", "prediction": "['2018-10-03', '2018-10-02']", "answers": ["2018-10-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005501", "prediction": "['2018-02-14']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005783", "prediction": "['2018-09-19', '2018-07-09']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005961", "prediction": "['2018-01-26']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005897", "prediction": "['2018-08-05']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005867", "prediction": "[]", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005305", "prediction": "['2018-10-04']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005890", "prediction": "['2018-06-18']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005342", "prediction": "['2018-08-20']", "answers": ["2018-08-20"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005973", "prediction": "['Police (India)']", "answers": ["Police (India)"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005387", "prediction": "['2018-02-16']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005603", "prediction": "['2018-07-10']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005548", "prediction": "['2018-08-29']", "answers": ["2018-08-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005328", "prediction": "['2018-10-03']", "answers": ["2018-10-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005963", "prediction": "['2018-01']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005879", "prediction": "['2018-02-13', '2018-02-14']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005234", "prediction": "['2018-09']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005216", "prediction": "['2018-09-28']", "answers": ["2018-09-28"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005634", "prediction": "['2018-04-30']", "answers": ["2018-04-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005025", "prediction": "['2018-07-09']", "answers": ["2018-07-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005689", "prediction": "['2018-10-31']", "answers": ["Armed Gang (Philippines)"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005509", "prediction": "['2018-10-01']", "answers": ["2018-10-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005322", "prediction": "['2018-03-09']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005616", "prediction": "['2018-05']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005375", "prediction": "['2018-10']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005633", "prediction": "['2018-02-10']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005594", "prediction": "['2018-01-29', '2018-01-26']", "answers": ["2018-01-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005384", "prediction": "['2018-02-01']", "answers": ["2018-02-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005352", "prediction": "['2018-01-14']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005364", "prediction": "['2018-09-06']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005528", "prediction": "['2018-07-31']", "answers": ["2018-07-31"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005396", "prediction": "['2018-02-19', '2018-02-17']", "answers": ["2018-02-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005286", "prediction": "['2018-06']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005549", "prediction": "['2018-04-04']", "answers": ["2018-04-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005909", "prediction": "['2018-10-19']", "answers": ["2018-10-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005221", "prediction": "['2018-01-29']", "answers": ["2018-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005019", "prediction": "['2018-09-05']", "answers": ["2018-09-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005405", "prediction": "[]", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005288", "prediction": "['2018-02-22']", "answers": ["2018-04-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005651", "prediction": "['2018-06']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005805", "prediction": "['2018-10-22']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005864", "prediction": "['2018-06-19']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005763", "prediction": "['Israel']", "answers": ["Israel"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005939", "prediction": "['2018-02-05']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005830", "prediction": "['2018-06-12']", "answers": ["2018-06-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005690", "prediction": "['2018-02-22']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005182", "prediction": "['2018-07-08']", "answers": ["2018-07-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005348", "prediction": "['2018-09']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005729", "prediction": "['2018-01-26', '2018-02-02']", "answers": ["2018-01-26"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005907", "prediction": "['2018-02']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005716", "prediction": "['2018-06-11']", "answers": ["2018-06-11"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005645", "prediction": "['2018-03-06']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005989", "prediction": "['United States']", "answers": ["Pauline Hanson"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005797", "prediction": "['2018-09-12']", "answers": ["2018-09-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005083", "prediction": "['2018-06-07']", "answers": ["2018-06-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005192", "prediction": "['2018-06']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005982", "prediction": "['2018-10-01', 'Ri Yong-ho']", "answers": ["Kim Jong-Un"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005900", "prediction": "['2018-06-29', '2018-06-14', '2018-06-28', '2018-06-25',", "answers": ["2018-04-15"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005795", "prediction": "['2018-07-27']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005930", "prediction": "['2018-04-27']", "answers": ["2018-04-27"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005727", "prediction": "['2018-02-07', '2018-09-18']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005861", "prediction": "['United Nations']", "answers": ["Dmitry Anatolyevich Medvedev"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005972", "prediction": "['2018-10-25']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005394", "prediction": "['2018-10-07', '2018-10-18']", "answers": ["2018-10-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005798", "prediction": "['2018-06-17']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005941", "prediction": "['Governor (India)']", "answers": ["Bharatiya Janata"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005946", "prediction": "['2018-10-29', '2018-08-24', '2018-08-14', '2018-07-27',", "answers": ["2018-10-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005780", "prediction": "['2018-10-25']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005643", "prediction": "['2018-04-19']", "answers": ["2018-04-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005170", "prediction": "['2018-05-08']", "answers": ["2018-10-20"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005762", "prediction": "['2018-03-16']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005842", "prediction": "['2018-03-12']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005884", "prediction": "['2018-05']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005613", "prediction": "['2018-03-25']", "answers": ["2018-03-25"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005136", "prediction": "['2018-09-29']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005641", "prediction": "['2018-02-23']", "answers": ["2018-03-01"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005698", "prediction": "['2018-02-23']", "answers": ["2018-02-23"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005560", "prediction": "['2018-10-31']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005037", "prediction": "['China', '2018-01-31']", "answers": ["Governor (Mongolia)"], "qtype": "first_last", "qlabel": "Single", "answer_type": "entity"}
+{"quid": "5005481", "prediction": "['2018-05-24']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005877", "prediction": "['2018-07-10']", "answers": ["2018-07-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005209", "prediction": "['2018-05-30']", "answers": ["2018-05-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005955", "prediction": "['2018-07-08']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005449", "prediction": "['2018-01-18']", "answers": ["2018-02-19"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005812", "prediction": "['2018-01-17']", "answers": ["2018-01-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005846", "prediction": "['2018-03-29']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005131", "prediction": "['2018-07-05']", "answers": ["2018-07-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005521", "prediction": "['2018-10-16']", "answers": ["2018-10-16"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005118", "prediction": "['2018-08-05']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005991", "prediction": "['2018-06-29']", "answers": ["2018-06-29"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005578", "prediction": "['2018-04-16']", "answers": ["2018-08-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005547", "prediction": "['2018-10-10']", "answers": ["2018-10-12"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005530", "prediction": "['2018-06-12']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005376", "prediction": "['2018-09-30']", "answers": ["2018-09-30"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005300", "prediction": "['2018-06']", "answers": ["2018-06"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005487", "prediction": "['2018-01-24']", "answers": ["2018-01-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005964", "prediction": "['2018-06']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005020", "prediction": "['2018-09-24']", "answers": ["2018-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005685", "prediction": "[]", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005146", "prediction": "['2018-10-31']", "answers": ["2018-10-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005439", "prediction": "['2018-03-23']", "answers": ["2018-10-09"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005158", "prediction": "['2018-01-11']", "answers": ["2018-01-11"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005123", "prediction": "['2018-03']", "answers": ["2018-03"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005915", "prediction": "['2018-01-04', '2018-01-17']", "answers": ["2018-01-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005006", "prediction": "['2018-08']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005666", "prediction": "['2018-04']", "answers": ["2018-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005885", "prediction": "['2018-06-28']", "answers": ["2018-03-16"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005743", "prediction": "['2018-07-31']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005832", "prediction": "['2018-03-10']", "answers": ["2018-03-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005871", "prediction": "[]", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005640", "prediction": "['2018-03-16']", "answers": ["2018-08"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005844", "prediction": "['2018-06-17']", "answers": ["2018-06-17"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005927", "prediction": "['2018-09-28']", "answers": ["2018-09-28"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005899", "prediction": "['2018-04-04']", "answers": ["2018-04-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005336", "prediction": "['2018-09']", "answers": ["2018-05"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005151", "prediction": "['2018-07']", "answers": ["2018-07"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005953", "prediction": "['2018-02-02', '2018-04-23']", "answers": ["2018-02"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005785", "prediction": "['2018-03-31']", "answers": ["2018-05-24"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005498", "prediction": "['2018-03-04']", "answers": ["2018-03-04"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}
+{"quid": "5005178", "prediction": "['2018-04-20']", "answers": ["2018-10"], "qtype": "first_last", "qlabel": "Single", "answer_type": "time"}

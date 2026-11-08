@@ -29,6 +29,7 @@ def main():
     ap.add_argument("--rerank_dir", default=None, help="input top-k arrays (default cache/<ds>/rerank)")
     ap.add_argument("--results_dir", default=None, help="output directory (default results/)")
     ap.add_argument("--baseline", default=None, help="e.g. none: also write paired significance vs this reranker")
+    ap.add_argument("--rerankers", default=None, help="comma-separated list (default: the standard list)")
     args = ap.parse_args()
     ensure_dirs()
     ds = args.dataset
@@ -42,7 +43,7 @@ def main():
     qby = {str(q["quid"]): q for q in qs}
     facts = np.load(d / "facts.npz"); voc = load_json(d / "vocab.json")
     rows = []
-    for rk in RERANKERS:
+    for rk in (args.rerankers.split(",") if args.rerankers else RERANKERS):
         p = rerank_dir / f"{rk}_{args.tag}_top30_ids.npy"
         if not p.exists():
             print("missing", p); continue
